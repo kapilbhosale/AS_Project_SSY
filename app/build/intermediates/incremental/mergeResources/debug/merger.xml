@@ -1,0 +1,3433 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="21.0.0-rc1" >
+        <source path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0-rc1/res" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res" >
+            <file
+                name="hyperspace_jump"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/anim/hyperspace_jump.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="biography_banner"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable/biography_banner.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="footer_banner"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable/footer_banner.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="grid_item_bg"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable/grid_item_bg.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="head_banner"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable/head_banner.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_1"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable/ic_1.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_10"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable/ic_10.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_11"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable/ic_11.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_2"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable/ic_2.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_3"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable/ic_3.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_4"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable/ic_4.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_5"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable/ic_5.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_6"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable/ic_6.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_7"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable/ic_7.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_8"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable/ic_8.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_9"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable/ic_9.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="intro_pic"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable/intro_pic.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="language_btn_bg"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable/language_btn_bg.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="language_btn_bg_selected"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable/language_btn_bg_selected.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="office_address"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable/office_address.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="party_banner"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable/party_banner.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="partylogo"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable/partylogo.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="residence_address"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable/residence_address.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="backbutton_idle"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-hdpi/backbutton_idle.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="facebook_icon"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-hdpi/facebook_icon.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="google_icon"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-hdpi/google_icon.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_1"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-hdpi/ic_1.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_10"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-hdpi/ic_10.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_11"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-hdpi/ic_11.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_2"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-hdpi/ic_2.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_3"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-hdpi/ic_3.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_4"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-hdpi/ic_4.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_5"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-hdpi/ic_5.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_6"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-hdpi/ic_6.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_7"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-hdpi/ic_7.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_8"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-hdpi/ic_8.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_9"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-hdpi/ic_9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="img_tile"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-hdpi/img_tile.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="navbar"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-hdpi/navbar.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="share_icon"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-hdpi/share_icon.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="twitter_icon"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-hdpi/twitter_icon.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_10"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-ldpi/ic_10.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="ic_11"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-ldpi/ic_11.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-ldpi/ic_launcher.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="facebook_icon"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-mdpi/facebook_icon.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="google_icon"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-mdpi/google_icon.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_1"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-mdpi/ic_1.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_10"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-mdpi/ic_10.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_11"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-mdpi/ic_11.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_2"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-mdpi/ic_2.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_3"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-mdpi/ic_3.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_4"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-mdpi/ic_4.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_5"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-mdpi/ic_5.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_6"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-mdpi/ic_6.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_7"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-mdpi/ic_7.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_8"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-mdpi/ic_8.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_9"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-mdpi/ic_9.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="twitter_icon"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-mdpi/twitter_icon.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="facebook_icon"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-xhdpi/facebook_icon.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="google_icon"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-xhdpi/google_icon.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_1"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-xhdpi/ic_1.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_10"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-xhdpi/ic_10.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_11"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-xhdpi/ic_11.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_2"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-xhdpi/ic_2.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_3"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-xhdpi/ic_3.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_4"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-xhdpi/ic_4.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_5"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-xhdpi/ic_5.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_6"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-xhdpi/ic_6.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_7"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-xhdpi/ic_7.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_8"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-xhdpi/ic_8.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_9"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-xhdpi/ic_9.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="twitter_icon"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-xhdpi/twitter_icon.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="facebook_icon"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-xxhdpi/facebook_icon.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="google_icon"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-xxhdpi/google_icon.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_1"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-xxhdpi/ic_1.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_10"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-xxhdpi/ic_10.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_11"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-xxhdpi/ic_11.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_2"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-xxhdpi/ic_2.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_3"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-xxhdpi/ic_3.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_4"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-xxhdpi/ic_4.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_5"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-xxhdpi/ic_5.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_6"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-xxhdpi/ic_6.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_7"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-xxhdpi/ic_7.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_8"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-xxhdpi/ic_8.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_9"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-xxhdpi/ic_9.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="twitter_icon"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable-xxhdpi/twitter_icon.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="activity_biography"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/layout/activity_biography.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_contact"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/layout/activity_contact.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_department"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/layout/activity_department.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_event_detail"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/layout/activity_event_detail.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_events"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/layout/activity_events.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_launcher_image"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/layout/activity_launcher_image.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_main"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/layout/activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_media"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/layout/activity_media.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_photo_gallary"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/layout/activity_photo_gallary.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_political_career"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/layout/activity_political_career.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_samajwadi_party"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/layout/activity_samajwadi_party.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_social_media"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/layout/activity_social_media.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_video_gallary"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/layout/activity_video_gallary.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_vidhan_sabha"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/layout/activity_vidhan_sabha.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_web_view"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/layout/activity_web_view.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="custom_dialog"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/layout/custom_dialog.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="customcellview"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/layout/customcellview.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="departmentcellview"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/layout/departmentcellview.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="header_home"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/layout/header_home.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="menu_grid_button"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/layout/menu_grid_button.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="social_fragment"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/layout/social_fragment.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="social_grid_button"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/layout/social_grid_button.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="vidhan_sabha_cellview"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/layout/vidhan_sabha_cellview.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="biography"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/menu/biography.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="contact"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/menu/contact.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="department"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/menu/department.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="event_detail"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/menu/event_detail.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="events"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/menu/events.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="launcher_image"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/menu/launcher_image.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="main"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/menu/main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="media"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/menu/media.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="photo_gallary"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/menu/photo_gallary.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="political_career"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/menu/political_career.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="samajwadi_party"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/menu/samajwadi_party.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="social_media"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/menu/social_media.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="video_gallary"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/menu/video_gallary.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="vidhan_sabha"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/menu/vidhan_sabha.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="web_view"
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/menu/web_view.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="title_activity_launcher_image" >Shivpal Singh Yadav
+                </string>
+                <string name="Waste_Land_Development" >Waste Land Development
+                </string>
+                <string name="title_activity_video_gallary" >Video Gallary
+                </string>
+                <string name="Co_operative" >Co-operative
+                </string>
+                <string name="About_Info" >Samajwadi Party came into existence on October 4, 1992 in Lucknow under the leadership of Shri Mulayam Singh Yadav.
+                </string>
+                <string name="Family" >Educational Qualification:
+                </string>
+                <string name="title_activity_photo_gallary" >Photo Gallary
+                </string>
+                <string name="title_activity_events" >Events
+                </string>
+                <string name="Description_Info" >The Samajwadi Party believes in creating a socialist society, which works on the principle of equality and the party has a secular and democratic outlook. The Samajwadi Party believes in continuously working towards the upliftment of weaker sections of society and it stands against communal forces.\n\n
+
+Freedom fighter, socialist and a great Parliamentarian, Ram Manohar Lohia is a guiding light for the Samajwadi Party. Ram Manohar Lohia’s integrity, selfless struggle for India’s independence and his ability to unite people of all sections of society has greatly influenced the leaders, youth and workers in the party. Lohia was jailed by the British several times during the freedom struggle and he fought rigorously all his life for social equality.\n\n
+
+Mahatma Gandhi’s ideas greatly influenced Lohia who worked tirelessly during the freedom movement writing articles against the British, raising awareness against British imperialism in Europe, and after India became independent devoted himself to grassroots politics which included farmers cause, development work and fighting against social injustice. He also worked towards putting an end to capitalist-feudalistic tendencies.\n\n
+
+Lohia’s ability to awaken the people with his fiery articles on Satyagraha and his innate knowledge of social problems made him the foremost socialist leader of India. Lohia’s ‘Do or Die’ spirit is an inspiration and a guiding force for the Samajwadi Party in its struggle for social upliftment of the poor, backward and socially weaker sections of society.
+                </string>
+                <string name="PARTY_WEBSITE_TITLE" >Website:
+                </string>
+                <string name="title_activity_department" >Departments
+                </string>
+                <string name="IN_MEDIA_URL" >http://dummy-class.herokuapp.com/media
+                </string>
+                <string name="OFFICE_ADDRESS" >Room No -99/100,\nVidhan Bhawan,\nLucknow.\nPIN: 226001\nPhone: 0522-2238088\n\t\t\t\t\t0522-2213272
+                </string>
+                <string name="Irrigation_Mechanical" >Irrigation (Mechanical)
+                </string>
+                <string name="OFFICE_TITLE" >Office Address:
+                </string>
+                <string name="title_activity_contact" >Contact
+                </string>
+                <string name="GOOGLE_PLUS_TITLE" >Google Plus
+                </string>
+                <string name="Revenue" >Revenue
+                </string>
+                <string name="FACEBOOK_TITLE" >Facebook
+                </string>
+                <string name="Education_Info" >\t\tSon of Mr.Sughar Singh and Mrs.Murti Devi was born on basant panchami in 1955 in Etawah, Uttar Pradesh. His mother, was a perfect home maker. At a young age, Shivpal’s elder brother, who was a nationalist, introduced him to Uttar Pradesh political movement through various rallies and protest assemblies.\n\t\tThe turning point in his life came when his elder brother, an impassioned follower of RAM MANOHAR LOHIA, took him along on a meeting. Deeply inspired by lohia’s personality and beliefs, Shivpal ji took his values and principles to heart which helped him come through the testing times and supported him in many of his endeavors in future. At a very young age, he participated in the meetings and rallies and proved both, his loyalty to Mulayam Singh Yadav’s and his metal as a significant pro-lohia ideology fighter in the time to come.
+                </string>
+                <string name="Vidhan_Sabha_Booth_Num" >Booth No.
+                </string>
+                <string name="Sodic_Ravine_Land_development" >Sodic And Ravine Land development
+                </string>
+                <string name="Irrigation" >Irrigation
+                </string>
+                <string name="FAMILY_STATUS_INFO" >\t\tShivpal ji married Mrs. Sarla Yadav on the 23rd may 1981. They are blessed with two children Dr.Anubha Yadav who is a medical practitioner by profession working for the upliftment of the masses and Mr. Aditya Yadav symbolizes the youth of today; and his versatility in multiple genres is what has lead him to accomplish the various path breaking noble causes at such a young age. He is an elected chairman of the Uttar Pradesh cooperative Federation.
+                </string>
+                <string name="VIDHAN_BHAVAN" >Constituency
+                </string>
+                <string name="TWITTER_TITLE" >Twitter
+                </string>
+                <string name="NETWORK_ERROR" >The requested operation failed, please check your internet connection or network signal strength.
+                </string>
+                <string name="PERSONAL_WEBSITE_URL" >http://shivpalsinghyadav.com/
+                </string>
+                <string name="RESIDENCE_TITLE" >Residence Address:
+                </string>
+                <string name="title_activity_event_detail" >EventDetailActivity
+                </string>
+                <string name="Education" >Early Life:
+                </string>
+                <string name="Birth_Info" >\t\tAn honored human being, a maverick socialist and an esteemed political leader are phrases that have long been and still are synonymous to Shivpal Singh Yadav. Having been born in the post-independence era to a nationalist and farmer at-heart father, it didn’t take him long before he entered the political movement and with Mr. Mulayam Singh Yadav as his mentor, he never shied away from the truth and worked his way wonderfully through India’s political struggle to post-independence social and economic issues with an unsaid enthusiasm and dedication.
+                </string>
+                <string name="About" >About:
+                </string>
+                <string name="action_settings" >Settings
+                </string>
+                <string name="LANGUAGE_ENGLISH_STRING" >English
+                </string>
+                <string name="Disaster_Rehabilitation" >Disaster And Rehabilitation
+                </string>
+                <string name="Land_Development_Water_Resources" >Land Development And Water Resources
+                </string>
+                <string name="Family_Info" >\t\tIn 1974 he attended the Jain Inter College, Karhal Mainpuri (UP) to complete his intermediate course work after standing first class in his school’s matric examinations. He, then completed his graduation in from K.K.Degree College, Etawah (Kanpur University) in 1976 and went to Lucknow University to pursue his bachelor of physical education and completed it in 1977.
+                </string>
+                <string name="Political_Career_Info" >\t\tBeing a multi-talented political personality, Mr.Shivpal Singh Yadav has served as a member of the Uttar Pradesh legislative for almost 20 years. From this politician’s journey, it can be seen that he is one of the most respectable and admirable people in India. He has been a participant in a number of social activities and has served as a member of various reputed councils and organizations. Along with political activity, he is also a writer and a brilliant orator. He has maintained a clean image among the public, who consider him as a national leader, highly knowledgeable on democracy, religion and liberal views.\n\n\t\tIn 1988 he was elected as the president of the district Sehkari bank and successfully completed his tenure in 1991. In 1995 he took over as the president of district panchayat. He contested election in the 13th vidhan sabha from Jaswant Nagar and won by huge margins and was appointed as general secretary of the samjwadi party in Uttar Pradseh. In the year 2009 when the then state president passed away shivapal ji was appointed the president of the Uttar Pradesh sawajwadi party unit and followed the lines set by his mentor and party president Mr.Mulayam Singh Yadav. On seeing his dedication and love for the party he was appointed as the leader of the opposition.\n\n\t\tHe proved his mettle on all the fronts which were given to him with great spirit and enthusiasm .As leader of the opposition he fought on issues related to poverty,women empowerment, upliftment of the down trodden.In 2012 when samajwadi party took the reins of Uttar Pardesh in full majority he was appointed  cabinet minister for departments like irrigation and PWD. He is also a key member of the government for handling all issues related to state and party welfare. His far sited vision and the role to eradicate poverty from the state has earned him respect among collogues and bureaucrats. Though he is a strict task master but is also known for his gentle and humble nature.\n\n\t\tThe word samajwadi will always sound incomplete without the mention of his name.
+                </string>
+                <string name="LANGUAGE_HINDI_STRING" >हिंदी
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+                <string name="GET_EVENTS_DATA_URL" >https://dummy-class.herokuapp.com/events_list_trial
+                </string>
+                <string name="Decription" >Description:
+                </string>
+                <string name="Uttar_Pradesh_Cooperative_Federation_Limited" >Uttar Pradesh Cooperative Federation Limited
+                </string>
+                <string name="Flood_Control" >Flood Control
+                </string>
+                <string name="title_activity_media" >In Media
+                </string>
+                <string name="title_activity_vidhan_sabha" >Constituency
+                </string>
+                <string name="FAMILY_STATUS" >Family Status:
+                </string>
+                <string name="title_activity_web_view" >Social Media
+                </string>
+                <string name="PARTY_WEBSITE_URL" >http://www.samajwadiparty.in/
+                </string>
+                <string name="RESIDENCE_ADDRESS" >7, Kalidas Marg,\nHazratganj,\nLucknow.\nPIN: 226001\nPhone: 0522-2239994\n\t\t\t\t\t0522-2235567
+                </string>
+                <string name="Vidhan_Sabha_Area" >Jaswant Nagar (199)
+                </string>
+
+                <string-array name="VidhanSabhaPartNames" >
+                    <item>
+PRIMARY SCHOOL MAHAMAI
+                    </item>
+                    <item>
+PRIMARY SCHOOL NAGARI
+                    </item>
+                    <item>
+PRIMARY SCHOOL JONAI
+                    </item>
+                    <item>
+PRIMARY SCHOOL DHOLPUR
+                    </item>
+                    <item>
+PRIMARY SCHOOL NAGLA KHERA
+                    </item>
+                    <item>
+PRIMARY SCHOOL DHARWAR ROOM-1
+                    </item>
+                    <item>
+PRIMARY SCHOOL DHARWAR ROOM-2
+                    </item>
+                    <item>
+JUNIOR HIGH SCHOOL DHARWAR NORTH
+                    </item>
+                    <item>
+JUNIOR HIGH SCHOOL DHARWAR SOUTH
+                    </item>
+                    <item>
+PRIMARY SCHOOL KURAKHAR
+                    </item>
+                    <item>
+PRIMARY SCHOOL FULRAI
+                    </item>
+                    <item>
+PRIMARY SCHOOL MEERAKHPUR PUTIYA
+                    </item>
+                    <item>
+PRIMARY SCHOOL NAGLA JULA
+                    </item>
+                    <item>
+PRIMARY SCHOOL AALAI
+                    </item>
+                    <item>
+PRIMARY SCHOOL MADANPURA
+                    </item>
+                    <item>
+PRIMARY SCHOOL GHANSHYAMPURA
+                    </item>
+                    <item>
+PRIMARY SCHOOL NAGLA DAYALPURA
+                    </item>
+                    <item>
+DR. RAM MANOHAR LOHIA INTER COLLEGE DHANUA
+                    </item>
+                    <item>
+PRIMARY SCHOOL NAGLA JAGAN
+                    </item>
+                    <item>
+PRIMARY SCHOOL NAGLA LAYAK
+                    </item>
+                    <item>
+PRIMARY SCHOOL NAGLA FHATEHPURA
+                    </item>
+                    <item>
+PRIMARY SCHOOL BIYARI BHATPURA WEST
+                    </item>
+                    <item>
+PRIMARY SCHOOL BIYARI BHATPURA EAST
+                    </item>
+                    <item>
+PRIMARY SCHOOL BHUJPURA BIBAMAU
+                    </item>
+                    <item>
+PRIMARY SCHOOL KAKRAI
+                    </item>
+                    <item>
+PRIMARY SCHOOL DARSHANPUR
+                    </item>
+                    <item>
+PRIMARY SCHOOL KHERA BUJURG NORTH
+                    </item>
+                    <item>
+PRIMARY SCHOOL KHERA BUJURG SOUTH
+                    </item>
+                    <item>
+PRIMARY SCHOOL TULARAMPUR
+                    </item>
+                    <item>
+PRIMARY SCHOOL BHAGWANPURA
+                    </item>
+                    <item>
+PRIMARY SCHOOL NAGLA KEHRI
+                    </item>
+                    <item>
+PRIMARY SCHOOL KURSENA ROOM-1
+                    </item>
+                    <item>
+PRIMARY SCHOOL KURSENA ROOM-2
+                    </item>
+                    <item>
+PRIMARY SCHOOL HANUMANT KHERA
+                    </item>
+                    <item>
+PRIMARY SCHOOL GARI JALIM
+                    </item>
+                    <item>
+PRIMARY SCHOOL RUKANPURA
+                    </item>
+                    <item>
+PANCHAYATGHAR KANCHANIA
+                    </item>
+                    <item>
+PRIMARY SCHOOL NAGLA SUGANDH NAGER
+                    </item>
+                    <item>
+PRIMARY SCHOOL AJNORA
+                    </item>
+                    <item>
+SAMUDAIK KENDRA PATHAKPURA
+                    </item>
+                    <item>
+PRIMARY SCHOOL CHANDANPUR BIBAMAU
+                    </item>
+                    <item>
+PRIMARY SCHOOL SHAHJAHANPUR
+                    </item>
+                    <item>
+PRIMARY SCHOOL LARKHOR
+                    </item>
+                    <item>
+PRIMARY SCHOOL MOHANPURA (LARHHAUR)
+                    </item>
+                    <item>
+PRIMARY SCHOOL KHUSHALPURA (LARHHAUR)
+                    </item>
+                    <item>
+PRIMARY SCHOOL BHAUPURA
+                    </item>
+                    <item>
+PRIMARY SCHOOL NAGLA SUBHAN
+                    </item>
+                    <item>
+ZILA PANCHAYAT INTER COLLEGE HEONRA
+                    </item>
+                    <item>
+PRIMARY SCHOOL HENORA NEW BUILDING
+                    </item>
+                    <item>
+PRIMARY SCHOOL NAGLA ANIYA
+                    </item>
+                    <item>
+PRIMARY SCHOOL BANAMAI
+                    </item>
+                    <item>
+PRIMARY SCHOOL BHAISAN
+                    </item>
+                    <item>
+PRIMARY SCHOOL PARSAOUA
+                    </item>
+                    <item>
+PRIMARY SCHOOL ALAMPUR NARIA
+                    </item>
+                    <item>
+PRIMARY SCHOOL BHAWALPUR
+                    </item>
+                    <item>
+PRIMARY SCHOOL NILOI EAST
+                    </item>
+                    <item>
+PRIMARY SCHOOL NILOI WEST
+                    </item>
+                    <item>
+PRIMARY SCHOOL NAGLA RATHORE
+                    </item>
+                    <item>
+PRIMARY SCHOOL PRATAPPURA
+                    </item>
+                    <item>
+PRIMARY SCHOOL MAHLAI ROOM-1
+                    </item>
+                    <item>
+PRIMARY SCHOOL MAHLAI ROOM-2
+                    </item>
+                    <item>
+JODHASINGH INTER COLLEGE HARKOOPUR
+                    </item>
+                    <item>
+SHRI MULAYAM SINGH YADAV INTER COLLEGE RAINAGER
+                    </item>
+                    <item>
+PRIMARY SCHOOL NAGLA HARE
+                    </item>
+                    <item>
+PRIMARY SCHOOL KELOKHAR
+                    </item>
+                    <item>
+PRIMARY SCHOOL NAGLA SEWARAM
+                    </item>
+                    <item>
+PRIMARY SCHOOL KUNJPUR
+                    </item>
+                    <item>
+PRIMARY SCHOOL JARIKHERA
+                    </item>
+                    <item>
+PRIMARY SCHOOL MUHABATPUR NAGLA BHAGAT
+                    </item>
+                    <item>
+KANYA PRIMARY SCHOOL KEST
+                    </item>
+                    <item>
+PRIMARY SCHOOL KEST
+                    </item>
+                    <item>
+PRIMARY SCHOOL NAGLA INCHA
+                    </item>
+                    <item>
+PRIMARY SCHOOL DURGAPURA (LUDHPURA)
+                    </item>
+                    <item>
+KANYA UCCHATAR PRIMARY SCHOOL JASWANT NAGER (R.N.-1)
+                    </item>
+                    <item>
+KANYA UCCHATAR PRIMARY SCHOOL JASWANT NAGER (R.N.-2)
+                    </item>
+                    <item>
+GOVERNMENT GIRLS INTER COLLEGE JASWANT NAGER (R.N.1)
+                    </item>
+                    <item>
+GOVERNMENT GIRLS INTER COLLEGE JASWANT NAGER (R.N.2)
+                    </item>
+                    <item>
+GOVERNMENT GIRLS INTER COLLEGE JASWANT NAGER (R.N.3)
+                    </item>
+                    <item>
+GOVERNMENT GIRLS INTER COLLEGE JASWANT NAGER (R.N.4)
+                    </item>
+                    <item>
+JUNIOR HIGH SCHOOL JASWANT NAGER (R.N.1)
+                    </item>
+                    <item>
+JUNIOR HIGH SCHOOL JASWANT NAGER (R.N.2)
+                    </item>
+                    <item>
+JUNIOR HIGH SCHOOL JASWANT NAGER (R.N.3)
+                    </item>
+                    <item>
+PRIMARY SCHOOL JASWANT NAGER (R.N. 1)
+                    </item>
+                    <item>
+PRIMARYSCHOOL JASWANT NAGER (R.N. 2)
+                    </item>
+                    <item>
+PARIGANIT PRIMARY SCHOOL JASWANT NAGER (R.N. 1)
+                    </item>
+                    <item>
+PARIGANIT PRIMARYSCHOOL JASWANT NAGER (R.N. 2)
+                    </item>
+                    <item>
+HINDU VIDYALAYA INTER COLLEGE. JASWANT NAGER (R.N. 1)
+                    </item>
+                    <item>
+HINDU VIDYALAYA INTER COLLEGE. JASWANT NAGER (R.N. 2)
+                    </item>
+                    <item>
+HINDU VIDYALAYA INTER COLLEGE. JASWANT NAGER (R.N. 3)
+                    </item>
+                    <item>
+HINDU VIDYALAYA INTER COLLEGE. JASWANT NAGER (R.N. 4)
+                    </item>
+                    <item>
+PRIMARY SCHOOL SISHAT EAST
+                    </item>
+                    <item>
+PRIMARY SCHOOL SISHAT WEST
+                    </item>
+                    <item>
+PRIMARY SCHOOL PIPREDI
+                    </item>
+                    <item>
+PANCHAYATGHAR JWALAPUR VILL. PIPREDI
+                    </item>
+                    <item>
+PRIMARY SCHOOL RAJPUR TAMERI
+                    </item>
+                    <item>
+PRIMARY SCHOOL TAMERI
+                    </item>
+                    <item>
+PRIMARY SCHOOL JUGOURA
+                    </item>
+                    <item>
+PRIMARY SCHOOL BAHORIPUR
+                    </item>
+                    <item>
+ASHOK INTER COLLEGE KUKAWALI (R.N.1)
+                    </item>
+                    <item>
+ASHOK INTER COLLEGEKUKAWALI (R.N.2)
+                    </item>
+                    <item>
+PRIMARY SCHOOL BAHADURPUR NASIRPUR
+                    </item>
+                    <item>
+PRIMARY SCHOOL NIJAMPUR
+                    </item>
+                    <item>
+PRIMARY SCHOOL NAGLA RAMSUNDER EAST
+                    </item>
+                    <item>
+PRIMARY SCHOOL NAGLA RAMSUNDER WEST
+                    </item>
+                    <item>
+PRIMARY SCHOOL NAGLA SALAHDI
+                    </item>
+                    <item>
+PRIMARY SCHOOL BALRAI
+                    </item>
+                    <item>
+PRIMARY SCHOOL DODUA GOPALPUR (GADI RAMDHAN)
+                    </item>
+                    <item>
+PRIMARY SCHOOL BIBAMAU EAST
+                    </item>
+                    <item>
+PRIMARY SCHOOL BIBAMAU WEST
+                    </item>
+                    <item>
+PRIMARY SCHOOL AJABPUR BIBAMAU
+                    </item>
+                    <item>
+PRIMARY SCHOOL NAGLA VISHUN TIJORA EAST
+                    </item>
+                    <item>
+PRIMARY SCHOOL NAGLA VISHUN TIJORA WEST
+                    </item>
+                    <item>
+PRIMARY SCHOOL PREM NAGER
+                    </item>
+                    <item>
+JUNIOR HIGH SCHOOL BAUTH
+                    </item>
+                    <item>
+PRIMARY SCHOOL MADIYA FAKIRE MAUJA BAUTH
+                    </item>
+                    <item>
+PRIMARY SCHOOL SARAMAI
+                    </item>
+                    <item>
+PRIMARY SCHOOL NAGLA TAUR NORTH
+                    </item>
+                    <item>
+PRIMARY SCHOOL NAGLA TAUR SOUTH
+                    </item>
+                    <item>
+PRIMARY SCHOOL NAGLA DHURHA
+                    </item>
+                    <item>
+PRIMARY SCHOOL KIRATPUR
+                    </item>
+                    <item>
+PRIMARY SCHOOL PEEHARPUR
+                    </item>
+                    <item>
+PRIMARY SCHOOL SIRSA BIBMAU
+                    </item>
+                    <item>
+PRIMARY SCHOOL SALEMPUR
+                    </item>
+                    <item>
+PRIMARY SCHOOL CHAK
+                    </item>
+                    <item>
+K.PRIMARY SCHOOL BHIKHANPUR
+                    </item>
+                    <item>
+PRIMARY SCHOOL NAGARIA JASOHAN
+                    </item>
+                    <item>
+PRIMARY SCHOOL GARAMPUR
+                    </item>
+                    <item>
+JUNIOR HIGH SCHOOL SIRHOL
+                    </item>
+                    <item>
+PRIMARY SCHOOL NAGLA CHHAND
+                    </item>
+                    <item>
+PRIMARY SCHOOL MUHABATPUR JASOHAN
+                    </item>
+                    <item>
+PRIMARY SCHOOL BAGIYA JASOHAN
+                    </item>
+                    <item>
+PRIMARY SCHOOL JANAKPUR (R.N. 1)
+                    </item>
+                    <item>
+PRIMARY SCHOOL JANAKPUR (R.N. 2)
+                    </item>
+                    <item>
+PRIMARY SCHOOL NAGLA UDAYSINGH
+                    </item>
+                    <item>
+PRIMARY SCHOOL NAGLA KESHONRAI
+                    </item>
+                    <item>
+PRIMARY SCHOOL JHALOKHAR
+                    </item>
+                    <item>
+PRIMARY SCHOOL SAKHOA
+                    </item>
+                    <item>
+PRIMARY SCHOOL JAGSORA EAST
+                    </item>
+                    <item>
+PRIMARY SCHOOL JAGSORA WEST
+                    </item>
+                    <item>
+PRIMARY SCHOOL NAGARIYA BHAT
+                    </item>
+                    <item>
+PRIMARY SCHOOL NAGLA NAYA
+                    </item>
+                    <item>
+PRIMARY SCHOOL NAGLA DUDHA
+                    </item>
+                    <item>
+PRIMARY SCHOOL MALAJANI NORTH
+                    </item>
+                    <item>
+PRIMARY SCHOOL MALAJANI SOUTH
+                    </item>
+                    <item>
+JUNIOR HIGH SCHOOL BHATORA
+                    </item>
+                    <item>
+PRIMARY SCHOOL BHATORA
+                    </item>
+                    <item>
+PRIMARY SCHOOL BHOGATAL
+                    </item>
+                    <item>
+PRIMARY SCHOOL TAKPURA SARAI JALAL
+                    </item>
+                    <item>
+PRIMARY SCHOOL JAINPUR NAGAR
+                    </item>
+                    <item>
+PRIMARY SCHOOL ARAJI SARAIBHOPAT (NAGLA BABA)
+                    </item>
+                    <item>
+PRIMARY SCHOOL SARAI BHOPAT
+                    </item>
+                    <item>
+PRIMARY SCHOOL NAGLA VERMAJIT
+                    </item>
+                    <item>
+PRIMARY SCHOOL MALOOPUR
+                    </item>
+                    <item>
+PRIMARY SCHOOL BALIYAPUR
+                    </item>
+                    <item>
+JUNIOR HIGH SCHOOL BANKATI BUJURG
+                    </item>
+                    <item>
+PRIMARY SCHOOL BIRAMPUR
+                    </item>
+                    <item>
+PRIMARY SCHOOL ADHIYAPUR
+                    </item>
+                    <item>
+PRIMARY SCHOOL NAGLA CHHATE
+                    </item>
+                    <item>
+PRIMARY SCHOOL BHESRAI
+                    </item>
+                    <item>
+KRASAK INTER COLLEGE BICHPURIKERA
+                    </item>
+                    <item>
+PRIMARY SCHOOL PATAJHARI
+                    </item>
+                    <item>
+PRIMARY SCHOOL HAJRATPUR
+                    </item>
+                    <item>
+JUNIOR HIGH SCHOOL JAITIYA
+                    </item>
+                    <item>
+PRIMARY SCHOOL SONAI
+                    </item>
+                    <item>
+PRIMARY SCHOOL RAJMAU ROOM-1
+                    </item>
+                    <item>
+PRIMARY SCHOOL RAJMAU ROOM-2
+                    </item>
+                    <item>
+PRIMARY SCHOOL KANTIHAR
+                    </item>
+                    <item>
+PRIMARY SCHOOL BARRA
+                    </item>
+                    <item>
+PRIMARY SCHOOL BAIDPURA
+                    </item>
+                    <item>
+PRIMARY SCHOOL JAHANABAD
+                    </item>
+                    <item>
+PRIMARY SCHOOL CHAKOOPUR
+                    </item>
+                    <item>
+PRIMARY SCHOOL MAHOLA
+                    </item>
+                    <item>
+PRIMARY SCHOOL UMRAHI
+                    </item>
+                    <item>
+PRIMARY SCHOOL KHARDOOLI
+                    </item>
+                    <item>
+PRIMARY SCHOOL CHHITONI
+                    </item>
+                    <item>
+PRIMARY SCHOOL RAMET
+                    </item>
+                    <item>
+PRIMARY SCHOOL HIRAPUR
+                    </item>
+                    <item>
+PRIMARY SCHOOL BAROLI BAIDPURA
+                    </item>
+                    <item>
+PRIMARY SCHOOL SIPHARI
+                    </item>
+                    <item>
+PRIMARY SCHOOL CHHIMARA EAST
+                    </item>
+                    <item>
+PRIMARY SCHOOL CHHIMARA MIDDLE
+                    </item>
+                    <item>
+PRIMARY SCHOOL BORAIN
+                    </item>
+                    <item>
+PRIMARY SCHOOL BHADAI KASHIPUR
+                    </item>
+                    <item>
+PRIMARY SCHOOL BHADAI KASHIPUR WEST
+                    </item>
+                    <item>
+PRIMARY SCHOOL NAGLA SEWA
+                    </item>
+                    <item>
+PRIMARY SCHOOL NAGLA BABA BHAGWATIPUR NEW BUILDING
+                    </item>
+                    <item>
+PRIMARY SCHOOL BHALASAIYA
+                    </item>
+                    <item>
+PRIMARY SCHOOL NARHOLI BHIDARUA
+                    </item>
+                    <item>
+PRIMARY SCHOOL LACHWAI EAST
+                    </item>
+                    <item>
+PRIMARY SCHOOL LACHWAI WEST
+                    </item>
+                    <item>
+PRIMARY SCHOOL GEENJA (R.N. 1)
+                    </item>
+                    <item>
+PRIMARY SCHOOL GEENJA (R.N. 2)
+                    </item>
+                    <item>
+PRIMARY SCHOOL CHOBEYPUR EAST
+                    </item>
+                    <item>
+PRIMARY SCHOOL JHIGOOPUR
+                    </item>
+                    <item>
+PRIMARY SCHOOL BHALI
+                    </item>
+                    <item>
+PRIMARY SCHOOL MUCHHARA
+                    </item>
+                    <item>
+PRIMARY SCHOOL SAIFAI EAST
+                    </item>
+                    <item>
+PRIMARY SCHOOL SAIFAI MIDDLE
+                    </item>
+                    <item>
+JUNIOR HIGH SCHOOL SAIFAI (R.N.1)
+                    </item>
+                    <item>
+JUNIOR HIGH SCHOOL FAIFAI (R.N. 2)
+                    </item>
+                    <item>
+JUNIOR HIGH SCHOOL ATIRAJPUR
+                    </item>
+                    <item>
+PANCHAYAT OFFICE SAIFAI OLD MEETING HALL
+                    </item>
+                    <item>
+PRIMARY SCHOOL NAGLA SABI
+                    </item>
+                    <item>
+PRIMARY SCHOOL UJHIYANI
+                    </item>
+                    <item>
+PRIMARY SCHOOL BAGHUIYA
+                    </item>
+                    <item>
+PRIMARY SCHOOL PINDARI NEW BUILDING
+                    </item>
+                    <item>
+PRIMARY SCHOOL PINDARI NEW BUILDING
+                    </item>
+                    <item>
+PRIMARY SCHOOL KUIYA EAST
+                    </item>
+                    <item>
+PRIMARY SCHOOL KUIYA
+                    </item>
+                    <item>
+PRIMARY SCHOOL ODAMPUR
+                    </item>
+                    <item>
+PRIMARY SCHOOL BAROLI KALA
+                    </item>
+                    <item>
+PRIMARY SCHOOL NAGLA BAGERHAR EAST
+                    </item>
+                    <item>
+PRIMARY SCHOOL SAHSARPUR
+                    </item>
+                    <item>
+DR. RAM MANOHAR LOHIA JHS USRAI
+                    </item>
+                    <item>
+SARVODAYA INTER COLLEGE LONGPUR
+                    </item>
+                    <item>
+PRIMARY SCHOOL TULSIPUR NEW BUILDING
+                    </item>
+                    <item>
+PRIMARY SCHOOL NAGLA DARIYAY
+                    </item>
+                    <item>
+PRIMARY SCHOOL BHAGIPUR
+                    </item>
+                    <item>
+PRIMARY SCHOOL NANDPUR
+                    </item>
+                    <item>
+PRIMARY SCHOOL KUMHAWAR
+                    </item>
+                    <item>
+PRIMARY SCHOOL UDDHAMPUR
+                    </item>
+                    <item>
+PRIMARY SCHOOL HARDOI (R.N. 1)
+                    </item>
+                    <item>
+PRIMARY SCHOOL HARDOI (R.N. 2)
+                    </item>
+                    <item>
+JUNIOR HIGH SCHOOL HARDOI
+                    </item>
+                    <item>
+PRIMARY SCHOOL MOHATI
+                    </item>
+                    <item>
+PRIMARY SCHOOL LADAMPUR
+                    </item>
+                    <item>
+PRIMARY SCHOOL KATHUA
+                    </item>
+                    <item>
+PRIMARY SCHOOL NAGLA MATHIYA
+                    </item>
+                    <item>
+PRIMARY SCHOOL SHIVPURI TIMARUA EAST
+                    </item>
+                    <item>
+PRIMARY SCHOOL SHIVPURI TIMARUA WEST
+                    </item>
+                    <item>
+PRIMARY SCHOOL MADHAIYAPUR
+                    </item>
+                    <item>
+PRIMARY SCHOOL SARWARPUR
+                    </item>
+                    <item>
+PRIMARY SCHOOL PARASNA EAST
+                    </item>
+                    <item>
+PRIMARY SCHOOL PARASNA WEST
+                    </item>
+                    <item>
+PRIMARY SCHOOL NAGLA KOOKPUR
+                    </item>
+                    <item>
+PRIMARY SCHOOL NAGLA BANE
+                    </item>
+                    <item>
+PRIMARY SCHOOL MANIGAWNA (R.N. 1)
+                    </item>
+                    <item>
+PRIMARY SCHOOL MANIGAWNA (R.N. 2)
+                    </item>
+                    <item>
+PRIMARY SCHOOL THULRAI
+                    </item>
+                    <item>
+PRIMARY SCHOOL SARSAI HELU
+                    </item>
+                    <item>
+PRIMARY SCHOOL NAGLA KUATIA
+                    </item>
+                    <item>
+PRIMARY SCHOOL SHADIPUR
+                    </item>
+                    <item>
+PRIMARY SCHOOL JAGANNATHPUR
+                    </item>
+                    <item>
+JUNIOR HIGH SCHOOL KARRI
+                    </item>
+                    <item>
+JUNIOR HIGH SCHOOL KARRI
+                    </item>
+                    <item>
+PRIMARY SCHOOL NAGLA BAHELIYA (KARRI)
+                    </item>
+                    <item>
+PRIMARY SCHOOL KALEPURA
+                    </item>
+                    <item>
+PRIMARY SCHOOL GANESHPUR
+                    </item>
+                    <item>
+PRIMARY SCHOOL BHOOTHA
+                    </item>
+                    <item>
+PRIMARY SCHOOL BEENA WEST
+                    </item>
+                    <item>
+PRIMARY SCHOOL BEENA WEST
+                    </item>
+                    <item>
+PRIMARY SCHOOL PAROLI RAMAIN
+                    </item>
+                    <item>
+PRIMARY SCHOOL KATAIYAPUR (KRAPALPUR)
+                    </item>
+                    <item>
+PRIMARY SCHOOL HIDDAPURA
+                    </item>
+                    <item>
+PRIMARY SCHOOL UNWA SANTOSHPUR
+                    </item>
+                    <item>
+JUNIOR HIGH SCHOOL SANTOSHPUR UNWA
+                    </item>
+                    <item>
+PRIMARY SCHOOL ISWARPUR
+                    </item>
+                    <item>
+PRIMARY SCHOOL BARALOKPUR EAST
+                    </item>
+                    <item>
+PRIMARY SCHOOL BARALOKPUR WEST ROOM-1
+                    </item>
+                    <item>
+PRIMARY SCHOOL BARALOKPUR WEST ROOM-2
+                    </item>
+                    <item>
+PRIMARY SCHOOL LOKPURA
+                    </item>
+                    <item>
+PRIMARY SCHOOL SEEPURI
+                    </item>
+                    <item>
+PRIMARY SCHOOL AGUPUR GOPALPUR
+                    </item>
+                    <item>
+PRIMARY SCHOOL AGUPUR GOPALPUR
+                    </item>
+                    <item>
+PRIMARY SCHOOL AARAJI GUBARIYA
+                    </item>
+                    <item>
+PRAHLAD ISMARAK INTER COLLEGE KRISHNA NAGAR CHOPULA
+                    </item>
+                    <item>
+PRAHLAD ISMARAK INTER COLLEGE KRISHNA NAGAR CHOPULA
+                    </item>
+                    <item>
+PRIMARY SCHOOL MUGALPURA
+                    </item>
+                    <item>
+PRIMARY SCHOOL NAGLA SABI
+                    </item>
+                    <item>
+PRIMARY SCHOOL MOONJ EAST-1
+                    </item>
+                    <item>
+PRIMARY SCHOOL MOONJ EAST-2
+                    </item>
+                    <item>
+PRIMARY SCHOOL MOONJ WEST
+                    </item>
+                    <item>
+PRIMARY SCHOOL RAMPURA
+                    </item>
+                    <item>
+PRIMARY SCHOOL FARDPURA
+                    </item>
+                    <item>
+PRIMARY SCHOOL MASNAI
+                    </item>
+                    <item>
+PRIMARY SCHOOL JAINPUR CHAUBIYA
+                    </item>
+                    <item>
+PRIMARY SCHOOL CHAUBIYA
+                    </item>
+                    <item>
+PRIMARY SCHOOL BAKHTYARPUR
+                    </item>
+                    <item>
+PRIMARY SCHOOL BHADIYAPUR RAHIN
+                    </item>
+                    <item>
+PRIMARY SCHOOL TISUADEV
+                    </item>
+                    <item>
+PRIMARY SCHOOL MOHANPUR RAHIN
+                    </item>
+                    <item>
+PRIMARY SCHOOL NEEWASAI
+                    </item>
+                    <item>
+JUNIOR HIGH SCHOOL KAKARPUR
+                    </item>
+                    <item>
+PRIMARY SCHOOL GORA DAYALPUR
+                    </item>
+                    <item>
+PRIMARY SCHOOL GORA DAYALPUR
+                    </item>
+                    <item>
+PRIMARY SCHOOL RAHIN
+                    </item>
+                    <item>
+PRIMARY SCHOOL ROOP PUR SARAI BHIKHAN
+                    </item>
+                    <item>
+PRIMARY SCHOOL GULABPUR
+                    </item>
+                    <item>
+PRIMARY SCHOOL KALYANPUR RAHIN
+                    </item>
+                    <item>
+PRIMARY SCHOOL BIHARIPUR
+                    </item>
+                    <item>
+PRIMARY SCHOOL ADUPURA
+                    </item>
+                    <item>
+PRIMARY SCHOOL KESHONPUR RAHIN
+                    </item>
+                    <item>
+KANNYA PRIMARY SCHOOL GANGAPUR
+                    </item>
+                    <item>
+PRIMARY SCHOOL BITHOLI
+                    </item>
+                    <item>
+PRIMARY SCHOOL PARTAPURA
+                    </item>
+                    <item>
+PRIMARY SCHOOL KHERA HELU
+                    </item>
+                    <item>
+PRIMARY SCHOOL KHERA HELU
+                    </item>
+                    <item>
+PRIMARY SCHOOL DUDHA
+                    </item>
+                    <item>
+PRIMARY SCHOOL ADARPUR
+                    </item>
+                    <item>
+PRIMARY SCHOOL JABARPUR NORTH
+                    </item>
+                    <item>
+PRIMARY SCHOOL NAGLA TAAL
+                    </item>
+                    <item>
+PRIMARY SCHOOL LAKHANPUR PACHAR
+                    </item>
+                    <item>
+PRIMARY SCHOOL DIBRASAI
+                    </item>
+                    <item>
+PRIMARY SCHOOL APOORPUR
+                    </item>
+                    <item>
+KISAN HIGHER SECONDRY SCHOOL SHEKHUPUR CHANDETHI
+                    </item>
+                    <item>
+JUNIOR HIGH SCHOOL BER EAST
+                    </item>
+                    <item>
+JUNIOR HIGH SCHOOL BER WEST
+                    </item>
+                    <item>
+PRIMARY SCHOOL NAGLA BHOOJ
+                    </item>
+                    <item>
+JUNIOR HIGH SCHOOL ROURA EAST
+                    </item>
+                    <item>
+JUNIOR HIGH SCHOOL ROURA WEST
+                    </item>
+                    <item>
+SAMUDAIK MILAN KENDRA KHIRIYA
+                    </item>
+                    <item>
+PRIMARY SCHOOL BAKOLI
+                    </item>
+                    <item>
+PRIMARY SCHOOL SHEKHUPUR PACHAR
+                    </item>
+                    <item>
+JUNIOR HIGH SCHOOL NAGLA JIND
+                    </item>
+                    <item>
+PRIMARY SCHOOL SANTOSHPUR PACHAR
+                    </item>
+                    <item>
+PRIMARY SCHOOL PUNJA
+                    </item>
+                    <item>
+PRIMARY SCHOOL KESHONPUR
+                    </item>
+                    <item>
+JAN HITKARI M.V. NAGLA BHAWAR
+                    </item>
+                    <item>
+PRIMARY SCHOOL TAKPURA
+                    </item>
+                    <item>
+PRIMARY SCHOOL BANI HARDU
+                    </item>
+                    <item>
+PRIMARY SCHOOL CHAMROUA
+                    </item>
+                    <item>
+JILA PARISAD HIGHER SECONDRY SCHOOL SARSAINAWAR EAST
+                    </item>
+                    <item>
+JILA PARISAD HIGHER SECONDRY SCHOOL SARSAINAWAR
+                    </item>
+                    <item>
+JILA PANCHAYAT HIGHER SECONDRY SCHOOL SARSAINAWAR
+                    </item>
+                    <item>
+PRIMARY SCHOOL GIRDHARPURA
+                    </item>
+                    <item>
+PRIMARY SCHOOL NAGLA BALSINGH
+                    </item>
+                    <item>
+PRIMARY SCHOOL DOLATPUR
+                    </item>
+                    <item>
+PRIMARY SCHOOL BHADARPURA
+                    </item>
+                    <item>
+PRIMARY SCHOOL NAGLA JALAL
+                    </item>
+                    <item>
+PRIMARY SCHOOL SUNDRA
+                    </item>
+                    <item>
+PRIMARY SCHOOL TIRKHI TILOKPUR
+                    </item>
+                    <item>
+PRIMARY SCHOOL NAGLA DUDHA
+                    </item>
+                    <item>
+JUNIOR HIGH SCHOOL KADAMPUR WEST
+                    </item>
+                    <item>
+PRIMARY SCHOOL KADAMPUR
+                    </item>
+                    <item>
+PRIMARY SCHOOL KISHANPURA
+                    </item>
+                    <item>
+PRIMARY SCHOOL UDAYPUR KALA
+                    </item>
+                    <item>
+PRIMARY SCHOOL MURCHA
+                    </item>
+                    <item>
+SAHKARI SANGH USRAHAR
+                    </item>
+                    <item>
+PRIMARY SCHOOL RAMPUR EAST
+                    </item>
+                    <item>
+PRIMARY SCHOOL RAMPUR WEST
+                    </item>
+                    <item>
+PRIMARY SCHOOL BADKANSHAHPUR
+                    </item>
+                    <item>
+HIGHER PRIMARY VIDYALAYA BHARATPUR KHURD
+                    </item>
+                    <item>
+JUNIOR HIGH SCHOOL TIPATIYA
+                    </item>
+                    <item>
+PT.BABU RAM MISHR ADARSH INTER COLLEGE BAMHNIPUR
+                    </item>
+                    <item>
+PRIMARY SCHOOL NAGLA LACHI
+                    </item>
+                    <item>
+PRIMARY SCHOOL MOHRI NORTH
+                    </item>
+                    <item>
+PRIMARY SCHOOL MOHRI SOUTH
+                    </item>
+                    <item>
+PRIMARY SCHOOL CHAMARPUR RUDRAPUR
+                    </item>
+                    <item>
+PRIMARY SCHOOL NAGARIYA
+                    </item>
+                    <item>
+PRIMARY SCHOOL KUITA EAST
+                    </item>
+                    <item>
+PRIMARY SCHOOL KUITA WEST
+                    </item>
+                    <item>
+PRIMARY SCHOOL NAGLA BHAGE
+                    </item>
+                    <item>
+PRIMARY SCHOOL KAUA EAST
+                    </item>
+                    <item>
+PRIMARY SCHOOL RAMPURA
+                    </item>
+                    <item>
+JUNIOR HIGH SCHOOL DEEG
+                    </item>
+                    <item>
+PRIMARY SCHOOL JAFAR PURA
+                    </item>
+                    <item>
+PRIMARY SCHOOL DEENG
+                    </item>
+                    <item>
+PRIMARY SCHOOL NAGLA MASOOD
+                    </item>
+                    <item>
+KANYA JUNIOR HIGH SCHOOL SAMTHAR EAST
+                    </item>
+                    <item>
+KANYA JUNIOR HIGH SCHOOL SAMTHAR WEST
+                    </item>
+                    <item>
+PRIMARY SCHOOL SAMTHAR
+                    </item>
+                    <item>
+PRIMARY SCHOOL NAGLA PACHHAYA
+                    </item>
+                    <item>
+PRIMARY SCHOOL AMTHARI
+                    </item>
+                    <item>
+PRIMARY SCHOOL AMTHARI
+                    </item>
+                    <item>
+PRIMARY SCHOOL RUDOLI
+                    </item>
+                    <item>
+PRIMARY SCHOOL KURKHA
+                    </item>
+                    <item>
+PRIMARY SCHOOL AGHINI
+                    </item>
+                    <item>
+PRIMARY SCHOOL AGHINI
+                    </item>
+                    <item>
+HIGHER SECONDRY SCHOOL KHARAGPUR SARIYA
+                    </item>
+                    <item>
+PRIMARY SCHOOL HINDUPUR BAIDPUR
+                    </item>
+                    <item>
+PRIMARY SCHOOL SONTHANA
+                    </item>
+                    <item>
+PRIMARY SCHOOL RAMPURA PACHAR
+                    </item>
+                    <item>
+JUNIOR HIGH SCHOOL RAMPURA PACHAR
+                    </item>
+                    <item>
+PRIMARY SCHOOL BHAGWANTPURA VILL. HARKUNJALPUR
+                    </item>
+                    <item>
+PRIMARY SCHOOL PURELA (R.N. 1)
+                    </item>
+                    <item>
+PRIMARY SCHOOL PURELA (R.N. 2)
+                    </item>
+                    <item>
+JUNIOR HIGH SCHOOL VISHUNPURA NAGLA GUJRATI
+                    </item>
+                    <item>
+KANNYA JUNIOR HIGH SCHOOL KUDRAIL EAST
+                    </item>
+                    <item>
+KANNYA JUNIOR HIGH SCHOOL KUDRAIL WEST
+                    </item>
+                    <item>
+PRIMARY SCHOOL KUDRAIL
+                    </item>
+                    <item>
+PRIMARY SCHOOL KUDRAIL
+                    </item>
+                    <item>
+PRIMARY SCHOOL POORANPURA
+                    </item>
+                    <item>
+PRIMARY SCHOOL BADARIYAPOOTH
+                    </item>
+                    <item>
+PRIMARY SCHOOL NAGLA CHATUR
+                    </item>
+                    <item>
+PRIMARY SCHOOL NARAYANPUR
+                    </item>
+                    <item>
+PRIMARY SCHOOL KESHONPUR
+                    </item>
+                    <item>
+PRIMARY SCHOOL KATHOTIYA
+                    </item>
+                    <item>
+PRIMARY SCHOOL PATIYAYAT EAST
+                    </item>
+                    <item>
+PRIMARY SCHOOL PATIYAYAT WEST
+                    </item>
+                    <item>
+JUNIOR HIGH SCHOOL TAKHA EAST
+                    </item>
+                    <item>
+JUNIOR HIGH SCHOOL TAKHA WEST
+                    </item>
+                    <item>
+PRIMARY SCHOOL KAYAMPUR ROOM-1
+                    </item>
+                    <item>
+PRIMARY SCHOOL KAYAMPUR ROOM-2
+                    </item>
+                    <item>
+PRIMARY SCHOOL NAGLA DULI
+                    </item>
+                    <item>
+PRIMARY SCHOOL NAGLA DHAKAU ROOM-1
+                    </item>
+                    <item>
+PRIMARY SCHOOL NAGLA DHAKAU ROOM-2
+                    </item>
+                    <item>
+HIGHER SECONDRY SCHOOL MAMAN HIMATPUR EAST
+                    </item>
+                    <item>
+HIGHER SECONDRY SCHOOL MAMAN HIMATPUR WEST
+                    </item>
+                    <item>
+PRIMARY SCHOOL GANGDASPUR
+                    </item>
+                    <item>
+PRIMARY SCHOOL NAGLA MAKEY
+                    </item>
+                    <item>
+PRIMARY SCHOOL SARAWA NORTH
+                    </item>
+                    <item>
+PRIMARY SCHOOL SARAWA MIDDLE
+                    </item>
+                    <item>
+PRIMARY SCHOOL BELAHAR
+                    </item>
+                    <item>
+BALWANT SHAHEED I . C. NAGRIYA YADVAN (BELAHAR)
+                    </item>
+                    <item>
+PRIMARY SCHOOL NAGLA DHOKAL SORON
+                    </item>
+                    <item>
+PRIMARY SCHOOL RATAHRI SARAWA
+                    </item>
+                    <item>
+PRIMARY SCHOOL NAGARIYA SARAWA
+                    </item>
+                    <item>
+PRIMARY SCHOOL KAKRAHI EAST
+                    </item>
+                    <item>
+PRIMARY SCHOOL KAKRAHI WEST
+                    </item>
+                </string-array>
+
+                <string name="Vidhan_Sabha_Booth_Name" >Part Name
+                </string>
+                <string name="Birth" >Biography:
+                </string>
+                <string name="title_activity_social_media" >Social Media
+                </string>
+                <string name="title_activity_political_career" >Political Career
+                </string>
+                <string name="title_activity_samajwadi_party" >Samajwadi Party
+                </string>
+                <string name="Political_Career" >Political Career:
+                </string>
+                <string name="app_name" >Shivpal Singh Yadav
+                </string>
+                <string name="title_activity_biography" >Biography
+                </string>
+                <string name="Public_Works_Department" >Public Works Department
+                </string>
+                <string name="Public_Service_Management" >Public Service Management
+                </string>
+            </file>
+            <file
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppTheme"
+                    parent="android:Theme.Light" >
+                    <item name="android:windowBackground">
+@android:color/white
+                    </item>
+                    <item name="android:windowNoTitle">
+true
+                    </item>
+                </style>
+            </file>
+            <file
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/values-hi/strings.xml"
+                qualifiers="hi" >
+                <string name="VIDHAN_BHAVAN" >संसदीय क्षेत्र
+                </string>
+                <string name="title_activity_event_detail" >आयोजन
+                </string>
+                <string name="Birth" >जीवन परिचय:
+                </string>
+                <string name="title_activity_media" >ख़बरों में
+                </string>
+                <string name="Description_Info" >समाजवादी पार्टी ऐसी समाजवादी व्यवस्था में विश्वास करती है जो समानता के सिद्धांत पर कार्य करते हुए पार्टी का साम्यवादी और प्रजातांत्रिक ढाँचा निर्मित करती है। समाजवादी सदैव एवं सतत् कमजोर वर्ग के उत्थान और साम्प्रदायिक ताकतों के विरुद्ध खडे़ रहने में विश्वास रखती है। \n\nस्वतंत्रता सैनानी, समाजवादी एवं महान सांसद डा0 राम मनोहर लोहिया समाजवादी पार्टी के मार्ग-दर्शक हैं। राम मनोहर लोहिया का भारतीय स्वतंत्रता के प्रति निःस्वार्थ संर्घष और समाज के विभिन्न वर्गों को एक साथ लाने की जो अद्भुत योग्यता थी उसने नेताओं, युवाओं और कार्यकर्ताओं को प्रभावित और प्रेरित किया। लोहिया जी ब्रिटिश शासन के विरुद्ध स्वतंत्रता संघर्ष के दौरान कई बार जेल गये, वे अपने सम्पूर्ण जीवन में सामाजिक समानता के लिये कड़ाई व पक्के इरादे से संघर्ष करते रहे।\n\nलोहिया जी महात्मा गांधी के विचार से अत्यधिक प्रभावित थे जिन्होंने स्वतंत्रता आन्दोलन के दिनों अथक प्रयास किया और ब्रिटिश शासन के खिलाफ लेख भी लिखे, यहाँ तक कि योरोप में ब्रिटिश शाही शासन के विरुद्ध जागरुकता फैलाने का कार्य किया और स्वतंत्रता के पश्चात् स्वयं को ज़मीनी स्तर की राजनीति को समर्पित कर दिया, जिसमें किसानों का हित, विकास कार्य और सामाजिक अन्याय के विरुद्ध संघर्ष इत्यादि था। उन्होंने पूँजीवादी- जागीरदारी परम्परा को समाप्त करने के लिये भी कार्य किया।\n\nलोहिया जी की लोगों को जागरुक करने और सत्याग्रह पर उनके तेजस्वी लेख लिखने और सामाजिक समस्याओं की उनकी स्वभाविक समझ इत्यादि अति विशिष्ट गुणों ने उन्हे भारत का प्रमुख समाजवादी नेता बना दिया।
+                </string>
+                <string name="action_settings" >Settings
+                </string>
+                <string name="Sodic_Ravine_Land_development" >SODIC और घाटी भूमि विकास
+                </string>
+                <string name="PARTY_WEBSITE_URL" >http://www.samajwadiparty.in/
+                </string>
+                <string name="Decription" >विवरण:
+                </string>
+                <string name="Birth_Info" >सन् 1955 को बसंत पंचमी के पावन दिन में पिता सुधर सिंह तथा माता मूर्ति देवी के कनिष्ठ पुत्र के रूप में जन्मे शिवपाल सिंह जी को मानवता के प्रति उदात्त भाव विरासत में मिला। उन्होंने जनसंघर्षों में भाग लेना और नेतृत्व करना अपने नेता व अग्रज मुलायम सिंह जी से सीखा। इनके पिता स्व० सुधर सिंह अत्यंत सरल हृदय एवं कर्मठ किसान थे एवं माता स्वर्गीय श्रीमती मूर्ती देवी एक कुशल गृहणी थी।
+                </string>
+                <string name="Vidhan_Sabha_Booth_Name" >बूथ का नाम
+                </string>
+                <string name="Irrigation_Mechanical" >सिंचाई (मैकेनिकल)
+                </string>
+                <string name="About" >तकरीबन:
+                </string>
+                <string name="Vidhan_Sabha_Booth_Num" >क्रमांक
+                </string>
+                <string name="Flood_Control" >बाढ़ नियंत्रण
+                </string>
+
+                <string-array name="VidhanSabhaPartNames" >
+                    <item>
+प्राथमिक विद्यालय महामई
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नागरी
+                    </item>
+                    <item>
+प्राथमिक विद्यालय जोनई
+                    </item>
+                    <item>
+प्राथमिक विद्यालय धौलपुर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नगला खेड़ा
+                    </item>
+                    <item>
+प्राथमिक विद्यालय धरवार रूम 1
+                    </item>
+                    <item>
+प्राथमिक विद्यालय धरवार रूम 2
+                    </item>
+                    <item>
+जूनियर हाई विद्यालय धरवार उत्तर
+                    </item>
+                    <item>
+जूनियर हाई विद्यालय धरवार दक्षिण
+                    </item>
+                    <item>
+प्राथमिक विद्यालय कूड़ाखर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय फुलरई
+                    </item>
+                    <item>
+प्राथमिक विद्यालय मीरखपुर पुठिया
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नगला जुला
+                    </item>
+                    <item>
+प्राथमिक विद्यालय आलई
+                    </item>
+                    <item>
+प्राथमिक विद्यालय मदनपुरा
+                    </item>
+                    <item>
+प्राथमिक विद्यालय घनश्यामपुर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नगला दयालपुरा
+                    </item>
+                    <item>
+डा। राम मनोहर लोहिया इंटर कालेज धनुआ
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नगला जगन
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नगला लायक
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नगला फतेहपुर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय बियरी भटपुरा पश्चिम
+                    </item>
+                    <item>
+प्राथमिक विद्यालय बियरी भटपुरा पूर्व
+                    </item>
+                    <item>
+प्राथमिक विद्यालय भुजपुरा बिवामऊ
+                    </item>
+                    <item>
+प्राथमिक विद्यालय ककरई
+                    </item>
+                    <item>
+प्राथमिक विद्यालय दर्शनपुर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय खेड़ा बुजुर्ग उत्तर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय खेड़ा बुजुर्ग दक्षिण
+                    </item>
+                    <item>
+प्राथमिक विद्यालय तुलरामपुर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय भगवानपुरा
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नगला केहरि
+                    </item>
+                    <item>
+प्राथमिक विद्यालय कुरसेना रूम 1
+                    </item>
+                    <item>
+प्राथमिक विद्यालय कुरसेना रूम 2
+                    </item>
+                    <item>
+प्राथमिक विद्यालय हनुमंत  खेड़ा
+                    </item>
+                    <item>
+प्राथमिक विद्यालय गढ़ी जालिम
+                    </item>
+                    <item>
+प्राथमिक विद्यालय रूकनपुरा
+                    </item>
+                    <item>
+पंचायतघर कंचनिया
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नगला सुगंध नगर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय अजनौरा
+                    </item>
+                    <item>
+समुदाईक केन्द्र पाठकपुरा
+                    </item>
+                    <item>
+प्राथमिक विद्यालय चंदनपुर बिवामऊ
+                    </item>
+                    <item>
+प्राथमिक विद्यालय शाहजहाँपुर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय लरखोर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय मोहनपुरा (लरखौर)
+                    </item>
+                    <item>
+प्राथमिक विद्यालय खुशलपुरा (लरखौर)
+                    </item>
+                    <item>
+प्राथमिक विद्यालय भाउपुरा
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नगला सुभान
+                    </item>
+                    <item>
+जिला पंचायत इंटर कालेज हैवरा
+                    </item>
+                    <item>
+प्राथमिक विद्यालय हैवरा नई निर्माण
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नगला अनिया
+                    </item>
+                    <item>
+प्राथमिक विद्यालय बनमई
+                    </item>
+                    <item>
+प्राथमिक विद्यालय भैसांन
+                    </item>
+                    <item>
+प्राथमिक विद्यालय परसोआ
+                    </item>
+                    <item>
+प्राथमिक विद्यालय आलमपुर नरिया
+                    </item>
+                    <item>
+प्राथमिक विद्यालय भावलपुर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय निलोई पूर्व
+                    </item>
+                    <item>
+प्राथमिक विद्यालय निलोई पश्चिम
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नगला राठौड़
+                    </item>
+                    <item>
+प्राथमिक विद्यालय प्रतापपुरा
+                    </item>
+                    <item>
+प्राथमिक विद्यालय महलई रूम 1
+                    </item>
+                    <item>
+प्राथमिक विद्यालय महलई रूम 2
+                    </item>
+                    <item>
+जोधासिंघ इंटर कालेज हरकपुर
+                    </item>
+                    <item>
+श्री मुलायम सिंह यादव इंटर कालेज रायनगर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नगला हरे
+                    </item>
+                    <item>
+प्राथमिक विद्यालय केलोखर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नगला सेवाराम
+                    </item>
+                    <item>
+प्राथमिक विद्यालय कुंजपुर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय जारिखेरा
+                    </item>
+                    <item>
+प्राथमिक विद्यालय मुहबतपुर  नगला भगत
+                    </item>
+                    <item>
+कन्या प्राथमिक विद्यालय केस्ट
+                    </item>
+                    <item>
+प्राथमिक विद्यालय केस्ट
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नगला इन्चा
+                    </item>
+                    <item>
+प्राथमिक विद्यालय दुर्गापुरा (लुधपुरा)
+                    </item>
+                    <item>
+कन्या उच्चतर प्राथमिक विद्यालय जसवंत नगर (आर एन -1)
+                    </item>
+                    <item>
+कन्या उच्चतर प्राथमिक विद्यालय जसवंत नगर (आर एन -2)
+                    </item>
+                    <item>
+सरकार लड़कियां इंटर कालेज जसवंत नगर (आर एन 1)
+                    </item>
+                    <item>
+सरकार लड़कियां इंटर कालेज जसवंत नगर (आर एन 2)
+                    </item>
+                    <item>
+सरकार लड़कियां इंटर कालेज जसवंत नगर (आर एन 3)
+                    </item>
+                    <item>
+सरकार लड़कियां इंटर कालेज जसवंत नगर (आर एन 4)
+                    </item>
+                    <item>
+जूनियर हाई विद्यालय जसवंत नगर (आर एन 1)
+                    </item>
+                    <item>
+जूनियर हाई विद्यालय जसवंत नगर (आर एन 2)
+                    </item>
+                    <item>
+जूनियर हाई विद्यालय जसवंत नगर (आर एन 3)
+                    </item>
+                    <item>
+प्राथमिक विद्यालय जसवंत नगर (आर एन  1)
+                    </item>
+                    <item>
+Pप्राथमिक विद्यालय जसवंत नगर (आर.एन. 2)
+                    </item>
+                    <item>
+परिगणित प्राथमिक विद्यालय जसवंत नगर (आर.एन. 1)
+                    </item>
+                    <item>
+परिगणित प्राथमिक विद्यालय जसवंत नगर (आर.एन. 2)
+                    </item>
+                    <item>
+हिंदू विद्यालय इंटर कॉलेज। जसवंत नगर (आर.एन. 1)
+                    </item>
+                    <item>
+हिंदू विद्यालय इंटर कॉलेज। जसवंत नगर (आर.एन. 2)
+                    </item>
+                    <item>
+हिंदू विद्यालय इंटर कॉलेज। जसवंत नगर (आर.एन. 3)
+                    </item>
+                    <item>
+हिंदू विद्यालय इंटर कॉलेज। जसवंत नगर (आर.एन. 4)
+                    </item>
+                    <item>
+प्राथमिक विद्यालय सिसहाट पूर्व
+                    </item>
+                    <item>
+प्राथमिक विद्यालय सिसहाट पश्चिम
+                    </item>
+                    <item>
+प्राथमिक विद्यालय पिपरेडी
+                    </item>
+                    <item>
+पंचायतघर ज्वालापुर ग्राम पिपरेडी
+                    </item>
+                    <item>
+प्राथमिक विद्यालय राजपुर तमेरी
+                    </item>
+                    <item>
+प्राथमिक विद्यालय तमेरी
+                    </item>
+                    <item>
+प्राथमिक विद्यालय जुगौरा
+                    </item>
+                    <item>
+प्राथमिक विद्यालय बहोरीपुर
+                    </item>
+                    <item>
+अशोक इंटर कालेज कुकावली (आर.एन.1)
+                    </item>
+                    <item>
+अशोक इंटर कॉलेज कुकावली (आर.एन.2)
+                    </item>
+                    <item>
+प्राथमिक विद्यालय बहादुरपुर नसीरपुर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय निजामपुर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नगला रामसुन्दर पूर्व
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नगला रामसुन्दर पश्चिम
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नगला सलहदी
+                    </item>
+                    <item>
+प्राथमिक विद्यालय बलरई
+                    </item>
+                    <item>
+प्राथमिक विद्यालय डोडुआ गोपालपुर (गादी रामधन)
+                    </item>
+                    <item>
+प्राथमिक विद्यालय बिवामऊ पूर्व
+                    </item>
+                    <item>
+प्राथमिक विद्यालय बिवामऊ पश्चिम
+                    </item>
+                    <item>
+प्राथमिक विद्यालय AJABPUR बिवामऊ
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नगला विशुन तिजोर पूर्व
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नगला विशुन तिजोर पश्चिम
+                    </item>
+                    <item>
+प्राथमिक विद्यालय प्रेम नगर
+                    </item>
+                    <item>
+जूनियर हाई विद्यालय बॉथ
+                    </item>
+                    <item>
+प्राथमिक विद्यालय माड़िया फकीरे मौजा बॉथ
+                    </item>
+                    <item>
+प्राथमिक विद्यालय सरमई
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नगला तौर उत्तर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नगला तौर दक्षिण
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नगला ढूढ़ा
+                    </item>
+                    <item>
+प्राथमिक विद्यालय कीरतपुर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय पीहरपुर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय सिरसा बिवामऊ
+                    </item>
+                    <item>
+प्राथमिक विद्यालय सलेमपुर लोक सभा निर्वाचन क्षेत्र
+                    </item>
+                    <item>
+प्राथमिक विद्यालय चक
+                    </item>
+                    <item>
+कन्या प्राथमिक विद्यालय भीखनपुर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नगरीए जसोहन
+                    </item>
+                    <item>
+प्राथमिक विद्यालय गरमपुर
+                    </item>
+                    <item>
+जूनियर हाई विद्यालय सिरहौल
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नगला छंद
+                    </item>
+                    <item>
+प्राथमिक विद्यालय मुहबतपुर जसोहन
+                    </item>
+                    <item>
+प्राथमिक विद्यालय बगिया जसोहन
+                    </item>
+                    <item>
+प्राथमिक विद्यालय जनकपुर (आर.एन. 1)
+                    </item>
+                    <item>
+प्राथमिक विद्यालय जनकपुर (आर.एन. 2)
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नगला उदयसिंह
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नगला किशोरी
+                    </item>
+                    <item>
+प्राथमिक विद्यालय झलोखर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय सकोआ
+                    </item>
+                    <item>
+प्राथमिक विद्यालय जगसोरा पूर्व
+                    </item>
+                    <item>
+प्राथमिक विद्यालय जगसोरा पश्चिम
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नगरिया भट्ट
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नगला नया
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नगला डुडहा
+                    </item>
+                    <item>
+प्राथमिक विद्यालय मलाजनी उत्तर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय मलाजनी दक्षिण
+                    </item>
+                    <item>
+जूनियर हाई विद्यालय भतौरा
+                    </item>
+                    <item>
+प्राथमिक विद्यालय भतौरा
+                    </item>
+                    <item>
+प्राथमिक विद्यालय भोगताल
+                    </item>
+                    <item>
+प्राथमिक विद्यालय तकपुरा सराय जलाल
+                    </item>
+                    <item>
+प्राथमिक विद्यालय जैनपुर नगर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय अराजी सरायभुपत (नगला बाबा)
+                    </item>
+                    <item>
+प्राथमिक विद्यालय सराय भुपत
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नगला वर्माजीत
+                    </item>
+                    <item>
+प्राथमिक विद्यालय मलूपुर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय बलैयापुर
+                    </item>
+                    <item>
+जूनियर हाई विद्यालय बनकटी बुजुर्ग
+                    </item>
+                    <item>
+प्राथमिक विद्यालय बीरमपुर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय अधियापुर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नगला छत्ते
+                    </item>
+                    <item>
+प्राथमिक विद्यालय भैसरई
+                    </item>
+                    <item>
+कृषक इंटर कालेज विचपुरी खेड़ा
+                    </item>
+                    <item>
+प्राथमिक विद्यालय पतझारी
+                    </item>
+                    <item>
+प्राथमिक विद्यालय हजरतपुर
+                    </item>
+                    <item>
+जूनियर हाई विद्यालय जैंतिया
+                    </item>
+                    <item>
+प्राथमिक विद्यालय सोनई
+                    </item>
+                    <item>
+प्राथमिक विद्यालय रजमउ रूम 1
+                    </item>
+                    <item>
+प्राथमिक विद्यालय रजमउ रूम 2
+                    </item>
+                    <item>
+प्राथमिक विद्यालय कटिहार
+                    </item>
+                    <item>
+प्राथमिक विद्यालय बर्रा
+                    </item>
+                    <item>
+प्राथमिक विद्यालय बैदपुरा
+                    </item>
+                    <item>
+प्राथमिक विद्यालय जहानाबाद
+                    </item>
+                    <item>
+प्राथमिक विद्यालय चकूपुर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय महोला
+                    </item>
+                    <item>
+प्राथमिक विद्यालय उमरही
+                    </item>
+                    <item>
+प्राथमिक विद्यालय खरदूली
+                    </item>
+                    <item>
+प्राथमिक विद्यालय छितौनी
+                    </item>
+                    <item>
+प्राथमिक विद्यालय रामेत
+                    </item>
+                    <item>
+प्राथमिक विद्यालय हीरापुर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय बरोली बैदपुरा
+                    </item>
+                    <item>
+प्राथमिक विद्यालय सिपहरी
+                    </item>
+                    <item>
+प्राथमिक विद्यालय छिमारा पूर्व
+                    </item>
+                    <item>
+प्राथमिक विद्यालय छिमारा मध्य
+                    </item>
+                    <item>
+प्राथमिक विद्यालय बौराईंन
+                    </item>
+                    <item>
+प्राथमिक विद्यालय बदेइ काशीपुर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय बदेइ काशीपुर पश्चिम
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नगला सेवा
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नगला बाबा भगवतीपुर नई निर्माण
+                    </item>
+                    <item>
+प्राथमिक विद्यालय भालसैया
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नरौली भिडरुआ
+                    </item>
+                    <item>
+प्राथमिक विद्यालय लछवाई पूर्व
+                    </item>
+                    <item>
+प्राथमिक विद्यालय लछवाई पश्चिम
+                    </item>
+                    <item>
+प्राथमिक विद्यालय गींजा (आर.एन. 1)
+                    </item>
+                    <item>
+प्राथमिक विद्यालय गींजा (आर.एन. 2)
+                    </item>
+                    <item>
+प्राथमिक विद्यालय चौबेपुर पूर्व
+                    </item>
+                    <item>
+प्राथमिक विद्यालय झिगूपुर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय भाली
+                    </item>
+                    <item>
+प्राथमिक विद्यालय मुचहरा
+                    </item>
+                    <item>
+प्राथमिक विद्यालय सैफई पूर्व
+                    </item>
+                    <item>
+प्राथमिक विद्यालय सैफई मध्य
+                    </item>
+                    <item>
+जूनियर हाई विद्यालय सैफई (आर.एन.1)
+                    </item>
+                    <item>
+जूनियर हाई विद्यालय सैफई (आर.एन. 2)
+                    </item>
+                    <item>
+जूनियर हाई विद्यालय अतिराजपुर
+                    </item>
+                    <item>
+पंचायत कार्यालय सैफई पुरानी मीटिंग हॉल
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नगला सबी
+                    </item>
+                    <item>
+प्राथमिक विद्यालय उझियानी
+                    </item>
+                    <item>
+प्राथमिक विद्यालय बघुइया
+                    </item>
+                    <item>
+प्राथमिक विद्यालय पिंडारी नई निर्माण
+                    </item>
+                    <item>
+प्राथमिक विद्यालय पिंडारी नई निर्माण
+                    </item>
+                    <item>
+प्राथमिक विद्यालय कुइया पूर्व
+                    </item>
+                    <item>
+प्राथमिक विद्यालय कुइया
+                    </item>
+                    <item>
+प्राथमिक विद्यालय ओदमपुर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय बरोली काला
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नगला बजेरहार पूर्व
+                    </item>
+                    <item>
+प्राथमिक विद्यालय सहसारपुर
+                    </item>
+                    <item>
+डा। राम मनोहर लोहिया जेएचएस उसरै
+                    </item>
+                    <item>
+सर्वोदय इंटर कालेज लोंगपुर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय तुलसीपुर नई निर्माण
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नगला डरिये
+                    </item>
+                    <item>
+प्राथमिक विद्यालय भगीपुर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नंदपुर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय कुम्हावर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय उद्धमपुर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय हरदोई (आर.एन. 1)
+                    </item>
+                    <item>
+प्राथमिक विद्यालय हरदोई (आर.एन. 2)
+                    </item>
+                    <item>
+जूनियर हाई विद्यालय हरदोई
+                    </item>
+                    <item>
+प्राथमिक विद्यालय मोहती
+                    </item>
+                    <item>
+प्राथमिक विद्यालय लाडमपुर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय कठुआ
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नगला मठिया
+                    </item>
+                    <item>
+प्राथमिक विद्यालय शिवपुरी तमरुआ पूर्व
+                    </item>
+                    <item>
+प्राथमिक विद्यालय शिवपुरी तमरुआ पश्चिम
+                    </item>
+                    <item>
+प्राथमिक विद्यालय मढैयापुर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय सरवरपुर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय प्रसन्ना पूर्व
+                    </item>
+                    <item>
+प्राथमिक विद्यालय प्रसन्ना पश्चिम
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नगला कूकपुर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नगला बने
+                    </item>
+                    <item>
+प्राथमिक विद्यालय मंिगव्ना (आर.एन. 1)
+                    </item>
+                    <item>
+प्राथमिक विद्यालय मंिगव्ना (आर.एन. 2)
+                    </item>
+                    <item>
+प्राथमिक विद्यालय थुलरई
+                    </item>
+                    <item>
+प्राथमिक विद्यालय सरसई प्यारा
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नगला कोटिया
+                    </item>
+                    <item>
+प्राथमिक विद्यालय शादीपुर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय जगन्नाथपुर
+                    </item>
+                    <item>
+जूनियर हाई विद्यालय कर्री
+                    </item>
+                    <item>
+जूनियर हाई विद्यालय कर्री
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नगला बहेलिया (कर्री)
+                    </item>
+                    <item>
+प्राथमिक विद्यालय कलपुरा
+                    </item>
+                    <item>
+प्राथमिक विद्यालय गणेशपुर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय भूतहा
+                    </item>
+                    <item>
+प्राथमिक विद्यालय बीना पश्चिम
+                    </item>
+                    <item>
+प्राथमिक विद्यालय बीना पश्चिम
+                    </item>
+                    <item>
+प्राथमिक विद्यालय पारोली रमईन
+                    </item>
+                    <item>
+प्राथमिक विद्यालय कटैयापुर (कृपालपुर)
+                    </item>
+                    <item>
+प्राथमिक विद्यालय हिद्दपुरा
+                    </item>
+                    <item>
+प्राथमिक विद्यालय उंवा संतोषपुर
+                    </item>
+                    <item>
+जूनियर हाई विद्यालय संतोषपुर उंवा
+                    </item>
+                    <item>
+प्राथमिक विद्यालय ईश्वरपुर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय बरलोकपुर पूर्व
+                    </item>
+                    <item>
+प्राथमिक विद्यालय बरलोकपुर पश्चिम रूम 1
+                    </item>
+                    <item>
+प्राथमिक विद्यालय बरलोकपुर पश्चिम रूम 2
+                    </item>
+                    <item>
+प्राथमिक विद्यालय लोकपुरा
+                    </item>
+                    <item>
+प्राथमिक विद्यालय सीपुरी
+                    </item>
+                    <item>
+प्राथमिक विद्यालय आगूपुर गोपालपुर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय आगूपुर गोपालपुर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय आरजी गुबरिया
+                    </item>
+                    <item>
+प्रहलाद इस्मारक इंटर कालेज कृष्णा नगर चौपुला
+                    </item>
+                    <item>
+प्रहलाद इस्मारक इंटर कालेज कृष्णा नगर चौपुला
+                    </item>
+                    <item>
+प्राथमिक विद्यालय मुगलपुरा
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नगला सबी
+                    </item>
+                    <item>
+प्राथमिक विद्यालय मूँज पूर्व-1
+                    </item>
+                    <item>
+प्राथमिक विद्यालय मूँज पूर्व-2
+                    </item>
+                    <item>
+प्राथमिक विद्यालय मूँज पश्चिम
+                    </item>
+                    <item>
+प्राथमिक विद्यालय रामपुरा
+                    </item>
+                    <item>
+प्राथमिक विद्यालय फर्दपुरा
+                    </item>
+                    <item>
+प्राथमिक विद्यालय मसनई
+                    </item>
+                    <item>
+प्राथमिक विद्यालय जैनपुर चौबिया
+                    </item>
+                    <item>
+प्राथमिक विद्यालय चौबिया
+                    </item>
+                    <item>
+प्राथमिक विद्यालय बखितयारपुर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय भडियापुर रहीं
+                    </item>
+                    <item>
+प्राथमिक विद्यालय तिसुआदेव
+                    </item>
+                    <item>
+प्राथमिक विद्यालय मोहनपुर रहीं
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नीवसईं
+                    </item>
+                    <item>
+जूनियर हाई विद्यालय ककरपुर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय गोरा दयालपुर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय गोरा दयालपुर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय रहीं
+                    </item>
+                    <item>
+प्राथमिक विद्यालय रूप पुर सराय भीखण
+                    </item>
+                    <item>
+प्राथमिक विद्यालय गुलाबपुर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय कल्याणपुर रहीं
+                    </item>
+                    <item>
+प्राथमिक विद्यालय बिहारीपुर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय अड़ूपुरा
+                    </item>
+                    <item>
+प्राथमिक विद्यालय केशोपुर रहीं
+                    </item>
+                    <item>
+कन्या प्राथमिक विद्यालय गंगापुर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय बिठौली
+                    </item>
+                    <item>
+प्राथमिक विद्यालय परतापुर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय खेड़ा प्यारा
+                    </item>
+                    <item>
+प्राथमिक विद्यालय खेड़ा प्यारा
+                    </item>
+                    <item>
+प्राथमिक विद्यालय ढूढ हा
+                    </item>
+                    <item>
+प्राथमिक विद्यालय आदरपुर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय जबरपुर उत्तर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नगला ताल
+                    </item>
+                    <item>
+प्राथमिक विद्यालय लखनपुर पचार गोत्र
+                    </item>
+                    <item>
+प्राथमिक विद्यालय दिबरसै
+                    </item>
+                    <item>
+प्राथमिक विद्यालय अपूरपुर
+                    </item>
+                    <item>
+किसान उच्च माध्यमिक विद्यालय शेखुपुर चन्देथी
+                    </item>
+                    <item>
+जूनियर हाई विद्यालय हिट पूर्व
+                    </item>
+                    <item>
+जूनियर हाई विद्यालय हिट पश्चिम
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नगला भुज
+                    </item>
+                    <item>
+जूनियर हाई विद्यालय रौरा पूर्व
+                    </item>
+                    <item>
+जूनियर हाई विद्यालय रौरा पश्चिम
+                    </item>
+                    <item>
+सामुदायिक मिलानो केन्द्र खिरिया
+                    </item>
+                    <item>
+प्राथमिक विद्यालय बकोली
+                    </item>
+                    <item>
+प्राथमिक विद्यालय शेखुपुर पचार गोत्र
+                    </item>
+                    <item>
+जूनियर हाई विद्यालय नगला जींद
+                    </item>
+                    <item>
+प्राथमिक विद्यालय संतोषपुर पचार गोत्र
+                    </item>
+                    <item>
+प्राथमिक विद्यालय पंजा
+                    </item>
+                    <item>
+प्राथमिक विद्यालय केशोपुर
+                    </item>
+                    <item>
+जन हितकारी एम.वी. नगला भवर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय तकपुरा
+                    </item>
+                    <item>
+प्राथमिक विद्यालय बानी हरदू
+                    </item>
+                    <item>
+प्राथमिक विद्यालय चमरौआ
+                    </item>
+                    <item>
+जिला परिसाद उच्च माध्यमिक विद्यालय सरसैनावर पूर्व
+                    </item>
+                    <item>
+जिला परिसाद उच्च माध्यमिक विद्यालय सरसैनावर
+                    </item>
+                    <item>
+जिला पंचायत उच्च माध्यमिक विद्यालय सरसैनावर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय गिरधरपुर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नगला बालसिंघ
+                    </item>
+                    <item>
+प्राथमिक विद्यालय दौलतपुर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय भादरपुरा
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नगला जलाल
+                    </item>
+                    <item>
+प्राथमिक विद्यालय सुंदरा
+                    </item>
+                    <item>
+प्राथमिक विद्यालय तिरखी तिलोकपुर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नगला ढूढहां
+                    </item>
+                    <item>
+जूनियर हाई विद्यालय कदमपुर पश्चिम
+                    </item>
+                    <item>
+प्राथमिक विद्यालय कदमपुर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय किशनपुरा
+                    </item>
+                    <item>
+प्राथमिक विद्यालय उदयपुर काला
+                    </item>
+                    <item>
+प्राथमिक विद्यालय मूर्छा
+                    </item>
+                    <item>
+सहकारी संघ ऊसराहार
+                    </item>
+                    <item>
+प्राथमिक विद्यालय रामपुर पूर्व
+                    </item>
+                    <item>
+प्राथमिक विद्यालय रामपुर पश्चिम
+                    </item>
+                    <item>
+प्राथमिक विद्यालय बड़कांशाहपुर
+                    </item>
+                    <item>
+उच्च प्राथमिक विद्यालय भरतपुर खुर्द
+                    </item>
+                    <item>
+जूनियर हाई विद्यालय तिपतिया
+                    </item>
+                    <item>
+बाबू रैम मिश्र आदर्श इंटर कालेज बाम्हणिपुर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नगला लाची
+                    </item>
+                    <item>
+प्राथमिक विद्यालय मोहरी उत्तर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय मोहरी दक्षिण
+                    </item>
+                    <item>
+प्राथमिक विद्यालय चमरपुर रुद्रपुर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नगरिया
+                    </item>
+                    <item>
+प्राथमिक विद्यालय कुइटा पूर्व
+                    </item>
+                    <item>
+प्राथमिक विद्यालय कुइटा पश्चिम
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नगला भगे
+                    </item>
+                    <item>
+प्राथमिक विद्यालय कौआ पूर्व
+                    </item>
+                    <item>
+प्राथमिक विद्यालय रामपुरा
+                    </item>
+                    <item>
+जूनियर हाई विद्यालय डीग
+                    </item>
+                    <item>
+प्राथमिक विद्यालय जफर पुरा
+                    </item>
+                    <item>
+प्राथमिक विद्यालय डींग
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नगला मसूद
+                    </item>
+                    <item>
+कन्या जूनियर हाई विद्यालय समथर पूर्व
+                    </item>
+                    <item>
+कन्या जूनियर हाई विद्यालय समथर पश्चिम
+                    </item>
+                    <item>
+प्राथमिक विद्यालय समथर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नगला पछाया
+                    </item>
+                    <item>
+प्राथमिक विद्यालय आमथारी
+                    </item>
+                    <item>
+प्राथमिक विद्यालय आमथारी
+                    </item>
+                    <item>
+प्राथमिक विद्यालय रुदौली
+                    </item>
+                    <item>
+प्राथमिक विद्यालय कुरखा
+                    </item>
+                    <item>
+प्राथमिक विद्यालय अघिनी
+                    </item>
+                    <item>
+प्राथमिक विद्यालय अघिनी
+                    </item>
+                    <item>
+उच्च माध्यमिक विद्यालय, खड़गपुर सरिया
+                    </item>
+                    <item>
+प्राथमिक विद्यालय हिन्दुपुर बैदपुर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय सोंथाना
+                    </item>
+                    <item>
+प्राथमिक विद्यालय रामपुरा पचार गोत्र
+                    </item>
+                    <item>
+जूनियर हाई विद्यालय रामपुरा पचार गोत्र
+                    </item>
+                    <item>
+प्राथमिक विद्यालय भगवन्तपुरा ग्राम हरकुंजलपुर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय पुरेला (आर.एन. 1)
+                    </item>
+                    <item>
+प्राथमिक विद्यालय पुरेला (आर.एन. 2)
+                    </item>
+                    <item>
+जूनियर हाई विद्यालय विशुनपुरा नगला गुजराती
+                    </item>
+                    <item>
+KANNYA जूनियर हाई विद्यालय कूदरेैल पूर्व
+                    </item>
+                    <item>
+KANNYA जूनियर हाई विद्यालय कूदरेैल पश्चिम
+                    </item>
+                    <item>
+प्राथमिक विद्यालय कूदरेैल
+                    </item>
+                    <item>
+प्राथमिक विद्यालय कूदरेैल
+                    </item>
+                    <item>
+प्राथमिक विद्यालय पूरनपुर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय बदरियापूठ
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नगला चतुर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नारायणपुर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय केशोपुर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय कठौतिया
+                    </item>
+                    <item>
+प्राथमिक विद्यालय पटियायत पूर्व
+                    </item>
+                    <item>
+प्राथमिक विद्यालय पटियायत पश्चिम
+                    </item>
+                    <item>
+जूनियर हाई विद्यालय ताखा पूर्व
+                    </item>
+                    <item>
+जूनियर हाई विद्यालय ताखा पश्चिम
+                    </item>
+                    <item>
+प्राथमिक विद्यालय कायमपुर रूम 1
+                    </item>
+                    <item>
+प्राथमिक विद्यालय कायमपुर रूम 2
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नगला दुली
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नगला धकाउ रूम 1
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नगला धकाउ रूम 2
+                    </item>
+                    <item>
+उच्च माध्यमिक विद्यालय मामन हिमतपुर पूर्व
+                    </item>
+                    <item>
+उच्च माध्यमिक विद्यालय मामन हिमतपुर पश्चिम
+                    </item>
+                    <item>
+प्राथमिक विद्यालय गंगदासपुर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नगला मकई
+                    </item>
+                    <item>
+प्राथमिक विद्यालय सराबा उत्तर
+                    </item>
+                    <item>
+प्राथमिक विद्यालय सराबा मध्य
+                    </item>
+                    <item>
+प्राथमिक विद्यालय बेलहर
+                    </item>
+                    <item>
+बलवंत शहीद  नगरिया यादवन (बेलहर)
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नगला धोकल 
+                    </item>
+                    <item>
+प्राथमिक विद्यालय रतहरी सराबा
+                    </item>
+                    <item>
+प्राथमिक विद्यालय नगरिया सराबा
+                    </item>
+                    <item>
+प्राथमिक विद्यालय ककराही पूर्व
+                    </item>
+                    <item>
+प्राथमिक विद्यालय ककराही पश्चिम
+                    </item>
+                </string-array>
+
+                <string name="Education_Info" >श्री शिवपाल सिंह यादव ने गांव की प्राथमिक पाठशाला से पूर्व माध्यमिक शिक्षा उत्तम श्रेणी में उत्तीर्ण की। इसके पश्चात् हाईविद्यालय व इण्टरमीडिएट की शिक्षा के लिए जैन इण्टर काॅलेज, करहल, मैनपुरी में प्रवेश लिया। जहाँ से उन्होंने सन् 1972 में हाईविद्यालय तथा सन् 1974 में इण्टरमीडिएट की परीक्षा उत्तीर्ण की।
+तत्पश्चात् श्री शिवपाल सिंह यादव ने स्नातक की पढ़ाई सन् 1976 में के०के०डिग्री कालेज इटावा (कानपुर विश्वविद्यालय) तथा सन् 1977 में लखनऊ विश्वविद्यालय से बी०पी०एड० शिक्षा प्राप्त की।
+                </string>
+                <string name="Family" >परिवारः
+                </string>
+                <string name="title_activity_vidhan_sabha" >संसदीय क्षेत्र
+                </string>
+                <string name="title_activity_contact" >संपर्क
+                </string>
+                <string name="GET_EVENTS_DATA_URL" >https://dummy-class.herokuapp.com/events_list_trial_hn
+                </string>
+                <string name="LANGUAGE_ENGLISH_STRING" >English
+                </string>
+                <string name="Public_Service_Management" >लोक सेवा प्रबंधन
+                </string>
+                <string name="PERSONAL_WEBSITE_URL" >http://shivpalsinghyadav.com/
+                </string>
+                <string name="Public_Works_Department" >लोक निर्माण विभाग
+                </string>
+                <string name="GOOGLE_PLUS_TITLE" >गूगल प्लस
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+                <string name="title_activity_photo_gallary" >Photo Gallary
+                </string>
+                <string name="RESIDENCE_ADDRESS" >7, Kalidas Marg,\nHazratganj,\nLucknow.\nPIN: 226001\nPhone: 0522-2239994\n\t\t\t\t\t0522-2235567
+                </string>
+                <string name="FAMILY_STATUS" >पारिवारिक स्थिति:
+                </string>
+                <string name="OFFICE_TITLE" >कार्यालय का पता:
+                </string>
+                <string name="title_activity_launcher_image" >शिवपाल सिंह यादव
+                </string>
+                <string name="About_Info" >4 अक्टूबर 1992 को लखनऊ में मा0 मुलायम सिंह यादव जी के नेतृत्व में समाजवादी पार्टी अस्तित्व में आई।
+                </string>
+                <string name="Uttar_Pradesh_Cooperative_Federation_Limited" >उत्तर प्रदेश सहकारी संघ लिमिटेड
+                </string>
+                <string name="Political_Career" >राजनैतिक कैरियर:
+                </string>
+                <string name="title_activity_political_career" >राजनीतिक कैरियर
+                </string>
+                <string name="NETWORK_ERROR" >अनुरोध की गई कार्रवाई में विफल रहा है, अपने इंटरनेट कनेक्शन या नेटवर्क सिग्नल की शक्ति की जाँच करें।
+                </string>
+                <string name="Disaster_Rehabilitation" >आपदा एवं पुनर्वास
+                </string>
+                <string name="LANGUAGE_HINDI_STRING" >हिंदी
+                </string>
+                <string name="Revenue" >रेवेन्यू
+                </string>
+                <string name="title_activity_events" >गतिविधियाँ
+                </string>
+                <string name="Land_Development_Water_Resources" >भूमि एवं जल संसाधन विकास
+                </string>
+                <string name="Waste_Land_Development" >बंजर भूमि विकास
+                </string>
+                <string name="title_activity_web_view" >सामाजिक मीडिया
+                </string>
+                <string name="OFFICE_ADDRESS" >Room No -99/100,\nVidhan Bhawan,\nLucknow.\nPIN: 226001\nPhone: 0522-2238088\n\t\t\t\t\t0522-2213272
+                </string>
+                <string name="Irrigation" >सिंचाई
+                </string>
+                <string name="app_name" >शिवपाल सिंह यादव
+                </string>
+                <string name="title_activity_social_media" >सामाजिक मीडिया
+                </string>
+                <string name="FACEBOOK_TITLE" >फेसबुक
+                </string>
+                <string name="Education" >शैक्षिक योग्यताः
+                </string>
+                <string name="FAMILY_STATUS_INFO" >\t\tशिवपाल सिंह यादव का विवाह 23-मई-1981 को हुआ। इनकी पत्नी का नाम सरला यादव है। शिवपाल सिंह यादव की एक पुत्री डाॅ० अनुभा यादव तथा एक पुत्र आदित्य यादव है।
+                </string>
+                <string name="PARTY_WEBSITE_TITLE" >वेबसाइट:
+                </string>
+                <string name="RESIDENCE_TITLE" >निवास का पता:
+                </string>
+                <string name="Vidhan_Sabha_Area" >जसवंत नगर (199)
+                </string>
+                <string name="Family_Info" >श्री शिवपाल सिंह यादव का विवाह 23-मई-1981 को हुआ। इनकी पत्नी का नाम श्रीमती सरला यादव है। शिवपाल जी की एक पुत्री डाॅ0 अनुभा यादव तथा एक पुत्र आदित्य यादव है।
+                </string>
+                <string name="IN_MEDIA_URL" >http://dummy-class.herokuapp.com/media_hn
+                </string>
+                <string name="title_activity_video_gallary" >वीडियो
+                </string>
+                <string name="title_activity_biography" >जीवन परिचय
+                </string>
+                <string name="title_activity_samajwadi_party" >समाजवादी पार्टी
+                </string>
+                <string name="Co_operative" >सहकारी
+                </string>
+                <string name="TWITTER_TITLE" >ट्विटर
+                </string>
+                <string name="Political_Career_Info" >सामाजिक व राजनीतिक गतिविधियों में वे बाल्यकाल से ही सक्रिय रहे। क्षेत्र में घूम-घूमकर मरीजों को अस्पताल पहुँचाना, थाना-कचहरी में गरीबों को न्याय दिलाने के लिए प्रयास करना व सोशलिस्ट पार्टी के कार्यक्रमों में भाग लेना उनका प्रिय शगल था। वे नेताजी के चुनावों में पर्चें बाँटने से लेकर बूथ-समन्वयक तक की जिम्मेदारी उठाते रहे। मधु लिमये, बाबू कपिलदेव, चैधरी चरण सिंह, जनेश्वर जी जैसे बड़े नेताओं के आगमन पर उनकी सभा करवाने की भी जिम्मेदारी भी शिवपाल जी के ही कंधे पर होती थी।\n\nवे 1988 से 1991 और पुनः 1993 में जिला सहकारी बैंक, इटावा के अध्यक्ष चुने गये। 1995 से लेकर 1996 तक इटावा के जिला पंचायत अध्यक्ष भी रहे। इसी बीच 1994 से 1998 के अंतराल में उत्तरप्रदेश सहकारी ग्राम विकास बैंक के भी अध्यक्ष का दायित्व संभाला। तेरहवीं विधानसभा में वे जसवन्तनगर से विधानसभा का चुनाव लड़े और ऐतिहासिक मतों से जीते। इसी वर्ष वे समाजवादी पार्टी के प्रदेश महासचिव बनाये गये। उन्होंने संगठन को मजबूत बनाने के लिए अनिर्वचनीय मेहनत की। पूरे उत्तर प्रदेश को कदमों से नाप दिया। उनकी लोकप्रियता और स्वीकारिता बढ़ती चली गयी। प्रमुख महासचिव के रूप में उन्होंने अपनी जिम्मेदारी को नया आयाम दिया। प्रदेश अध्यक्ष रामशरण दास जी की अस्वस्थता को देखते हुए 01 नवम्बर, 2007 को मेरठ अधिवेशन में शिवपाल जी को कार्यवाहक अध्यक्ष बनाया गया।\nरामशरण जी के महाप्रयाण के पश्चात् 6 जनवरी, 2009 को वे पूर्णकालिक प्रदेश अध्यक्ष बने। शिवपाल जी ने सपा को और अधिक प्रखर बनाया। नेताजी और जनेश्वर जी के मार्गदर्शन और उनकी अगुवाई में उत्तर प्रदेश में समाजवादी पार्टी सबसे बड़ी पार्टी के रूप में स्थापित हुई। वे मई 2009 तक प्रदेश अध्यक्ष रहे फिर उत्तर प्रदेश विधानसभा में नेता विरोधी दल की भूमिका दी गई। बसपा की बहुमत की सरकार के समक्ष नेता विरोधी दल की जिम्मेदारी तलवार की धार पर चलने जैसा था। उन्होंने इस दायित्व को संभाला और विपक्ष तथा आम जनता के प्रतिकार के स्वर को ऊँचा रखा।\nवरिष्ठ नेता आजम खान की वापसी के दिन उन्होंने नेता प्रतिपक्ष पद से इस्तीफा देने में एक पल का भी विलम्ब नहीं किया, जो दर्शाता है कि उन्हें पद से अधिक सिद्धान्त और दलहित प्रिय है। बाढ़-सूखा, भूकम्प जैसी आपदाओं में जाकर मदद करने वालों में शिवपाल आगे खड़े रहते हैं। उन्होंने कई बार गिरफ्तारी दी, पुलिसिया उत्पीड़न को झेला, आम कार्यकर्ताओं के रक्षा कवच बने। यही कारण है कि सोलहवीं विधानसभा में समाजवादी पार्टी के चुनाव निशान पर साठ फीसदी (61.90) से अधिक मतों से जीतने वाले एक मात्र विधायक हैं।\nउन्होंने समय-समय पर कभी डा0 लोहिया, कभी अशफाक उल्ला खान, कभी चन्द्रशेखर आजाद तो कभी मधु लिमये की जयन्ती और अन्य अवसरों पर लेख लिखकर, छोटी-छोटी पुस्तकें प्रकाशित कर बँटवाकर नई पीढ़ी को गौरवमयी इतिहास से अवगत कराने का कार्य किया है। उनके अब तक दर्जनों लेख दैनिक जागरण, अमर उजाला, राष्ट्रीय सहारा, जनाग्रह (बंगलुरू), डेली न्यूज एक्टिविस्ट, जन संदेश, कैनविज टाइम्स समेत कई पत्र-पत्रिकाओं में प्रकाशित हो चुके हैं। उन्होंने डा0 लोहिया के कई ऐतिहासिक उद्बोधनों यथा ’’द्रौपदी व सावित्री’’ दो कटघरे आदि को प्रकाशित कर बँटवाया और समाजवादी पार्टी में पढ़ने-लिखने की परम्परा को प्रोत्साहन दिया। वे साहित्यकारों का काफी सम्मान करते हैं। गोपालदास ’’नीरज’’ उदय प्रताप सिंह जैसे साहित्यकार व कवि उन्हें काफी स्नेह करते हैं, जिससे उनकी साहित्यिक अभिरूचि का पता चलता है।\n\nविपक्ष के दौरान उन्होंने जन संघर्षों व सामूहिक प्रतिकार के प्रत्येक रण में सेनानी की भूमिका निभाई। कई बार जेल गये, आन्दोलनों में चोटिल हुए पर जब भी आन्दोलन की घोषणा होती, शिवपाल जी प्रथम पंक्ति में खड़े दिखते। समाजवादी पार्टी की 2012 में पुनः सरकार बनने के बाद उन्हें लोक निर्माण, सिंचाई, सहकारिता मंत्री की जिम्मेदारी दी गयी, उन्होंने इन विभागों में व्याप्त भ्रष्टाचार को खत्म करने के लिए कई बड़े अधिकारियों व अभियन्ताओं के विरुद्ध कठोर कार्यवाही की, एक अखबार ने उन्हें ’’कार्यवाही मिनिस्टर’’ तक की संज्ञा दे दी।\n\nउनका इतिहास समाजवादी पार्टी का इतिहास है, जन-संघर्षों व सक्रिय करूणा का जीवन-दर्शन है।
+                </string>
+                <string name="title_activity_department" >विभाग
+                </string>
+            </file>
+            <file
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/values-sw720dp-land/dimens.xml"
+                qualifiers="sw720dp-land-v13" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/values-v11/styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/values-v14/styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+        </source>
+        <source path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/build/generated/res/rs/debug" />
+        <source path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/build/generated/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/debug/res" />
+    </dataSet>
+
+</merger>

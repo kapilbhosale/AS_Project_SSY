@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.twostars.syadav"
+    android:versionCode="5"
+    android:versionName="2.1" >
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="17" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.amp.syadav.MainActivity"
+            android:label="@string/app_name"
+            
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.amp.syadav.BiographyActivity"
+            android:label="@string/title_activity_biography"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.amp.syadav.PoliticalCareerActivity"
+            android:label="@string/title_activity_political_career"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.amp.syadav.SamajwadiPartyActivity"
+            android:label="@string/title_activity_samajwadi_party"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.amp.syadav.EventsActivity"
+            android:label="@string/title_activity_events"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.amp.syadav.ContactActivity"
+            android:label="@string/title_activity_contact"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.amp.syadav.MediaActivity"
+            android:label="@string/title_activity_media"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.amp.syadav.PhotoGallaryActivity"
+            android:label="@string/title_activity_photo_gallary"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.amp.syadav.VideoGallaryActivity"
+            android:label="@string/title_activity_video_gallary"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.amp.syadav.SocialMediaActivity"
+            android:label="@string/title_activity_social_media"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.amp.syadav.WebViewActivity"
+            android:label="@string/title_activity_web_view"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.amp.syadav.LauncherImageActivity"
+            android:label="@string/title_activity_launcher_image"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.amp.syadav.EventDetailActivity"
+            android:label="@string/title_activity_event_detail"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.amp.syadav.DepartmentActivity"
+            android:label="@string/title_activity_department"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.amp.syadav.VidhanSabhaActivity"
+            android:label="@string/title_activity_vidhan_sabha" 
+            android:screenOrientation="portrait">
+        </activity>
+    </application>
+
+</manifest>

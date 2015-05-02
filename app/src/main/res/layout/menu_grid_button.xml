@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/holder"
+    android:layout_width="match_parent"
+        android:layout_height="115dp" >
+    
+    
+
+    <TextView
+        android:id="@+id/txtSelectorText"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_gravity="bottom|center"
+        android:layout_marginBottom="5dp"        
+        android:contentDescription=" "
+        android:text="News Zone" 
+        android:gravity="bottom|center_horizontal"
+        android:textColor="@android:color/white"
+        />
+
+    <ImageView
+        android:id="@+id/imgSelectorBackground"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:paddingTop="30dp"
+        android:adjustViewBounds="true"
+       />
+
+</FrameLayout>

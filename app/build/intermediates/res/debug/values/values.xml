@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string-array name="VidhanSabhaPartNames">
+        <item>PRIMARY SCHOOL MAHAMAI</item>
+        <item>PRIMARY SCHOOL NAGARI</item>
+        <item>PRIMARY SCHOOL JONAI</item>
+        <item>PRIMARY SCHOOL DHOLPUR</item>
+        <item>PRIMARY SCHOOL NAGLA KHERA</item>
+        <item>PRIMARY SCHOOL DHARWAR ROOM-1</item>
+        <item>PRIMARY SCHOOL DHARWAR ROOM-2</item>
+        <item>JUNIOR HIGH SCHOOL DHARWAR NORTH</item>
+        <item>JUNIOR HIGH SCHOOL DHARWAR SOUTH</item>
+        <item>PRIMARY SCHOOL KURAKHAR</item>
+        <item>PRIMARY SCHOOL FULRAI</item>
+        <item>PRIMARY SCHOOL MEERAKHPUR PUTIYA</item>
+        <item>PRIMARY SCHOOL NAGLA JULA</item>
+        <item>PRIMARY SCHOOL AALAI</item>
+        <item>PRIMARY SCHOOL MADANPURA</item>
+        <item>PRIMARY SCHOOL GHANSHYAMPURA</item>
+        <item>PRIMARY SCHOOL NAGLA DAYALPURA</item>
+        <item>DR. RAM MANOHAR LOHIA INTER COLLEGE DHANUA</item>
+        <item>PRIMARY SCHOOL NAGLA JAGAN</item>
+        <item>PRIMARY SCHOOL NAGLA LAYAK</item>
+        <item>PRIMARY SCHOOL NAGLA FHATEHPURA</item>
+        <item>PRIMARY SCHOOL BIYARI BHATPURA WEST</item>
+        <item>PRIMARY SCHOOL BIYARI BHATPURA EAST</item>
+        <item>PRIMARY SCHOOL BHUJPURA BIBAMAU</item>
+        <item>PRIMARY SCHOOL KAKRAI</item>
+        <item>PRIMARY SCHOOL DARSHANPUR</item>
+        <item>PRIMARY SCHOOL KHERA BUJURG NORTH</item>
+        <item>PRIMARY SCHOOL KHERA BUJURG SOUTH</item>
+        <item>PRIMARY SCHOOL TULARAMPUR</item>
+        <item>PRIMARY SCHOOL BHAGWANPURA</item>
+        <item>PRIMARY SCHOOL NAGLA KEHRI</item>
+        <item>PRIMARY SCHOOL KURSENA ROOM-1</item>
+        <item>PRIMARY SCHOOL KURSENA ROOM-2</item>
+        <item>PRIMARY SCHOOL HANUMANT KHERA</item>
+        <item>PRIMARY SCHOOL GARI JALIM</item>
+        <item>PRIMARY SCHOOL RUKANPURA</item>
+        <item>PANCHAYATGHAR KANCHANIA</item>
+        <item>PRIMARY SCHOOL NAGLA SUGANDH NAGER</item>
+        <item>PRIMARY SCHOOL AJNORA</item>
+        <item>SAMUDAIK KENDRA PATHAKPURA</item>
+        <item>PRIMARY SCHOOL CHANDANPUR BIBAMAU</item>
+        <item>PRIMARY SCHOOL SHAHJAHANPUR</item>
+        <item>PRIMARY SCHOOL LARKHOR</item>
+        <item>PRIMARY SCHOOL MOHANPURA (LARHHAUR)</item>
+        <item>PRIMARY SCHOOL KHUSHALPURA (LARHHAUR)</item>
+        <item>PRIMARY SCHOOL BHAUPURA</item>
+        <item>PRIMARY SCHOOL NAGLA SUBHAN</item>
+        <item>ZILA PANCHAYAT INTER COLLEGE HEONRA</item>
+        <item>PRIMARY SCHOOL HENORA NEW BUILDING</item>
+        <item>PRIMARY SCHOOL NAGLA ANIYA</item>
+        <item>PRIMARY SCHOOL BANAMAI</item>
+        <item>PRIMARY SCHOOL BHAISAN</item>
+        <item>PRIMARY SCHOOL PARSAOUA</item>
+        <item>PRIMARY SCHOOL ALAMPUR NARIA</item>
+        <item>PRIMARY SCHOOL BHAWALPUR</item>
+        <item>PRIMARY SCHOOL NILOI EAST</item>
+        <item>PRIMARY SCHOOL NILOI WEST</item>
+        <item>PRIMARY SCHOOL NAGLA RATHORE</item>
+        <item>PRIMARY SCHOOL PRATAPPURA</item>
+        <item>PRIMARY SCHOOL MAHLAI ROOM-1</item>
+        <item>PRIMARY SCHOOL MAHLAI ROOM-2</item>
+        <item>JODHASINGH INTER COLLEGE HARKOOPUR</item>
+        <item>SHRI MULAYAM SINGH YADAV INTER COLLEGE RAINAGER</item>
+        <item>PRIMARY SCHOOL NAGLA HARE</item>
+        <item>PRIMARY SCHOOL KELOKHAR</item>
+        <item>PRIMARY SCHOOL NAGLA SEWARAM</item>
+        <item>PRIMARY SCHOOL KUNJPUR</item>
+        <item>PRIMARY SCHOOL JARIKHERA</item>
+        <item>PRIMARY SCHOOL MUHABATPUR NAGLA BHAGAT</item>
+        <item>KANYA PRIMARY SCHOOL KEST</item>
+        <item>PRIMARY SCHOOL KEST</item>
+        <item>PRIMARY SCHOOL NAGLA INCHA</item>
+        <item>PRIMARY SCHOOL DURGAPURA (LUDHPURA)</item>
+        <item>KANYA UCCHATAR PRIMARY SCHOOL JASWANT NAGER (R.N.-1)</item>
+        <item>KANYA UCCHATAR PRIMARY SCHOOL JASWANT NAGER (R.N.-2)</item>
+        <item>GOVERNMENT GIRLS INTER COLLEGE JASWANT NAGER (R.N.1)</item>
+        <item>GOVERNMENT GIRLS INTER COLLEGE JASWANT NAGER (R.N.2)</item>
+        <item>GOVERNMENT GIRLS INTER COLLEGE JASWANT NAGER (R.N.3)</item>
+        <item>GOVERNMENT GIRLS INTER COLLEGE JASWANT NAGER (R.N.4)</item>
+        <item>JUNIOR HIGH SCHOOL JASWANT NAGER (R.N.1)</item>
+        <item>JUNIOR HIGH SCHOOL JASWANT NAGER (R.N.2)</item>
+        <item>JUNIOR HIGH SCHOOL JASWANT NAGER (R.N.3)</item>
+        <item>PRIMARY SCHOOL JASWANT NAGER (R.N. 1)</item>
+        <item>PRIMARYSCHOOL JASWANT NAGER (R.N. 2)</item>
+        <item>PARIGANIT PRIMARY SCHOOL JASWANT NAGER (R.N. 1)</item>
+        <item>PARIGANIT PRIMARYSCHOOL JASWANT NAGER (R.N. 2)</item>
+        <item>HINDU VIDYALAYA INTER COLLEGE. JASWANT NAGER (R.N. 1)</item>
+        <item>HINDU VIDYALAYA INTER COLLEGE. JASWANT NAGER (R.N. 2)</item>
+        <item>HINDU VIDYALAYA INTER COLLEGE. JASWANT NAGER (R.N. 3)</item>
+        <item>HINDU VIDYALAYA INTER COLLEGE. JASWANT NAGER (R.N. 4)</item>
+        <item>PRIMARY SCHOOL SISHAT EAST</item>
+        <item>PRIMARY SCHOOL SISHAT WEST</item>
+        <item>PRIMARY SCHOOL PIPREDI</item>
+        <item>PANCHAYATGHAR JWALAPUR VILL. PIPREDI</item>
+        <item>PRIMARY SCHOOL RAJPUR TAMERI</item>
+        <item>PRIMARY SCHOOL TAMERI</item>
+        <item>PRIMARY SCHOOL JUGOURA</item>
+        <item>PRIMARY SCHOOL BAHORIPUR</item>
+        <item>ASHOK INTER COLLEGE KUKAWALI (R.N.1)</item>
+        <item>ASHOK INTER COLLEGEKUKAWALI (R.N.2)</item>
+        <item>PRIMARY SCHOOL BAHADURPUR NASIRPUR</item>
+        <item>PRIMARY SCHOOL NIJAMPUR</item>
+        <item>PRIMARY SCHOOL NAGLA RAMSUNDER EAST</item>
+        <item>PRIMARY SCHOOL NAGLA RAMSUNDER WEST</item>
+        <item>PRIMARY SCHOOL NAGLA SALAHDI</item>
+        <item>PRIMARY SCHOOL BALRAI</item>
+        <item>PRIMARY SCHOOL DODUA GOPALPUR (GADI RAMDHAN)</item>
+        <item>PRIMARY SCHOOL BIBAMAU EAST</item>
+        <item>PRIMARY SCHOOL BIBAMAU WEST</item>
+        <item>PRIMARY SCHOOL AJABPUR BIBAMAU</item>
+        <item>PRIMARY SCHOOL NAGLA VISHUN TIJORA EAST</item>
+        <item>PRIMARY SCHOOL NAGLA VISHUN TIJORA WEST</item>
+        <item>PRIMARY SCHOOL PREM NAGER</item>
+        <item>JUNIOR HIGH SCHOOL BAUTH</item>
+        <item>PRIMARY SCHOOL MADIYA FAKIRE MAUJA BAUTH</item>
+        <item>PRIMARY SCHOOL SARAMAI</item>
+        <item>PRIMARY SCHOOL NAGLA TAUR NORTH</item>
+        <item>PRIMARY SCHOOL NAGLA TAUR SOUTH</item>
+        <item>PRIMARY SCHOOL NAGLA DHURHA</item>
+        <item>PRIMARY SCHOOL KIRATPUR</item>
+        <item>PRIMARY SCHOOL PEEHARPUR</item>
+        <item>PRIMARY SCHOOL SIRSA BIBMAU</item>
+        <item>PRIMARY SCHOOL SALEMPUR</item>
+        <item>PRIMARY SCHOOL CHAK</item>
+        <item>K.PRIMARY SCHOOL BHIKHANPUR</item>
+        <item>PRIMARY SCHOOL NAGARIA JASOHAN</item>
+        <item>PRIMARY SCHOOL GARAMPUR</item>
+        <item>JUNIOR HIGH SCHOOL SIRHOL</item>
+        <item>PRIMARY SCHOOL NAGLA CHHAND</item>
+        <item>PRIMARY SCHOOL MUHABATPUR JASOHAN</item>
+        <item>PRIMARY SCHOOL BAGIYA JASOHAN</item>
+        <item>PRIMARY SCHOOL JANAKPUR (R.N. 1)</item>
+        <item>PRIMARY SCHOOL JANAKPUR (R.N. 2)</item>
+        <item>PRIMARY SCHOOL NAGLA UDAYSINGH</item>
+        <item>PRIMARY SCHOOL NAGLA KESHONRAI</item>
+        <item>PRIMARY SCHOOL JHALOKHAR</item>
+        <item>PRIMARY SCHOOL SAKHOA</item>
+        <item>PRIMARY SCHOOL JAGSORA EAST</item>
+        <item>PRIMARY SCHOOL JAGSORA WEST</item>
+        <item>PRIMARY SCHOOL NAGARIYA BHAT</item>
+        <item>PRIMARY SCHOOL NAGLA NAYA</item>
+        <item>PRIMARY SCHOOL NAGLA DUDHA</item>
+        <item>PRIMARY SCHOOL MALAJANI NORTH</item>
+        <item>PRIMARY SCHOOL MALAJANI SOUTH</item>
+        <item>JUNIOR HIGH SCHOOL BHATORA</item>
+        <item>PRIMARY SCHOOL BHATORA</item>
+        <item>PRIMARY SCHOOL BHOGATAL</item>
+        <item>PRIMARY SCHOOL TAKPURA SARAI JALAL</item>
+        <item>PRIMARY SCHOOL JAINPUR NAGAR</item>
+        <item>PRIMARY SCHOOL ARAJI SARAIBHOPAT (NAGLA BABA)</item>
+        <item>PRIMARY SCHOOL SARAI BHOPAT</item>
+        <item>PRIMARY SCHOOL NAGLA VERMAJIT</item>
+        <item>PRIMARY SCHOOL MALOOPUR</item>
+        <item>PRIMARY SCHOOL BALIYAPUR</item>
+        <item>JUNIOR HIGH SCHOOL BANKATI BUJURG</item>
+        <item>PRIMARY SCHOOL BIRAMPUR</item>
+        <item>PRIMARY SCHOOL ADHIYAPUR</item>
+        <item>PRIMARY SCHOOL NAGLA CHHATE</item>
+        <item>PRIMARY SCHOOL BHESRAI</item>
+        <item>KRASAK INTER COLLEGE BICHPURIKERA</item>
+        <item>PRIMARY SCHOOL PATAJHARI</item>
+        <item>PRIMARY SCHOOL HAJRATPUR</item>
+        <item>JUNIOR HIGH SCHOOL JAITIYA</item>
+        <item>PRIMARY SCHOOL SONAI</item>
+        <item>PRIMARY SCHOOL RAJMAU ROOM-1</item>
+        <item>PRIMARY SCHOOL RAJMAU ROOM-2</item>
+        <item>PRIMARY SCHOOL KANTIHAR</item>
+        <item>PRIMARY SCHOOL BARRA</item>
+        <item>PRIMARY SCHOOL BAIDPURA</item>
+        <item>PRIMARY SCHOOL JAHANABAD</item>
+        <item>PRIMARY SCHOOL CHAKOOPUR</item>
+        <item>PRIMARY SCHOOL MAHOLA</item>
+        <item>PRIMARY SCHOOL UMRAHI</item>
+        <item>PRIMARY SCHOOL KHARDOOLI</item>
+        <item>PRIMARY SCHOOL CHHITONI</item>
+        <item>PRIMARY SCHOOL RAMET</item>
+        <item>PRIMARY SCHOOL HIRAPUR</item>
+        <item>PRIMARY SCHOOL BAROLI BAIDPURA</item>
+        <item>PRIMARY SCHOOL SIPHARI</item>
+        <item>PRIMARY SCHOOL CHHIMARA EAST</item>
+        <item>PRIMARY SCHOOL CHHIMARA MIDDLE</item>
+        <item>PRIMARY SCHOOL BORAIN</item>
+        <item>PRIMARY SCHOOL BHADAI KASHIPUR</item>
+        <item>PRIMARY SCHOOL BHADAI KASHIPUR WEST</item>
+        <item>PRIMARY SCHOOL NAGLA SEWA</item>
+        <item>PRIMARY SCHOOL NAGLA BABA BHAGWATIPUR NEW BUILDING</item>
+        <item>PRIMARY SCHOOL BHALASAIYA</item>
+        <item>PRIMARY SCHOOL NARHOLI BHIDARUA</item>
+        <item>PRIMARY SCHOOL LACHWAI EAST</item>
+        <item>PRIMARY SCHOOL LACHWAI WEST</item>
+        <item>PRIMARY SCHOOL GEENJA (R.N. 1)</item>
+        <item>PRIMARY SCHOOL GEENJA (R.N. 2)</item>
+        <item>PRIMARY SCHOOL CHOBEYPUR EAST</item>
+        <item>PRIMARY SCHOOL JHIGOOPUR</item>
+        <item>PRIMARY SCHOOL BHALI</item>
+        <item>PRIMARY SCHOOL MUCHHARA</item>
+        <item>PRIMARY SCHOOL SAIFAI EAST</item>
+        <item>PRIMARY SCHOOL SAIFAI MIDDLE</item>
+        <item>JUNIOR HIGH SCHOOL SAIFAI (R.N.1)</item>
+        <item>JUNIOR HIGH SCHOOL FAIFAI (R.N. 2)</item>
+        <item>JUNIOR HIGH SCHOOL ATIRAJPUR</item>
+        <item>PANCHAYAT OFFICE SAIFAI OLD MEETING HALL</item>
+        <item>PRIMARY SCHOOL NAGLA SABI</item>
+        <item>PRIMARY SCHOOL UJHIYANI</item>
+        <item>PRIMARY SCHOOL BAGHUIYA</item>
+        <item>PRIMARY SCHOOL PINDARI NEW BUILDING</item>
+        <item>PRIMARY SCHOOL PINDARI NEW BUILDING</item>
+        <item>PRIMARY SCHOOL KUIYA EAST</item>
+        <item>PRIMARY SCHOOL KUIYA</item>
+        <item>PRIMARY SCHOOL ODAMPUR</item>
+        <item>PRIMARY SCHOOL BAROLI KALA</item>
+        <item>PRIMARY SCHOOL NAGLA BAGERHAR EAST</item>
+        <item>PRIMARY SCHOOL SAHSARPUR</item>
+        <item>DR. RAM MANOHAR LOHIA JHS USRAI</item>
+        <item>SARVODAYA INTER COLLEGE LONGPUR</item>
+        <item>PRIMARY SCHOOL TULSIPUR NEW BUILDING</item>
+        <item>PRIMARY SCHOOL NAGLA DARIYAY</item>
+        <item>PRIMARY SCHOOL BHAGIPUR</item>
+        <item>PRIMARY SCHOOL NANDPUR</item>
+        <item>PRIMARY SCHOOL KUMHAWAR</item>
+        <item>PRIMARY SCHOOL UDDHAMPUR</item>
+        <item>PRIMARY SCHOOL HARDOI (R.N. 1)</item>
+        <item>PRIMARY SCHOOL HARDOI (R.N. 2)</item>
+        <item>JUNIOR HIGH SCHOOL HARDOI</item>
+        <item>PRIMARY SCHOOL MOHATI</item>
+        <item>PRIMARY SCHOOL LADAMPUR</item>
+        <item>PRIMARY SCHOOL KATHUA</item>
+        <item>PRIMARY SCHOOL NAGLA MATHIYA</item>
+        <item>PRIMARY SCHOOL SHIVPURI TIMARUA EAST</item>
+        <item>PRIMARY SCHOOL SHIVPURI TIMARUA WEST</item>
+        <item>PRIMARY SCHOOL MADHAIYAPUR</item>
+        <item>PRIMARY SCHOOL SARWARPUR</item>
+        <item>PRIMARY SCHOOL PARASNA EAST</item>
+        <item>PRIMARY SCHOOL PARASNA WEST</item>
+        <item>PRIMARY SCHOOL NAGLA KOOKPUR</item>
+        <item>PRIMARY SCHOOL NAGLA BANE</item>
+        <item>PRIMARY SCHOOL MANIGAWNA (R.N. 1)</item>
+        <item>PRIMARY SCHOOL MANIGAWNA (R.N. 2)</item>
+        <item>PRIMARY SCHOOL THULRAI</item>
+        <item>PRIMARY SCHOOL SARSAI HELU</item>
+        <item>PRIMARY SCHOOL NAGLA KUATIA</item>
+        <item>PRIMARY SCHOOL SHADIPUR</item>
+        <item>PRIMARY SCHOOL JAGANNATHPUR</item>
+        <item>JUNIOR HIGH SCHOOL KARRI</item>
+        <item>JUNIOR HIGH SCHOOL KARRI</item>
+        <item>PRIMARY SCHOOL NAGLA BAHELIYA (KARRI)</item>
+        <item>PRIMARY SCHOOL KALEPURA</item>
+        <item>PRIMARY SCHOOL GANESHPUR</item>
+        <item>PRIMARY SCHOOL BHOOTHA</item>
+        <item>PRIMARY SCHOOL BEENA WEST</item>
+        <item>PRIMARY SCHOOL BEENA WEST</item>
+        <item>PRIMARY SCHOOL PAROLI RAMAIN</item>
+        <item>PRIMARY SCHOOL KATAIYAPUR (KRAPALPUR)</item>
+        <item>PRIMARY SCHOOL HIDDAPURA</item>
+        <item>PRIMARY SCHOOL UNWA SANTOSHPUR</item>
+        <item>JUNIOR HIGH SCHOOL SANTOSHPUR UNWA</item>
+        <item>PRIMARY SCHOOL ISWARPUR</item>
+        <item>PRIMARY SCHOOL BARALOKPUR EAST</item>
+        <item>PRIMARY SCHOOL BARALOKPUR WEST ROOM-1</item>
+        <item>PRIMARY SCHOOL BARALOKPUR WEST ROOM-2</item>
+        <item>PRIMARY SCHOOL LOKPURA</item>
+        <item>PRIMARY SCHOOL SEEPURI</item>
+        <item>PRIMARY SCHOOL AGUPUR GOPALPUR</item>
+        <item>PRIMARY SCHOOL AGUPUR GOPALPUR</item>
+        <item>PRIMARY SCHOOL AARAJI GUBARIYA</item>
+        <item>PRAHLAD ISMARAK INTER COLLEGE KRISHNA NAGAR CHOPULA</item>
+        <item>PRAHLAD ISMARAK INTER COLLEGE KRISHNA NAGAR CHOPULA</item>
+        <item>PRIMARY SCHOOL MUGALPURA</item>
+        <item>PRIMARY SCHOOL NAGLA SABI</item>
+        <item>PRIMARY SCHOOL MOONJ EAST-1</item>
+        <item>PRIMARY SCHOOL MOONJ EAST-2</item>
+        <item>PRIMARY SCHOOL MOONJ WEST</item>
+        <item>PRIMARY SCHOOL RAMPURA</item>
+        <item>PRIMARY SCHOOL FARDPURA</item>
+        <item>PRIMARY SCHOOL MASNAI</item>
+        <item>PRIMARY SCHOOL JAINPUR CHAUBIYA</item>
+        <item>PRIMARY SCHOOL CHAUBIYA</item>
+        <item>PRIMARY SCHOOL BAKHTYARPUR</item>
+        <item>PRIMARY SCHOOL BHADIYAPUR RAHIN</item>
+        <item>PRIMARY SCHOOL TISUADEV</item>
+        <item>PRIMARY SCHOOL MOHANPUR RAHIN</item>
+        <item>PRIMARY SCHOOL NEEWASAI</item>
+        <item>JUNIOR HIGH SCHOOL KAKARPUR</item>
+        <item>PRIMARY SCHOOL GORA DAYALPUR</item>
+        <item>PRIMARY SCHOOL GORA DAYALPUR</item>
+        <item>PRIMARY SCHOOL RAHIN</item>
+        <item>PRIMARY SCHOOL ROOP PUR SARAI BHIKHAN</item>
+        <item>PRIMARY SCHOOL GULABPUR</item>
+        <item>PRIMARY SCHOOL KALYANPUR RAHIN</item>
+        <item>PRIMARY SCHOOL BIHARIPUR</item>
+        <item>PRIMARY SCHOOL ADUPURA</item>
+        <item>PRIMARY SCHOOL KESHONPUR RAHIN</item>
+        <item>KANNYA PRIMARY SCHOOL GANGAPUR</item>
+        <item>PRIMARY SCHOOL BITHOLI</item>
+        <item>PRIMARY SCHOOL PARTAPURA</item>
+        <item>PRIMARY SCHOOL KHERA HELU</item>
+        <item>PRIMARY SCHOOL KHERA HELU</item>
+        <item>PRIMARY SCHOOL DUDHA</item>
+        <item>PRIMARY SCHOOL ADARPUR</item>
+        <item>PRIMARY SCHOOL JABARPUR NORTH</item>
+        <item>PRIMARY SCHOOL NAGLA TAAL</item>
+        <item>PRIMARY SCHOOL LAKHANPUR PACHAR</item>
+        <item>PRIMARY SCHOOL DIBRASAI</item>
+        <item>PRIMARY SCHOOL APOORPUR</item>
+        <item>KISAN HIGHER SECONDRY SCHOOL SHEKHUPUR CHANDETHI</item>
+        <item>JUNIOR HIGH SCHOOL BER EAST</item>
+        <item>JUNIOR HIGH SCHOOL BER WEST</item>
+        <item>PRIMARY SCHOOL NAGLA BHOOJ</item>
+        <item>JUNIOR HIGH SCHOOL ROURA EAST</item>
+        <item>JUNIOR HIGH SCHOOL ROURA WEST</item>
+        <item>SAMUDAIK MILAN KENDRA KHIRIYA</item>
+        <item>PRIMARY SCHOOL BAKOLI</item>
+        <item>PRIMARY SCHOOL SHEKHUPUR PACHAR</item>
+        <item>JUNIOR HIGH SCHOOL NAGLA JIND</item>
+        <item>PRIMARY SCHOOL SANTOSHPUR PACHAR</item>
+        <item>PRIMARY SCHOOL PUNJA</item>
+        <item>PRIMARY SCHOOL KESHONPUR</item>
+        <item>JAN HITKARI M.V. NAGLA BHAWAR</item>
+        <item>PRIMARY SCHOOL TAKPURA</item>
+        <item>PRIMARY SCHOOL BANI HARDU</item>
+        <item>PRIMARY SCHOOL CHAMROUA</item>
+        <item>JILA PARISAD HIGHER SECONDRY SCHOOL SARSAINAWAR EAST</item>
+        <item>JILA PARISAD HIGHER SECONDRY SCHOOL SARSAINAWAR</item>
+        <item>JILA PANCHAYAT HIGHER SECONDRY SCHOOL SARSAINAWAR</item>
+        <item>PRIMARY SCHOOL GIRDHARPURA</item>
+        <item>PRIMARY SCHOOL NAGLA BALSINGH</item>
+        <item>PRIMARY SCHOOL DOLATPUR</item>
+        <item>PRIMARY SCHOOL BHADARPURA</item>
+        <item>PRIMARY SCHOOL NAGLA JALAL</item>
+        <item>PRIMARY SCHOOL SUNDRA</item>
+        <item>PRIMARY SCHOOL TIRKHI TILOKPUR</item>
+        <item>PRIMARY SCHOOL NAGLA DUDHA</item>
+        <item>JUNIOR HIGH SCHOOL KADAMPUR WEST</item>
+        <item>PRIMARY SCHOOL KADAMPUR</item>
+        <item>PRIMARY SCHOOL KISHANPURA</item>
+        <item>PRIMARY SCHOOL UDAYPUR KALA</item>
+        <item>PRIMARY SCHOOL MURCHA</item>
+        <item>SAHKARI SANGH USRAHAR</item>
+        <item>PRIMARY SCHOOL RAMPUR EAST</item>
+        <item>PRIMARY SCHOOL RAMPUR WEST</item>
+        <item>PRIMARY SCHOOL BADKANSHAHPUR</item>
+        <item>HIGHER PRIMARY VIDYALAYA BHARATPUR KHURD</item>
+        <item>JUNIOR HIGH SCHOOL TIPATIYA</item>
+        <item>PT.BABU RAM MISHR ADARSH INTER COLLEGE BAMHNIPUR</item>
+        <item>PRIMARY SCHOOL NAGLA LACHI</item>
+        <item>PRIMARY SCHOOL MOHRI NORTH</item>
+        <item>PRIMARY SCHOOL MOHRI SOUTH</item>
+        <item>PRIMARY SCHOOL CHAMARPUR RUDRAPUR</item>
+        <item>PRIMARY SCHOOL NAGARIYA</item>
+        <item>PRIMARY SCHOOL KUITA EAST</item>
+        <item>PRIMARY SCHOOL KUITA WEST</item>
+        <item>PRIMARY SCHOOL NAGLA BHAGE</item>
+        <item>PRIMARY SCHOOL KAUA EAST</item>
+        <item>PRIMARY SCHOOL RAMPURA</item>
+        <item>JUNIOR HIGH SCHOOL DEEG</item>
+        <item>PRIMARY SCHOOL JAFAR PURA</item>
+        <item>PRIMARY SCHOOL DEENG</item>
+        <item>PRIMARY SCHOOL NAGLA MASOOD</item>
+        <item>KANYA JUNIOR HIGH SCHOOL SAMTHAR EAST</item>
+        <item>KANYA JUNIOR HIGH SCHOOL SAMTHAR WEST</item>
+        <item>PRIMARY SCHOOL SAMTHAR</item>
+        <item>PRIMARY SCHOOL NAGLA PACHHAYA</item>
+        <item>PRIMARY SCHOOL AMTHARI</item>
+        <item>PRIMARY SCHOOL AMTHARI</item>
+        <item>PRIMARY SCHOOL RUDOLI</item>
+        <item>PRIMARY SCHOOL KURKHA</item>
+        <item>PRIMARY SCHOOL AGHINI</item>
+        <item>PRIMARY SCHOOL AGHINI</item>
+        <item>HIGHER SECONDRY SCHOOL KHARAGPUR SARIYA</item>
+        <item>PRIMARY SCHOOL HINDUPUR BAIDPUR</item>
+        <item>PRIMARY SCHOOL SONTHANA</item>
+        <item>PRIMARY SCHOOL RAMPURA PACHAR</item>
+        <item>JUNIOR HIGH SCHOOL RAMPURA PACHAR</item>
+        <item>PRIMARY SCHOOL BHAGWANTPURA VILL. HARKUNJALPUR</item>
+        <item>PRIMARY SCHOOL PURELA (R.N. 1)</item>
+        <item>PRIMARY SCHOOL PURELA (R.N. 2)</item>
+        <item>JUNIOR HIGH SCHOOL VISHUNPURA NAGLA GUJRATI</item>
+        <item>KANNYA JUNIOR HIGH SCHOOL KUDRAIL EAST</item>
+        <item>KANNYA JUNIOR HIGH SCHOOL KUDRAIL WEST</item>
+        <item>PRIMARY SCHOOL KUDRAIL</item>
+        <item>PRIMARY SCHOOL KUDRAIL</item>
+        <item>PRIMARY SCHOOL POORANPURA</item>
+        <item>PRIMARY SCHOOL BADARIYAPOOTH</item>
+        <item>PRIMARY SCHOOL NAGLA CHATUR</item>
+        <item>PRIMARY SCHOOL NARAYANPUR</item>
+        <item>PRIMARY SCHOOL KESHONPUR</item>
+        <item>PRIMARY SCHOOL KATHOTIYA</item>
+        <item>PRIMARY SCHOOL PATIYAYAT EAST</item>
+        <item>PRIMARY SCHOOL PATIYAYAT WEST</item>
+        <item>JUNIOR HIGH SCHOOL TAKHA EAST</item>
+        <item>JUNIOR HIGH SCHOOL TAKHA WEST</item>
+        <item>PRIMARY SCHOOL KAYAMPUR ROOM-1</item>
+        <item>PRIMARY SCHOOL KAYAMPUR ROOM-2</item>
+        <item>PRIMARY SCHOOL NAGLA DULI</item>
+        <item>PRIMARY SCHOOL NAGLA DHAKAU ROOM-1</item>
+        <item>PRIMARY SCHOOL NAGLA DHAKAU ROOM-2</item>
+        <item>HIGHER SECONDRY SCHOOL MAMAN HIMATPUR EAST</item>
+        <item>HIGHER SECONDRY SCHOOL MAMAN HIMATPUR WEST</item>
+        <item>PRIMARY SCHOOL GANGDASPUR</item>
+        <item>PRIMARY SCHOOL NAGLA MAKEY</item>
+        <item>PRIMARY SCHOOL SARAWA NORTH</item>
+        <item>PRIMARY SCHOOL SARAWA MIDDLE</item>
+        <item>PRIMARY SCHOOL BELAHAR</item>
+        <item>BALWANT SHAHEED I . C. NAGRIYA YADVAN (BELAHAR)</item>
+        <item>PRIMARY SCHOOL NAGLA DHOKAL SORON</item>
+        <item>PRIMARY SCHOOL RATAHRI SARAWA</item>
+        <item>PRIMARY SCHOOL NAGARIYA SARAWA</item>
+        <item>PRIMARY SCHOOL KAKRAHI EAST</item>
+        <item>PRIMARY SCHOOL KAKRAHI WEST</item>
+    </string-array>
+    <!-- From: file:/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/values/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="About">About:</string>
+    <string name="About_Info">Samajwadi Party came into existence on October 4, 1992 in Lucknow under the leadership of Shri Mulayam Singh Yadav.</string>
+    <string name="Birth">Biography:</string>
+    <string name="Birth_Info">\t\tAn honored human being, a maverick socialist and an esteemed political leader are phrases that have long been and still are synonymous to Shivpal Singh Yadav. Having been born in the post-independence era to a nationalist and farmer at-heart father, it didn’t take him long before he entered the political movement and with Mr. Mulayam Singh Yadav as his mentor, he never shied away from the truth and worked his way wonderfully through India’s political struggle to post-independence social and economic issues with an unsaid enthusiasm and dedication.</string>
+    <string name="Co_operative">Co-operative</string>
+    <string name="Decription">Description:</string>
+    <string name="Description_Info">The Samajwadi Party believes in creating a socialist society, which works on the principle of equality and the party has a secular and democratic outlook. The Samajwadi Party believes in continuously working towards the upliftment of weaker sections of society and it stands against communal forces.\n\n
+
+Freedom fighter, socialist and a great Parliamentarian, Ram Manohar Lohia is a guiding light for the Samajwadi Party. Ram Manohar Lohia’s integrity, selfless struggle for India’s independence and his ability to unite people of all sections of society has greatly influenced the leaders, youth and workers in the party. Lohia was jailed by the British several times during the freedom struggle and he fought rigorously all his life for social equality.\n\n
+
+Mahatma Gandhi’s ideas greatly influenced Lohia who worked tirelessly during the freedom movement writing articles against the British, raising awareness against British imperialism in Europe, and after India became independent devoted himself to grassroots politics which included farmers cause, development work and fighting against social injustice. He also worked towards putting an end to capitalist-feudalistic tendencies.\n\n
+
+Lohia’s ability to awaken the people with his fiery articles on Satyagraha and his innate knowledge of social problems made him the foremost socialist leader of India. Lohia’s ‘Do or Die’ spirit is an inspiration and a guiding force for the Samajwadi Party in its struggle for social upliftment of the poor, backward and socially weaker sections of society.</string>
+    <string name="Disaster_Rehabilitation">Disaster And Rehabilitation</string>
+    <string name="Education">Early Life:</string>
+    <string name="Education_Info">\t\tSon of Mr.Sughar Singh and Mrs.Murti Devi was born on basant panchami in 1955 in Etawah, Uttar Pradesh. His mother, was a perfect home maker. At a young age, Shivpal’s elder brother, who was a nationalist, introduced him to Uttar Pradesh political movement through various rallies and protest assemblies.\n\t\tThe turning point in his life came when his elder brother, an impassioned follower of RAM MANOHAR LOHIA, took him along on a meeting. Deeply inspired by lohia’s personality and beliefs, Shivpal ji took his values and principles to heart which helped him come through the testing times and supported him in many of his endeavors in future. At a very young age, he participated in the meetings and rallies and proved both, his loyalty to Mulayam Singh Yadav’s and his metal as a significant pro-lohia ideology fighter in the time to come.</string>
+    <string name="FACEBOOK_TITLE">Facebook</string>
+    <string name="FAMILY_STATUS">Family Status:</string>
+    <string name="FAMILY_STATUS_INFO">\t\tShivpal ji married Mrs. Sarla Yadav on the 23rd may 1981. They are blessed with two children Dr.Anubha Yadav who is a medical practitioner by profession working for the upliftment of the masses and Mr. Aditya Yadav symbolizes the youth of today; and his versatility in multiple genres is what has lead him to accomplish the various path breaking noble causes at such a young age. He is an elected chairman of the Uttar Pradesh cooperative Federation.</string>
+    <string name="Family">Educational Qualification:</string>
+    <string name="Family_Info">\t\tIn 1974 he attended the Jain Inter College, Karhal Mainpuri (UP) to complete his intermediate course work after standing first class in his school’s matric examinations. He, then completed his graduation in from K.K.Degree College, Etawah (Kanpur University) in 1976 and went to Lucknow University to pursue his bachelor of physical education and completed it in 1977.</string>
+    <string name="Flood_Control">Flood Control</string>
+    <string name="GET_EVENTS_DATA_URL">https://dummy-class.herokuapp.com/events_list_trial</string>
+    <string name="GOOGLE_PLUS_TITLE">Google Plus</string>
+    <string name="IN_MEDIA_URL">http://dummy-class.herokuapp.com/media</string>
+    <string name="Irrigation">Irrigation</string>
+    <string name="Irrigation_Mechanical">Irrigation (Mechanical)</string>
+    <string name="LANGUAGE_ENGLISH_STRING">English</string>
+    <string name="LANGUAGE_HINDI_STRING">हिंदी</string>
+    <string name="Land_Development_Water_Resources">Land Development And Water Resources</string>
+    <string name="NETWORK_ERROR">The requested operation failed, please check your internet connection or network signal strength.</string>
+    <string name="OFFICE_ADDRESS">Room No -99/100,\nVidhan Bhawan,\nLucknow.\nPIN: 226001\nPhone: 0522-2238088\n\t\t\t\t\t0522-2213272</string>
+    <string name="OFFICE_TITLE">Office Address:</string>
+    <string name="PARTY_WEBSITE_TITLE">Website:</string>
+    <string name="PARTY_WEBSITE_URL">http://www.samajwadiparty.in/</string>
+    <string name="PERSONAL_WEBSITE_URL">http://shivpalsinghyadav.com/</string>
+    <string name="Political_Career">Political Career:</string>
+    <string name="Political_Career_Info">\t\tBeing a multi-talented political personality, Mr.Shivpal Singh Yadav has served as a member of the Uttar Pradesh legislative for almost 20 years. From this politician’s journey, it can be seen that he is one of the most respectable and admirable people in India. He has been a participant in a number of social activities and has served as a member of various reputed councils and organizations. Along with political activity, he is also a writer and a brilliant orator. He has maintained a clean image among the public, who consider him as a national leader, highly knowledgeable on democracy, religion and liberal views.\n\n\t\tIn 1988 he was elected as the president of the district Sehkari bank and successfully completed his tenure in 1991. In 1995 he took over as the president of district panchayat. He contested election in the 13th vidhan sabha from Jaswant Nagar and won by huge margins and was appointed as general secretary of the samjwadi party in Uttar Pradseh. In the year 2009 when the then state president passed away shivapal ji was appointed the president of the Uttar Pradesh sawajwadi party unit and followed the lines set by his mentor and party president Mr.Mulayam Singh Yadav. On seeing his dedication and love for the party he was appointed as the leader of the opposition.\n\n\t\tHe proved his mettle on all the fronts which were given to him with great spirit and enthusiasm .As leader of the opposition he fought on issues related to poverty,women empowerment, upliftment of the down trodden.In 2012 when samajwadi party took the reins of Uttar Pardesh in full majority he was appointed  cabinet minister for departments like irrigation and PWD. He is also a key member of the government for handling all issues related to state and party welfare. His far sited vision and the role to eradicate poverty from the state has earned him respect among collogues and bureaucrats. Though he is a strict task master but is also known for his gentle and humble nature.\n\n\t\tThe word samajwadi will always sound incomplete without the mention of his name.</string>
+    <string name="Public_Service_Management">Public Service Management</string>
+    <string name="Public_Works_Department">Public Works Department</string>
+    <string name="RESIDENCE_ADDRESS">7, Kalidas Marg,\nHazratganj,\nLucknow.\nPIN: 226001\nPhone: 0522-2239994\n\t\t\t\t\t0522-2235567</string>
+    <string name="RESIDENCE_TITLE">Residence Address:</string>
+    <string name="Revenue">Revenue</string>
+    <string name="Sodic_Ravine_Land_development">Sodic And Ravine Land development</string>
+    <string name="TWITTER_TITLE">Twitter</string>
+    <string name="Uttar_Pradesh_Cooperative_Federation_Limited">Uttar Pradesh Cooperative Federation Limited</string>
+    <string name="VIDHAN_BHAVAN">Constituency</string>
+    <string name="Vidhan_Sabha_Area">Jaswant Nagar (199)</string>
+    <string name="Vidhan_Sabha_Booth_Name">Part Name</string>
+    <string name="Vidhan_Sabha_Booth_Num">Booth No.</string>
+    <string name="Waste_Land_Development">Waste Land Development</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Shivpal Singh Yadav</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_biography">Biography</string>
+    <string name="title_activity_contact">Contact</string>
+    <string name="title_activity_department">Departments</string>
+    <string name="title_activity_event_detail">EventDetailActivity</string>
+    <string name="title_activity_events">Events</string>
+    <string name="title_activity_launcher_image">Shivpal Singh Yadav</string>
+    <string name="title_activity_media">In Media</string>
+    <string name="title_activity_photo_gallary">Photo Gallary</string>
+    <string name="title_activity_political_career">Political Career</string>
+    <string name="title_activity_samajwadi_party">Samajwadi Party</string>
+    <string name="title_activity_social_media">Social Media</string>
+    <string name="title_activity_video_gallary">Video Gallary</string>
+    <string name="title_activity_vidhan_sabha">Constituency</string>
+    <string name="title_activity_web_view">Social Media</string>
+    <!-- From: file:/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/values/styles.xml -->
+    <eat-comment />
+
+    <style name="AppTheme" parent="android:Theme.Light">
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+</resources>

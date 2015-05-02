@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/navbar"
+    android:orientation="horizontal" >
+
+    <ImageButton
+        android:id="@+id/btnBackHeader"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:background="@drawable/backbutton_idle"
+        android:onClick="gotoBack"/>
+
+    <LinearLayout
+        android:id="@+id/MZHeader"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:gravity="center" >
+
+        <TextView
+            android:id="@+id/txtHeading"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Heading"
+            android:focusable="false"
+            android:textStyle="italic"
+            android:textSize="20sp"
+            android:textColor="@android:color/white"
+            android:focusableInTouchMode="false" />
+    </LinearLayout>
+
+    <ImageButton
+        android:id="@+id/btnHomeHeader"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:paddingRight="10dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:background="@drawable/share_icon"
+        android:onClick="gotoHome" />
+    
+    
+
+</RelativeLayout><!-- From: file:/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/layout/header_home.xml -->
