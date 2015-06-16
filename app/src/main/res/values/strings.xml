@@ -7,7 +7,7 @@
     <string name="title_activity_biography">Biography</string>
     <string name="title_activity_political_career">Political Career</string>
     <string name="title_activity_samajwadi_party">Samajwadi Party</string>
-    <string name="title_activity_events">Events</string>
+    <string name="title_activity_events">News Room</string>
     <string name="title_activity_contact">Contact</string>
     <string name="FACEBOOK_TITLE">Facebook</string>
     <string name="GOOGLE_PLUS_TITLE">Google Plus</string>
@@ -76,415 +76,824 @@ Lohia’s ability to awaken the people with his fiery articles on Satyagraha and
      
      
     <string-array name="VidhanSabhaPartNames">
-        <item>PRIMARY SCHOOL MAHAMAI</item>
-        <item>PRIMARY SCHOOL NAGARI</item>
-        <item>PRIMARY SCHOOL JONAI</item>
-        <item>PRIMARY SCHOOL DHOLPUR</item>
-        <item>PRIMARY SCHOOL NAGLA KHERA</item>
-        <item>PRIMARY SCHOOL DHARWAR ROOM-1</item>
-        <item>PRIMARY SCHOOL DHARWAR ROOM-2</item>
-        <item>JUNIOR HIGH SCHOOL DHARWAR NORTH</item>
-        <item>JUNIOR HIGH SCHOOL DHARWAR SOUTH</item>
-        <item>PRIMARY SCHOOL KURAKHAR</item>
-        <item>PRIMARY SCHOOL FULRAI</item>
-        <item>PRIMARY SCHOOL MEERAKHPUR PUTIYA</item>
-        <item>PRIMARY SCHOOL NAGLA JULA</item>
-        <item>PRIMARY SCHOOL AALAI</item>
-        <item>PRIMARY SCHOOL MADANPURA</item>
-        <item>PRIMARY SCHOOL GHANSHYAMPURA</item>
-        <item>PRIMARY SCHOOL NAGLA DAYALPURA</item>
-        <item>DR. RAM MANOHAR LOHIA INTER COLLEGE DHANUA</item>
-        <item>PRIMARY SCHOOL NAGLA JAGAN</item>
-        <item>PRIMARY SCHOOL NAGLA LAYAK</item>
-        <item>PRIMARY SCHOOL NAGLA FHATEHPURA</item>
-        <item>PRIMARY SCHOOL BIYARI BHATPURA WEST</item>
-        <item>PRIMARY SCHOOL BIYARI BHATPURA EAST</item>
-        <item>PRIMARY SCHOOL BHUJPURA BIBAMAU</item>
-        <item>PRIMARY SCHOOL KAKRAI</item>
-        <item>PRIMARY SCHOOL DARSHANPUR</item>
-        <item>PRIMARY SCHOOL KHERA BUJURG NORTH</item>
-        <item>PRIMARY SCHOOL KHERA BUJURG SOUTH</item>
-        <item>PRIMARY SCHOOL TULARAMPUR</item>
-        <item>PRIMARY SCHOOL BHAGWANPURA</item>
-        <item>PRIMARY SCHOOL NAGLA KEHRI</item>
-        <item>PRIMARY SCHOOL KURSENA ROOM-1</item>
-        <item>PRIMARY SCHOOL KURSENA ROOM-2</item>
-        <item>PRIMARY SCHOOL HANUMANT KHERA</item>
-        <item>PRIMARY SCHOOL GARI JALIM</item>
-        <item>PRIMARY SCHOOL RUKANPURA</item>
-        <item>PANCHAYATGHAR KANCHANIA</item>
-        <item>PRIMARY SCHOOL NAGLA SUGANDH NAGER</item>
-        <item>PRIMARY SCHOOL AJNORA</item>
-        <item>SAMUDAIK KENDRA PATHAKPURA</item>
-        <item>PRIMARY SCHOOL CHANDANPUR BIBAMAU</item>
-        <item>PRIMARY SCHOOL SHAHJAHANPUR</item>
-        <item>PRIMARY SCHOOL LARKHOR</item>
-        <item>PRIMARY SCHOOL MOHANPURA (LARHHAUR)</item>
-        <item>PRIMARY SCHOOL KHUSHALPURA (LARHHAUR)</item>
-        <item>PRIMARY SCHOOL BHAUPURA</item>
-        <item>PRIMARY SCHOOL NAGLA SUBHAN</item>
-        <item>ZILA PANCHAYAT INTER COLLEGE HEONRA</item>
-        <item>PRIMARY SCHOOL HENORA NEW BUILDING</item>
-        <item>PRIMARY SCHOOL NAGLA ANIYA</item>
-        <item>PRIMARY SCHOOL BANAMAI</item>
-        <item>PRIMARY SCHOOL BHAISAN</item>
-        <item>PRIMARY SCHOOL PARSAOUA</item>
-        <item>PRIMARY SCHOOL ALAMPUR NARIA</item>
-        <item>PRIMARY SCHOOL BHAWALPUR</item>
-        <item>PRIMARY SCHOOL NILOI EAST</item>
-        <item>PRIMARY SCHOOL NILOI WEST</item>
-        <item>PRIMARY SCHOOL NAGLA RATHORE</item>
-        <item>PRIMARY SCHOOL PRATAPPURA</item>
-        <item>PRIMARY SCHOOL MAHLAI ROOM-1</item>
-        <item>PRIMARY SCHOOL MAHLAI ROOM-2</item>
-        <item>JODHASINGH INTER COLLEGE HARKOOPUR</item>
-        <item>SHRI MULAYAM SINGH YADAV INTER COLLEGE RAINAGER</item>
-        <item>PRIMARY SCHOOL NAGLA HARE</item>
-        <item>PRIMARY SCHOOL KELOKHAR</item>
-        <item>PRIMARY SCHOOL NAGLA SEWARAM</item>
-        <item>PRIMARY SCHOOL KUNJPUR</item>
-        <item>PRIMARY SCHOOL JARIKHERA</item>
-        <item>PRIMARY SCHOOL MUHABATPUR NAGLA BHAGAT</item>
-        <item>KANYA PRIMARY SCHOOL KEST</item>
-        <item>PRIMARY SCHOOL KEST</item>
-        <item>PRIMARY SCHOOL NAGLA INCHA</item>
-        <item>PRIMARY SCHOOL DURGAPURA (LUDHPURA)</item>
-        <item>KANYA UCCHATAR PRIMARY SCHOOL JASWANT NAGER (R.N.-1)</item>
-        <item>KANYA UCCHATAR PRIMARY SCHOOL JASWANT NAGER (R.N.-2)</item>
-        <item>GOVERNMENT GIRLS INTER COLLEGE JASWANT NAGER (R.N.1)</item>
-        <item>GOVERNMENT GIRLS INTER COLLEGE JASWANT NAGER (R.N.2)</item>
-        <item>GOVERNMENT GIRLS INTER COLLEGE JASWANT NAGER (R.N.3)</item>
-        <item>GOVERNMENT GIRLS INTER COLLEGE JASWANT NAGER (R.N.4)</item>
-        <item>JUNIOR HIGH SCHOOL JASWANT NAGER (R.N.1)</item>
-        <item>JUNIOR HIGH SCHOOL JASWANT NAGER (R.N.2)</item>
-        <item>JUNIOR HIGH SCHOOL JASWANT NAGER (R.N.3)</item>
-        <item>PRIMARY SCHOOL JASWANT NAGER (R.N. 1)</item>
-        <item>PRIMARYSCHOOL JASWANT NAGER (R.N. 2)</item>
-        <item>PARIGANIT PRIMARY SCHOOL JASWANT NAGER (R.N. 1)</item>
-        <item>PARIGANIT PRIMARYSCHOOL JASWANT NAGER (R.N. 2)</item>
-        <item>HINDU VIDYALAYA INTER COLLEGE. JASWANT NAGER (R.N. 1)</item>
-        <item>HINDU VIDYALAYA INTER COLLEGE. JASWANT NAGER (R.N. 2)</item>
-        <item>HINDU VIDYALAYA INTER COLLEGE. JASWANT NAGER (R.N. 3)</item>
-        <item>HINDU VIDYALAYA INTER COLLEGE. JASWANT NAGER (R.N. 4)</item>
-        <item>PRIMARY SCHOOL SISHAT EAST</item>
-        <item>PRIMARY SCHOOL SISHAT WEST</item>
-        <item>PRIMARY SCHOOL PIPREDI</item>
-        <item>PANCHAYATGHAR JWALAPUR VILL. PIPREDI</item>
-        <item>PRIMARY SCHOOL RAJPUR TAMERI</item>
-        <item>PRIMARY SCHOOL TAMERI</item>
-        <item>PRIMARY SCHOOL JUGOURA</item>
-        <item>PRIMARY SCHOOL BAHORIPUR</item>
-        <item>ASHOK INTER COLLEGE KUKAWALI (R.N.1)</item>
-        <item>ASHOK INTER COLLEGEKUKAWALI (R.N.2)</item>
-        <item>PRIMARY SCHOOL BAHADURPUR NASIRPUR</item>
-        <item>PRIMARY SCHOOL NIJAMPUR</item>
-        <item>PRIMARY SCHOOL NAGLA RAMSUNDER EAST</item>
-        <item>PRIMARY SCHOOL NAGLA RAMSUNDER WEST</item>
-        <item>PRIMARY SCHOOL NAGLA SALAHDI</item>
-        <item>PRIMARY SCHOOL BALRAI</item>
-        <item>PRIMARY SCHOOL DODUA GOPALPUR (GADI RAMDHAN)</item>
-        <item>PRIMARY SCHOOL BIBAMAU EAST</item>
-        <item>PRIMARY SCHOOL BIBAMAU WEST</item>
-        <item>PRIMARY SCHOOL AJABPUR BIBAMAU</item>
-        <item>PRIMARY SCHOOL NAGLA VISHUN TIJORA EAST</item>
-        <item>PRIMARY SCHOOL NAGLA VISHUN TIJORA WEST</item>
-        <item>PRIMARY SCHOOL PREM NAGER</item>
-        <item>JUNIOR HIGH SCHOOL BAUTH</item>
-        <item>PRIMARY SCHOOL MADIYA FAKIRE MAUJA BAUTH</item>
-        <item>PRIMARY SCHOOL SARAMAI</item>
-        <item>PRIMARY SCHOOL NAGLA TAUR NORTH</item>
-        <item>PRIMARY SCHOOL NAGLA TAUR SOUTH</item>
-        <item>PRIMARY SCHOOL NAGLA DHURHA</item>
-        <item>PRIMARY SCHOOL KIRATPUR</item>
-        <item>PRIMARY SCHOOL PEEHARPUR</item>
-        <item>PRIMARY SCHOOL SIRSA BIBMAU</item>
-        <item>PRIMARY SCHOOL SALEMPUR</item>
-        <item>PRIMARY SCHOOL CHAK</item>
-        <item>K.PRIMARY SCHOOL BHIKHANPUR</item>
-        <item>PRIMARY SCHOOL NAGARIA JASOHAN</item>
-        <item>PRIMARY SCHOOL GARAMPUR</item>
-        <item>JUNIOR HIGH SCHOOL SIRHOL</item>
-        <item>PRIMARY SCHOOL NAGLA CHHAND</item>
-        <item>PRIMARY SCHOOL MUHABATPUR JASOHAN</item>
-        <item>PRIMARY SCHOOL BAGIYA JASOHAN</item>
-        <item>PRIMARY SCHOOL JANAKPUR (R.N. 1)</item>
-        <item>PRIMARY SCHOOL JANAKPUR (R.N. 2)</item>
-        <item>PRIMARY SCHOOL NAGLA UDAYSINGH</item>
-        <item>PRIMARY SCHOOL NAGLA KESHONRAI</item>
-        <item>PRIMARY SCHOOL JHALOKHAR</item>
-        <item>PRIMARY SCHOOL SAKHOA</item>
-        <item>PRIMARY SCHOOL JAGSORA EAST</item>
-        <item>PRIMARY SCHOOL JAGSORA WEST</item>
-        <item>PRIMARY SCHOOL NAGARIYA BHAT</item>
-        <item>PRIMARY SCHOOL NAGLA NAYA</item>
-        <item>PRIMARY SCHOOL NAGLA DUDHA</item>
-        <item>PRIMARY SCHOOL MALAJANI NORTH</item>
-        <item>PRIMARY SCHOOL MALAJANI SOUTH</item>
-        <item>JUNIOR HIGH SCHOOL BHATORA</item>
-        <item>PRIMARY SCHOOL BHATORA</item>
-        <item>PRIMARY SCHOOL BHOGATAL</item>
-        <item>PRIMARY SCHOOL TAKPURA SARAI JALAL</item>
-        <item>PRIMARY SCHOOL JAINPUR NAGAR</item>
-        <item>PRIMARY SCHOOL ARAJI SARAIBHOPAT (NAGLA BABA)</item>
-        <item>PRIMARY SCHOOL SARAI BHOPAT</item>
-        <item>PRIMARY SCHOOL NAGLA VERMAJIT</item>
-        <item>PRIMARY SCHOOL MALOOPUR</item>
-        <item>PRIMARY SCHOOL BALIYAPUR</item>
-        <item>JUNIOR HIGH SCHOOL BANKATI BUJURG</item>
-        <item>PRIMARY SCHOOL BIRAMPUR</item>
-        <item>PRIMARY SCHOOL ADHIYAPUR</item>
-        <item>PRIMARY SCHOOL NAGLA CHHATE</item>
-        <item>PRIMARY SCHOOL BHESRAI</item>
-        <item>KRASAK INTER COLLEGE BICHPURIKERA</item>
-        <item>PRIMARY SCHOOL PATAJHARI</item>
-        <item>PRIMARY SCHOOL HAJRATPUR</item>
-        <item>JUNIOR HIGH SCHOOL JAITIYA</item>
-        <item>PRIMARY SCHOOL SONAI</item>
-        <item>PRIMARY SCHOOL RAJMAU ROOM-1</item>
-        <item>PRIMARY SCHOOL RAJMAU ROOM-2</item>
-        <item>PRIMARY SCHOOL KANTIHAR</item>
-        <item>PRIMARY SCHOOL BARRA</item>
-        <item>PRIMARY SCHOOL BAIDPURA</item>
-        <item>PRIMARY SCHOOL JAHANABAD</item>
-        <item>PRIMARY SCHOOL CHAKOOPUR</item>
-        <item>PRIMARY SCHOOL MAHOLA</item>
-        <item>PRIMARY SCHOOL UMRAHI</item>
-        <item>PRIMARY SCHOOL KHARDOOLI</item>
-        <item>PRIMARY SCHOOL CHHITONI</item>
-        <item>PRIMARY SCHOOL RAMET</item>
-        <item>PRIMARY SCHOOL HIRAPUR</item>
-        <item>PRIMARY SCHOOL BAROLI BAIDPURA</item>
-        <item>PRIMARY SCHOOL SIPHARI</item>
-        <item>PRIMARY SCHOOL CHHIMARA EAST</item>
-        <item>PRIMARY SCHOOL CHHIMARA MIDDLE</item>
-        <item>PRIMARY SCHOOL BORAIN</item>
-        <item>PRIMARY SCHOOL BHADAI KASHIPUR</item>
-        <item>PRIMARY SCHOOL BHADAI KASHIPUR WEST</item>
-        <item>PRIMARY SCHOOL NAGLA SEWA</item>
-        <item>PRIMARY SCHOOL NAGLA BABA BHAGWATIPUR NEW BUILDING</item>
-        <item>PRIMARY SCHOOL BHALASAIYA</item>
-        <item>PRIMARY SCHOOL NARHOLI BHIDARUA</item>
-        <item>PRIMARY SCHOOL LACHWAI EAST</item>
-        <item>PRIMARY SCHOOL LACHWAI WEST</item>
-        <item>PRIMARY SCHOOL GEENJA (R.N. 1)</item>
-        <item>PRIMARY SCHOOL GEENJA (R.N. 2)</item>
-        <item>PRIMARY SCHOOL CHOBEYPUR EAST</item>
-        <item>PRIMARY SCHOOL JHIGOOPUR</item>
-        <item>PRIMARY SCHOOL BHALI</item>
-        <item>PRIMARY SCHOOL MUCHHARA</item>
-        <item>PRIMARY SCHOOL SAIFAI EAST</item>
-        <item>PRIMARY SCHOOL SAIFAI MIDDLE</item>
-        <item>JUNIOR HIGH SCHOOL SAIFAI (R.N.1)</item>
-        <item>JUNIOR HIGH SCHOOL FAIFAI (R.N. 2)</item>
-        <item>JUNIOR HIGH SCHOOL ATIRAJPUR</item>
-        <item>PANCHAYAT OFFICE SAIFAI OLD MEETING HALL</item>
-        <item>PRIMARY SCHOOL NAGLA SABI</item>
-        <item>PRIMARY SCHOOL UJHIYANI</item>
-        <item>PRIMARY SCHOOL BAGHUIYA</item>
-        <item>PRIMARY SCHOOL PINDARI NEW BUILDING</item>
-        <item>PRIMARY SCHOOL PINDARI NEW BUILDING</item>
-        <item>PRIMARY SCHOOL KUIYA EAST</item>
-        <item>PRIMARY SCHOOL KUIYA</item>
-        <item>PRIMARY SCHOOL ODAMPUR</item>
-        <item>PRIMARY SCHOOL BAROLI KALA</item>
-        <item>PRIMARY SCHOOL NAGLA BAGERHAR EAST</item>
-        <item>PRIMARY SCHOOL SAHSARPUR</item>
-        <item>DR. RAM MANOHAR LOHIA JHS USRAI</item>
-        <item>SARVODAYA INTER COLLEGE LONGPUR</item>
-        <item>PRIMARY SCHOOL TULSIPUR NEW BUILDING</item>
-        <item>PRIMARY SCHOOL NAGLA DARIYAY</item>
-        <item>PRIMARY SCHOOL BHAGIPUR</item>
-        <item>PRIMARY SCHOOL NANDPUR</item>
-        <item>PRIMARY SCHOOL KUMHAWAR</item>
-        <item>PRIMARY SCHOOL UDDHAMPUR</item>
-        <item>PRIMARY SCHOOL HARDOI (R.N. 1)</item>
-        <item>PRIMARY SCHOOL HARDOI (R.N. 2)</item>
-        <item>JUNIOR HIGH SCHOOL HARDOI</item>
-        <item>PRIMARY SCHOOL MOHATI</item>
-        <item>PRIMARY SCHOOL LADAMPUR</item>
-        <item>PRIMARY SCHOOL KATHUA</item>
-        <item>PRIMARY SCHOOL NAGLA MATHIYA</item>
-        <item>PRIMARY SCHOOL SHIVPURI TIMARUA EAST</item>
-        <item>PRIMARY SCHOOL SHIVPURI TIMARUA WEST</item>
-        <item>PRIMARY SCHOOL MADHAIYAPUR</item>
-        <item>PRIMARY SCHOOL SARWARPUR</item>
-        <item>PRIMARY SCHOOL PARASNA EAST</item>
-        <item>PRIMARY SCHOOL PARASNA WEST</item>
-        <item>PRIMARY SCHOOL NAGLA KOOKPUR</item>
-        <item>PRIMARY SCHOOL NAGLA BANE</item>
-        <item>PRIMARY SCHOOL MANIGAWNA (R.N. 1)</item>
-        <item>PRIMARY SCHOOL MANIGAWNA (R.N. 2)</item>
-        <item>PRIMARY SCHOOL THULRAI</item>
-        <item>PRIMARY SCHOOL SARSAI HELU</item>
-        <item>PRIMARY SCHOOL NAGLA KUATIA</item>
-        <item>PRIMARY SCHOOL SHADIPUR</item>
-        <item>PRIMARY SCHOOL JAGANNATHPUR</item>
-        <item>JUNIOR HIGH SCHOOL KARRI</item>
-        <item>JUNIOR HIGH SCHOOL KARRI</item>
-        <item>PRIMARY SCHOOL NAGLA BAHELIYA (KARRI)</item>
-        <item>PRIMARY SCHOOL KALEPURA</item>
-        <item>PRIMARY SCHOOL GANESHPUR</item>
-        <item>PRIMARY SCHOOL BHOOTHA</item>
-        <item>PRIMARY SCHOOL BEENA WEST</item>
-        <item>PRIMARY SCHOOL BEENA WEST</item>
-        <item>PRIMARY SCHOOL PAROLI RAMAIN</item>
-        <item>PRIMARY SCHOOL KATAIYAPUR (KRAPALPUR)</item>
-        <item>PRIMARY SCHOOL HIDDAPURA</item>
-        <item>PRIMARY SCHOOL UNWA SANTOSHPUR</item>
-        <item>JUNIOR HIGH SCHOOL SANTOSHPUR UNWA</item>
-        <item>PRIMARY SCHOOL ISWARPUR</item>
-        <item>PRIMARY SCHOOL BARALOKPUR EAST</item>
-        <item>PRIMARY SCHOOL BARALOKPUR WEST ROOM-1</item>
-        <item>PRIMARY SCHOOL BARALOKPUR WEST ROOM-2</item>
-        <item>PRIMARY SCHOOL LOKPURA</item>
-        <item>PRIMARY SCHOOL SEEPURI</item>
-        <item>PRIMARY SCHOOL AGUPUR GOPALPUR</item>
-        <item>PRIMARY SCHOOL AGUPUR GOPALPUR</item>
-        <item>PRIMARY SCHOOL AARAJI GUBARIYA</item>
-        <item>PRAHLAD ISMARAK INTER COLLEGE KRISHNA NAGAR CHOPULA</item>
-        <item>PRAHLAD ISMARAK INTER COLLEGE KRISHNA NAGAR CHOPULA</item>
-        <item>PRIMARY SCHOOL MUGALPURA</item>
-        <item>PRIMARY SCHOOL NAGLA SABI</item>
-        <item>PRIMARY SCHOOL MOONJ EAST-1</item>
-        <item>PRIMARY SCHOOL MOONJ EAST-2</item>
-        <item>PRIMARY SCHOOL MOONJ WEST</item>
-        <item>PRIMARY SCHOOL RAMPURA</item>
-        <item>PRIMARY SCHOOL FARDPURA</item>
-        <item>PRIMARY SCHOOL MASNAI</item>
-        <item>PRIMARY SCHOOL JAINPUR CHAUBIYA</item>
-        <item>PRIMARY SCHOOL CHAUBIYA</item>
-        <item>PRIMARY SCHOOL BAKHTYARPUR</item>
-        <item>PRIMARY SCHOOL BHADIYAPUR RAHIN</item>
-        <item>PRIMARY SCHOOL TISUADEV</item>
-        <item>PRIMARY SCHOOL MOHANPUR RAHIN</item>
-        <item>PRIMARY SCHOOL NEEWASAI</item>
-        <item>JUNIOR HIGH SCHOOL KAKARPUR</item>
-        <item>PRIMARY SCHOOL GORA DAYALPUR</item>
-        <item>PRIMARY SCHOOL GORA DAYALPUR</item>
-        <item>PRIMARY SCHOOL RAHIN</item>
-        <item>PRIMARY SCHOOL ROOP PUR SARAI BHIKHAN</item>
-        <item>PRIMARY SCHOOL GULABPUR</item>
-        <item>PRIMARY SCHOOL KALYANPUR RAHIN</item>
-        <item>PRIMARY SCHOOL BIHARIPUR</item>
-        <item>PRIMARY SCHOOL ADUPURA</item>
-        <item>PRIMARY SCHOOL KESHONPUR RAHIN</item>
-        <item>KANNYA PRIMARY SCHOOL GANGAPUR</item>
-        <item>PRIMARY SCHOOL BITHOLI</item>
-        <item>PRIMARY SCHOOL PARTAPURA</item>
-        <item>PRIMARY SCHOOL KHERA HELU</item>
-        <item>PRIMARY SCHOOL KHERA HELU</item>
-        <item>PRIMARY SCHOOL DUDHA</item>
-        <item>PRIMARY SCHOOL ADARPUR</item>
-        <item>PRIMARY SCHOOL JABARPUR NORTH</item>
-        <item>PRIMARY SCHOOL NAGLA TAAL</item>
-        <item>PRIMARY SCHOOL LAKHANPUR PACHAR</item>
-        <item>PRIMARY SCHOOL DIBRASAI</item>
-        <item>PRIMARY SCHOOL APOORPUR</item>
-        <item>KISAN HIGHER SECONDRY SCHOOL SHEKHUPUR CHANDETHI</item>
-        <item>JUNIOR HIGH SCHOOL BER EAST</item>
-        <item>JUNIOR HIGH SCHOOL BER WEST</item>
-        <item>PRIMARY SCHOOL NAGLA BHOOJ</item>
-        <item>JUNIOR HIGH SCHOOL ROURA EAST</item>
-        <item>JUNIOR HIGH SCHOOL ROURA WEST</item>
-        <item>SAMUDAIK MILAN KENDRA KHIRIYA</item>
-        <item>PRIMARY SCHOOL BAKOLI</item>
-        <item>PRIMARY SCHOOL SHEKHUPUR PACHAR</item>
-        <item>JUNIOR HIGH SCHOOL NAGLA JIND</item>
-        <item>PRIMARY SCHOOL SANTOSHPUR PACHAR</item>
-        <item>PRIMARY SCHOOL PUNJA</item>
-        <item>PRIMARY SCHOOL KESHONPUR</item>
-        <item>JAN HITKARI M.V. NAGLA BHAWAR</item>
-        <item>PRIMARY SCHOOL TAKPURA</item>
-        <item>PRIMARY SCHOOL BANI HARDU</item>
-        <item>PRIMARY SCHOOL CHAMROUA</item>
-        <item>JILA PARISAD HIGHER SECONDRY SCHOOL SARSAINAWAR EAST</item>
-        <item>JILA PARISAD HIGHER SECONDRY SCHOOL SARSAINAWAR</item>
-        <item>JILA PANCHAYAT HIGHER SECONDRY SCHOOL SARSAINAWAR</item>
-        <item>PRIMARY SCHOOL GIRDHARPURA</item>
-        <item>PRIMARY SCHOOL NAGLA BALSINGH</item>
-        <item>PRIMARY SCHOOL DOLATPUR</item>
-        <item>PRIMARY SCHOOL BHADARPURA</item>
-        <item>PRIMARY SCHOOL NAGLA JALAL</item>
-        <item>PRIMARY SCHOOL SUNDRA</item>
-        <item>PRIMARY SCHOOL TIRKHI TILOKPUR</item>
-        <item>PRIMARY SCHOOL NAGLA DUDHA</item>
-        <item>JUNIOR HIGH SCHOOL KADAMPUR WEST</item>
-        <item>PRIMARY SCHOOL KADAMPUR</item>
-        <item>PRIMARY SCHOOL KISHANPURA</item>
-        <item>PRIMARY SCHOOL UDAYPUR KALA</item>
-        <item>PRIMARY SCHOOL MURCHA</item>
-        <item>SAHKARI SANGH USRAHAR</item>
-        <item>PRIMARY SCHOOL RAMPUR EAST</item>
-        <item>PRIMARY SCHOOL RAMPUR WEST</item>
-        <item>PRIMARY SCHOOL BADKANSHAHPUR</item>
-        <item>HIGHER PRIMARY VIDYALAYA BHARATPUR KHURD</item>
-        <item>JUNIOR HIGH SCHOOL TIPATIYA</item>
-        <item>PT.BABU RAM MISHR ADARSH INTER COLLEGE BAMHNIPUR</item>
-        <item>PRIMARY SCHOOL NAGLA LACHI</item>
-        <item>PRIMARY SCHOOL MOHRI NORTH</item>
-        <item>PRIMARY SCHOOL MOHRI SOUTH</item>
-        <item>PRIMARY SCHOOL CHAMARPUR RUDRAPUR</item>
-        <item>PRIMARY SCHOOL NAGARIYA</item>
-        <item>PRIMARY SCHOOL KUITA EAST</item>
-        <item>PRIMARY SCHOOL KUITA WEST</item>
-        <item>PRIMARY SCHOOL NAGLA BHAGE</item>
-        <item>PRIMARY SCHOOL KAUA EAST</item>
-        <item>PRIMARY SCHOOL RAMPURA</item>
-        <item>JUNIOR HIGH SCHOOL DEEG</item>
-        <item>PRIMARY SCHOOL JAFAR PURA</item>
-        <item>PRIMARY SCHOOL DEENG</item>
-        <item>PRIMARY SCHOOL NAGLA MASOOD</item>
-        <item>KANYA JUNIOR HIGH SCHOOL SAMTHAR EAST</item>
-        <item>KANYA JUNIOR HIGH SCHOOL SAMTHAR WEST</item>
-        <item>PRIMARY SCHOOL SAMTHAR</item>
-        <item>PRIMARY SCHOOL NAGLA PACHHAYA</item>
-        <item>PRIMARY SCHOOL AMTHARI</item>
-        <item>PRIMARY SCHOOL AMTHARI</item>
-        <item>PRIMARY SCHOOL RUDOLI</item>
-        <item>PRIMARY SCHOOL KURKHA</item>
-        <item>PRIMARY SCHOOL AGHINI</item>
-        <item>PRIMARY SCHOOL AGHINI</item>
-        <item>HIGHER SECONDRY SCHOOL KHARAGPUR SARIYA</item>
-        <item>PRIMARY SCHOOL HINDUPUR BAIDPUR</item>
-        <item>PRIMARY SCHOOL SONTHANA</item>
-        <item>PRIMARY SCHOOL RAMPURA PACHAR</item>
-        <item>JUNIOR HIGH SCHOOL RAMPURA PACHAR</item>
-        <item>PRIMARY SCHOOL BHAGWANTPURA VILL. HARKUNJALPUR</item>
-        <item>PRIMARY SCHOOL PURELA (R.N. 1)</item>
-        <item>PRIMARY SCHOOL PURELA (R.N. 2)</item>
-        <item>JUNIOR HIGH SCHOOL VISHUNPURA NAGLA GUJRATI</item>
-        <item>KANNYA JUNIOR HIGH SCHOOL KUDRAIL EAST</item>
-        <item>KANNYA JUNIOR HIGH SCHOOL KUDRAIL WEST</item>
-        <item>PRIMARY SCHOOL KUDRAIL</item>
-        <item>PRIMARY SCHOOL KUDRAIL</item>
-        <item>PRIMARY SCHOOL POORANPURA</item>
-        <item>PRIMARY SCHOOL BADARIYAPOOTH</item>
-        <item>PRIMARY SCHOOL NAGLA CHATUR</item>
-        <item>PRIMARY SCHOOL NARAYANPUR</item>
-        <item>PRIMARY SCHOOL KESHONPUR</item>
-        <item>PRIMARY SCHOOL KATHOTIYA</item>
-        <item>PRIMARY SCHOOL PATIYAYAT EAST</item>
-        <item>PRIMARY SCHOOL PATIYAYAT WEST</item>
-        <item>JUNIOR HIGH SCHOOL TAKHA EAST</item>
-        <item>JUNIOR HIGH SCHOOL TAKHA WEST</item>
-        <item>PRIMARY SCHOOL KAYAMPUR ROOM-1</item>
-        <item>PRIMARY SCHOOL KAYAMPUR ROOM-2</item>
-        <item>PRIMARY SCHOOL NAGLA DULI</item>
-        <item>PRIMARY SCHOOL NAGLA DHAKAU ROOM-1</item>
-        <item>PRIMARY SCHOOL NAGLA DHAKAU ROOM-2</item>
-        <item>HIGHER SECONDRY SCHOOL MAMAN HIMATPUR EAST</item>
-        <item>HIGHER SECONDRY SCHOOL MAMAN HIMATPUR WEST</item>
-        <item>PRIMARY SCHOOL GANGDASPUR</item>
-        <item>PRIMARY SCHOOL NAGLA MAKEY</item>
-        <item>PRIMARY SCHOOL SARAWA NORTH</item>
-        <item>PRIMARY SCHOOL SARAWA MIDDLE</item>
-        <item>PRIMARY SCHOOL BELAHAR</item>
-        <item>BALWANT SHAHEED I . C. NAGRIYA YADVAN (BELAHAR)</item>
-        <item>PRIMARY SCHOOL NAGLA DHOKAL SORON</item>
-        <item>PRIMARY SCHOOL RATAHRI SARAWA</item>
-        <item>PRIMARY SCHOOL NAGARIYA SARAWA</item>
-        <item>PRIMARY SCHOOL KAKRAHI EAST</item>
-        <item>PRIMARY SCHOOL KAKRAHI WEST</item>
+        <item>PRIMARY SCHOOL MAHAMAI
+</item>
+        <item>PRIMARY SCHOOL NAGARI
+</item>
+        <item>PRIMARY SCHOOL JONAI
+</item>
+        <item>PRIMARY SCHOOL DHOLPUR
+</item>
+        <item>PRIMARY SCHOOL NAGLA KHERA
+</item>
+        <item>PRIMARY SCHOOL DHARWAR ROOM-1
+</item>
+        <item>PRIMARY SCHOOL DHARWAR ROOM-2
+</item>
+        <item>JUNIOR HIGH SCHOOL DHARWAR NORTH
+</item>
+        <item>JUNIOR HIGH SCHOOL DHARWAR SOUTH
+</item>
+        <item>PRIMARY SCHOOL KURAKHAR
+</item>
+        <item>PRIMARY SCHOOL FULRAI
+</item>
+        <item>PRIMARY SCHOOL MEERAKHPUR PUTIYA
+</item>
+        <item>PRIMARY SCHOOL NAGLA JULA
+</item>
+        <item>PRIMARY SCHOOL AALAI
+</item>
+        <item>PRIMARY SCHOOL MADANPURA
+</item>
+        <item>PRIMARY SCHOOL GHANSHYAMPURA
+</item>
+        <item>PRIMARY SCHOOL NAGLA DAYALPURA
+</item>
+        <item>DR. RAM MANOHAR LOHIA INTER COLLEGE DHANUA
+</item>
+        <item>PRIMARY SCHOOL NAGLA JAGAN
+</item>
+        <item>PRIMARY SCHOOL NAGLA LAYAK
+</item>
+        <item>PRIMARY SCHOOL NAGLA FHATEHPURA
+</item>
+        <item>PRIMARY SCHOOL BIYARI BHATPURA WEST
+</item>
+        <item>PRIMARY SCHOOL BIYARI BHATPURA EAST
+</item>
+        <item>PRIMARY SCHOOL BHUJPURA BIBAMAU
+</item>
+        <item>PRIMARY SCHOOL KAKRAI
+</item>
+        <item>PRIMARY SCHOOL DARSHANPUR
+</item>
+        <item>PRIMARY SCHOOL KHERA BUJURG NORTH
+</item>
+        <item>PRIMARY SCHOOL KHERA BUJURG SOUTH
+</item>
+        <item>PRIMARY SCHOOL TULARAMPUR
+</item>
+        <item>PRIMARY SCHOOL BHAGWANPURA
+</item>
+        <item>PRIMARY SCHOOL NAGLA KEHRI
+</item>
+        <item>PRIMARY SCHOOL KURSENA ROOM-1
+</item>
+        <item>PRIMARY SCHOOL KURSENA ROOM-2
+</item>
+        <item>PRIMARY SCHOOL HANUMANT KHERA
+</item>
+        <item>PRIMARY SCHOOL GARI JALIM
+</item>
+        <item>PRIMARY SCHOOL RUKANPURA
+</item>
+        <item>PANCHAYATGHAR KANCHANIA
+</item>
+        <item>PRIMARY SCHOOL NAGLA SUGANDH NAGER
+</item>
+        <item>PRIMARY SCHOOL AJNORA
+</item>
+        <item>SAMUDAIK KENDRA PATHAKPURA
+</item>
+        <item>PRIMARY SCHOOL CHANDANPUR BIBAMAU
+</item>
+        <item>PRIMARY SCHOOL SHAHJAHANPUR
+</item>
+        <item>PRIMARY SCHOOL LARKHOR
+</item>
+        <item>PRIMARY SCHOOL MOHANPURA (LARHHAUR)
+</item>
+        <item>PRIMARY SCHOOL KHUSHALPURA (LARHHAUR)
+</item>
+        <item>PRIMARY SCHOOL BHAUPURA
+</item>
+        <item>PRIMARY SCHOOL NAGLA SUBHAN
+</item>
+        <item>ZILA PANCHAYAT INTER COLLEGE HEONRA
+</item>
+        <item>PRIMARY SCHOOL HENORA NEW BUILDING
+</item>
+        <item>PRIMARY SCHOOL NAGLA ANIYA
+</item>
+        <item>PRIMARY SCHOOL BANAMAI
+</item>
+        <item>PRIMARY SCHOOL BHAISAN
+</item>
+        <item>PRIMARY SCHOOL PARSAOUA
+</item>
+        <item>PRIMARY SCHOOL ALAMPUR NARIA
+</item>
+        <item>PRIMARY SCHOOL BHAWALPUR
+</item>
+        <item>PRIMARY SCHOOL NILOI EAST
+</item>
+        <item>PRIMARY SCHOOL NILOI WEST
+</item>
+        <item>PRIMARY SCHOOL NAGLA RATHORE
+</item>
+        <item>PRIMARY SCHOOL PRATAPPURA
+</item>
+        <item>PRIMARY SCHOOL MAHLAI ROOM-1
+</item>
+        <item>PRIMARY SCHOOL MAHLAI ROOM-2
+</item>
+        <item>JODHASINGH INTER COLLEGE HARKOOPUR
+</item>
+        <item>SHRI MULAYAM SINGH YADAV INTER COLLEGE RAINAGER
+</item>
+        <item>PRIMARY SCHOOL NAGLA HARE
+</item>
+        <item>PRIMARY SCHOOL KELOKHAR
+</item>
+        <item>PRIMARY SCHOOL NAGLA SEWARAM
+</item>
+        <item>PRIMARY SCHOOL KUNJPUR
+</item>
+        <item>PRIMARY SCHOOL JARIKHERA
+</item>
+        <item>PRIMARY SCHOOL MUHABATPUR NAGLA BHAGAT
+</item>
+        <item>KANYA PRIMARY SCHOOL KEST
+</item>
+        <item>PRIMARY SCHOOL KEST
+</item>
+        <item>PRIMARY SCHOOL NAGLA INCHA
+</item>
+        <item>PRIMARY SCHOOL DURGAPURA (LUDHPURA)
+</item>
+        <item>KANYA UCCHATAR PRIMARY SCHOOL JASWANT NAGER (R.N.-1)
+</item>
+        <item>KANYA UCCHATAR PRIMARY SCHOOL JASWANT NAGER (R.N.-2)
+</item>
+        <item>GOVERNMENT GIRLS INTER COLLEGE JASWANT NAGER (R.N.1)
+</item>
+        <item>GOVERNMENT GIRLS INTER COLLEGE JASWANT NAGER (R.N.2)
+</item>
+        <item>GOVERNMENT GIRLS INTER COLLEGE JASWANT NAGER (R.N.3)
+</item>
+        <item>GOVERNMENT GIRLS INTER COLLEGE JASWANT NAGER (R.N.4)
+</item>
+        <item>JUNIOR HIGH SCHOOL JASWANT NAGER (R.N.1)
+</item>
+        <item>JUNIOR HIGH SCHOOL JASWANT NAGER (R.N.2)
+</item>
+        <item>JUNIOR HIGH SCHOOL JASWANT NAGER (R.N.3)
+</item>
+        <item>PRIMARY SCHOOL JASWANT NAGER (R.N. 1)
+</item>
+        <item>PRIMARYSCHOOL JASWANT NAGER (R.N. 2)
+</item>
+        <item>PARIGANIT PRIMARY SCHOOL JASWANT NAGER (R.N. 1)
+</item>
+        <item>PARIGANIT PRIMARYSCHOOL JASWANT NAGER (R.N. 2)
+</item>
+        <item>HINDU VIDYALAYA INTER COLLEGE. JASWANT NAGER (R.N. 1)
+</item>
+        <item>HINDU VIDYALAYA INTER COLLEGE. JASWANT NAGER (R.N. 2)
+</item>
+        <item>HINDU VIDYALAYA INTER COLLEGE. JASWANT NAGER (R.N. 3)
+</item>
+        <item>HINDU VIDYALAYA INTER COLLEGE. JASWANT NAGER (R.N. 4)
+</item>
+        <item>PRIMARY SCHOOL SISHAT EAST
+</item>
+        <item>PRIMARY SCHOOL SISHAT WEST
+</item>
+        <item>PRIMARY SCHOOL PIPREDI
+</item>
+        <item>PANCHAYATGHAR JWALAPUR VILL. PIPREDI
+</item>
+        <item>PRIMARY SCHOOL RAJPUR TAMERI
+</item>
+        <item>PRIMARY SCHOOL TAMERI
+</item>
+        <item>PRIMARY SCHOOL JUGOURA
+</item>
+        <item>PRIMARY SCHOOL BAHORIPUR
+</item>
+        <item>ASHOK INTER COLLEGE KUKAWALI (R.N.1)
+</item>
+        <item>ASHOK INTER COLLEGEKUKAWALI (R.N.2)
+</item>
+        <item>PRIMARY SCHOOL BAHADURPUR NASIRPUR
+</item>
+        <item>PRIMARY SCHOOL NIJAMPUR
+</item>
+        <item>PRIMARY SCHOOL NAGLA RAMSUNDER EAST
+</item>
+        <item>PRIMARY SCHOOL NAGLA RAMSUNDER WEST
+</item>
+        <item>PRIMARY SCHOOL NAGLA SALAHDI
+</item>
+        <item>PRIMARY SCHOOL BALRAI
+</item>
+        <item>PRIMARY SCHOOL DODUA GOPALPUR (GADI RAMDHAN)
+</item>
+        <item>PRIMARY SCHOOL BIBAMAU EAST
+</item>
+        <item>PRIMARY SCHOOL BIBAMAU WEST
+</item>
+        <item>PRIMARY SCHOOL AJABPUR BIBAMAU
+</item>
+        <item>PRIMARY SCHOOL NAGLA VISHUN TIJORA EAST
+</item>
+        <item>PRIMARY SCHOOL NAGLA VISHUN TIJORA WEST
+</item>
+        <item>PRIMARY SCHOOL PREM NAGER
+</item>
+        <item>JUNIOR HIGH SCHOOL BAUTH
+</item>
+        <item>PRIMARY SCHOOL MADIYA FAKIRE MAUJA BAUTH
+</item>
+        <item>PRIMARY SCHOOL SARAMAI
+</item>
+        <item>PRIMARY SCHOOL NAGLA TAUR NORTH
+</item>
+        <item>PRIMARY SCHOOL NAGLA TAUR SOUTH
+</item>
+        <item>PRIMARY SCHOOL NAGLA DHURHA
+</item>
+        <item>PRIMARY SCHOOL KIRATPUR
+</item>
+        <item>PRIMARY SCHOOL PEEHARPUR
+</item>
+        <item>PRIMARY SCHOOL SIRSA BIBMAU
+</item>
+        <item>PRIMARY SCHOOL SALEMPUR
+</item>
+        <item>PRIMARY SCHOOL CHAK
+</item>
+        <item>K.PRIMARY SCHOOL BHIKHANPUR
+</item>
+        <item>PRIMARY SCHOOL NAGARIA JASOHAN
+</item>
+        <item>PRIMARY SCHOOL GARAMPUR
+</item>
+        <item>JUNIOR HIGH SCHOOL SIRHOL
+</item>
+        <item>PRIMARY SCHOOL NAGLA CHHAND
+</item>
+        <item>PRIMARY SCHOOL MUHABATPUR JASOHAN
+</item>
+        <item>PRIMARY SCHOOL BAGIYA JASOHAN
+</item>
+        <item>PRIMARY SCHOOL JANAKPUR (R.N. 1)
+</item>
+        <item>PRIMARY SCHOOL JANAKPUR (R.N. 2)
+</item>
+        <item>PRIMARY SCHOOL NAGLA UDAYSINGH
+</item>
+        <item>PRIMARY SCHOOL NAGLA KESHONRAI
+</item>
+        <item>PRIMARY SCHOOL JHALOKHAR
+</item>
+        <item>PRIMARY SCHOOL SAKHOA
+</item>
+        <item>PRIMARY SCHOOL JAGSORA EAST
+</item>
+        <item>PRIMARY SCHOOL JAGSORA WEST
+</item>
+        <item>PRIMARY SCHOOL NAGARIYA BHAT
+</item>
+        <item>PRIMARY SCHOOL NAGLA NAYA
+</item>
+        <item>PRIMARY SCHOOL NAGLA DUDHA
+</item>
+        <item>PRIMARY SCHOOL MALAJANI NORTH
+</item>
+        <item>PRIMARY SCHOOL MALAJANI SOUTH
+</item>
+        <item>JUNIOR HIGH SCHOOL BHATORA
+</item>
+        <item>PRIMARY SCHOOL BHATORA
+</item>
+        <item>PRIMARY SCHOOL BHOGATAL
+</item>
+        <item>PRIMARY SCHOOL TAKPURA SARAI JALAL
+</item>
+        <item>PRIMARY SCHOOL JAINPUR NAGAR
+</item>
+        <item>PRIMARY SCHOOL ARAJI SARAIBHOPAT (NAGLA BABA)
+</item>
+        <item>PRIMARY SCHOOL SARAI BHOPAT
+</item>
+        <item>PRIMARY SCHOOL NAGLA VERMAJIT
+</item>
+        <item>PRIMARY SCHOOL MALOOPUR
+</item>
+        <item>PRIMARY SCHOOL BALIYAPUR
+</item>
+        <item>JUNIOR HIGH SCHOOL BANKATI BUJURG
+</item>
+        <item>PRIMARY SCHOOL BIRAMPUR
+</item>
+        <item>PRIMARY SCHOOL ADHIYAPUR
+</item>
+        <item>PRIMARY SCHOOL NAGLA CHHATE
+</item>
+        <item>PRIMARY SCHOOL BHESRAI
+</item>
+        <item>KRASAK INTER COLLEGE BICHPURIKERA
+</item>
+        <item>PRIMARY SCHOOL PATAJHARI
+</item>
+        <item>PRIMARY SCHOOL HAJRATPUR
+</item>
+        <item>JUNIOR HIGH SCHOOL JAITIYA
+</item>
+        <item>PRIMARY SCHOOL SONAI
+</item>
+        <item>PRIMARY SCHOOL RAJMAU ROOM-1
+</item>
+        <item>PRIMARY SCHOOL RAJMAU ROOM-2
+</item>
+        <item>PRIMARY SCHOOL KANTIHAR
+</item>
+        <item>PRIMARY SCHOOL BARRA
+</item>
+        <item>PRIMARY SCHOOL BAIDPURA
+</item>
+        <item>PRIMARY SCHOOL JAHANABAD
+</item>
+        <item>PRIMARY SCHOOL CHAKOOPUR
+</item>
+        <item>PRIMARY SCHOOL MAHOLA
+</item>
+        <item>PRIMARY SCHOOL UMRAHI
+</item>
+        <item>PRIMARY SCHOOL KHARDOOLI
+</item>
+        <item>PRIMARY SCHOOL CHHITONI
+</item>
+        <item>PRIMARY SCHOOL RAMET
+</item>
+        <item>PRIMARY SCHOOL HIRAPUR
+</item>
+        <item>PRIMARY SCHOOL BAROLI BAIDPURA
+</item>
+        <item>PRIMARY SCHOOL SIPHARI
+</item>
+        <item>PRIMARY SCHOOL CHHIMARA EAST
+</item>
+        <item>PRIMARY SCHOOL CHHIMARA MIDDLE
+</item>
+        <item>PRIMARY SCHOOL BORAIN
+</item>
+        <item>PRIMARY SCHOOL BHADAI KASHIPUR
+</item>
+        <item>PRIMARY SCHOOL BHADAI KASHIPUR WEST
+</item>
+        <item>PRIMARY SCHOOL NAGLA SEWA
+</item>
+        <item>PRIMARY SCHOOL NAGLA BABA BHAGWATIPUR NEW BUILDING
+</item>
+        <item>PRIMARY SCHOOL BHALASAIYA
+</item>
+        <item>PRIMARY SCHOOL NARHOLI BHIDARUA
+</item>
+        <item>PRIMARY SCHOOL LACHWAI EAST
+</item>
+        <item>PRIMARY SCHOOL LACHWAI WEST
+</item>
+        <item>PRIMARY SCHOOL GEENJA (R.N. 1)
+</item>
+        <item>PRIMARY SCHOOL GEENJA (R.N. 2)
+</item>
+        <item>PRIMARY SCHOOL CHOBEYPUR EAST
+</item>
+        <item>PRIMARY SCHOOL JHIGOOPUR
+</item>
+        <item>PRIMARY SCHOOL BHALI
+</item>
+        <item>PRIMARY SCHOOL MUCHHARA
+</item>
+        <item>PRIMARY SCHOOL SAIFAI EAST
+</item>
+        <item>PRIMARY SCHOOL SAIFAI MIDDLE
+</item>
+        <item>JUNIOR HIGH SCHOOL SAIFAI (R.N.1)
+</item>
+        <item>JUNIOR HIGH SCHOOL FAIFAI (R.N. 2)
+</item>
+        <item>JUNIOR HIGH SCHOOL ATIRAJPUR
+</item>
+        <item>PANCHAYAT OFFICE SAIFAI OLD MEETING HALL
+</item>
+        <item>PRIMARY SCHOOL NAGLA SABI
+</item>
+        <item>PRIMARY SCHOOL UJHIYANI
+</item>
+        <item>PRIMARY SCHOOL BAGHUIYA
+</item>
+        <item>PRIMARY SCHOOL PINDARI NEW BUILDING
+</item>
+        <item>PRIMARY SCHOOL PINDARI NEW BUILDING
+</item>
+        <item>PRIMARY SCHOOL KUIYA EAST
+</item>
+        <item>PRIMARY SCHOOL KUIYA
+</item>
+        <item>PRIMARY SCHOOL ODAMPUR
+</item>
+        <item>PRIMARY SCHOOL BAROLI KALA
+</item>
+        <item>PRIMARY SCHOOL NAGLA BAGERHAR EAST
+</item>
+        <item>PRIMARY SCHOOL SAHSARPUR
+</item>
+        <item>DR. RAM MANOHAR LOHIA JHS USRAI
+</item>
+        <item>SARVODAYA INTER COLLEGE LONGPUR
+</item>
+        <item>PRIMARY SCHOOL TULSIPUR NEW BUILDING
+</item>
+        <item>PRIMARY SCHOOL NAGLA DARIYAY
+</item>
+        <item>PRIMARY SCHOOL BHAGIPUR
+</item>
+        <item>PRIMARY SCHOOL NANDPUR
+</item>
+        <item>PRIMARY SCHOOL KUMHAWAR
+</item>
+        <item>PRIMARY SCHOOL UDDHAMPUR
+</item>
+        <item>PRIMARY SCHOOL HARDOI (R.N. 1)
+</item>
+        <item>PRIMARY SCHOOL HARDOI (R.N. 2)
+</item>
+        <item>JUNIOR HIGH SCHOOL HARDOI
+</item>
+        <item>PRIMARY SCHOOL MOHATI
+</item>
+        <item>PRIMARY SCHOOL LADAMPUR
+</item>
+        <item>PRIMARY SCHOOL KATHUA
+</item>
+        <item>PRIMARY SCHOOL NAGLA MATHIYA
+</item>
+        <item>PRIMARY SCHOOL SHIVPURI TIMARUA EAST
+</item>
+        <item>PRIMARY SCHOOL SHIVPURI TIMARUA WEST
+</item>
+        <item>PRIMARY SCHOOL MADHAIYAPUR
+</item>
+        <item>PRIMARY SCHOOL SARWARPUR
+</item>
+        <item>PRIMARY SCHOOL PARASNA EAST
+</item>
+        <item>PRIMARY SCHOOL PARASNA WEST
+</item>
+        <item>PRIMARY SCHOOL NAGLA KOOKPUR
+</item>
+        <item>PRIMARY SCHOOL NAGLA BANE
+</item>
+        <item>PRIMARY SCHOOL MANIGAWNA (R.N. 1)
+</item>
+        <item>PRIMARY SCHOOL MANIGAWNA (R.N. 2)
+</item>
+        <item>PRIMARY SCHOOL THULRAI
+</item>
+        <item>PRIMARY SCHOOL SARSAI HELU
+</item>
+        <item>PRIMARY SCHOOL NAGLA KUATIA
+</item>
+        <item>PRIMARY SCHOOL SHADIPUR
+</item>
+        <item>PRIMARY SCHOOL JAGANNATHPUR
+</item>
+        <item>JUNIOR HIGH SCHOOL KARRI
+</item>
+        <item>JUNIOR HIGH SCHOOL KARRI
+</item>
+        <item>PRIMARY SCHOOL NAGLA BAHELIYA (KARRI)
+</item>
+        <item>PRIMARY SCHOOL KALEPURA
+</item>
+        <item>PRIMARY SCHOOL GANESHPUR
+</item>
+        <item>PRIMARY SCHOOL BHOOTHA
+</item>
+        <item>PRIMARY SCHOOL BEENA WEST
+</item>
+        <item>PRIMARY SCHOOL BEENA WEST
+</item>
+        <item>PRIMARY SCHOOL PAROLI RAMAIN
+</item>
+        <item>PRIMARY SCHOOL KATAIYAPUR (KRAPALPUR)
+</item>
+        <item>PRIMARY SCHOOL HIDDAPURA
+</item>
+        <item>PRIMARY SCHOOL UNWA SANTOSHPUR
+</item>
+        <item>JUNIOR HIGH SCHOOL SANTOSHPUR UNWA
+</item>
+        <item>PRIMARY SCHOOL ISWARPUR
+</item>
+        <item>PRIMARY SCHOOL BARALOKPUR EAST
+</item>
+        <item>PRIMARY SCHOOL BARALOKPUR WEST ROOM-1
+</item>
+        <item>PRIMARY SCHOOL BARALOKPUR WEST ROOM-2
+</item>
+        <item>PRIMARY SCHOOL LOKPURA
+</item>
+        <item>PRIMARY SCHOOL SEEPURI
+</item>
+        <item>PRIMARY SCHOOL AGUPUR GOPALPUR
+</item>
+        <item>PRIMARY SCHOOL AGUPUR GOPALPUR
+</item>
+        <item>PRIMARY SCHOOL AARAJI GUBARIYA
+</item>
+        <item>PRAHLAD ISMARAK INTER COLLEGE KRISHNA NAGAR CHOPULA
+</item>
+        <item>PRAHLAD ISMARAK INTER COLLEGE KRISHNA NAGAR CHOPULA
+</item>
+        <item>PRIMARY SCHOOL MUGALPURA
+</item>
+        <item>PRIMARY SCHOOL NAGLA SABI
+</item>
+        <item>PRIMARY SCHOOL MOONJ EAST-1
+</item>
+        <item>PRIMARY SCHOOL MOONJ EAST-2
+</item>
+        <item>PRIMARY SCHOOL MOONJ WEST
+</item>
+        <item>PRIMARY SCHOOL RAMPURA
+</item>
+        <item>PRIMARY SCHOOL FARDPURA
+</item>
+        <item>PRIMARY SCHOOL MASNAI
+</item>
+        <item>PRIMARY SCHOOL JAINPUR CHAUBIYA
+</item>
+        <item>PRIMARY SCHOOL CHAUBIYA
+</item>
+        <item>PRIMARY SCHOOL BAKHTYARPUR
+</item>
+        <item>PRIMARY SCHOOL BHADIYAPUR RAHIN
+</item>
+        <item>PRIMARY SCHOOL TISUADEV
+</item>
+        <item>PRIMARY SCHOOL MOHANPUR RAHIN
+</item>
+        <item>PRIMARY SCHOOL NEEWASAI
+</item>
+        <item>JUNIOR HIGH SCHOOL KAKARPUR
+</item>
+        <item>PRIMARY SCHOOL GORA DAYALPUR
+</item>
+        <item>PRIMARY SCHOOL GORA DAYALPUR
+</item>
+        <item>PRIMARY SCHOOL RAHIN
+</item>
+        <item>PRIMARY SCHOOL ROOP PUR SARAI BHIKHAN
+</item>
+        <item>PRIMARY SCHOOL GULABPUR
+</item>
+        <item>PRIMARY SCHOOL KALYANPUR RAHIN
+</item>
+        <item>PRIMARY SCHOOL BIHARIPUR
+</item>
+        <item>PRIMARY SCHOOL ADUPURA
+</item>
+        <item>PRIMARY SCHOOL KESHONPUR RAHIN
+</item>
+        <item>KANNYA PRIMARY SCHOOL GANGAPUR
+</item>
+        <item>PRIMARY SCHOOL BITHOLI
+</item>
+        <item>PRIMARY SCHOOL PARTAPURA
+</item>
+        <item>PRIMARY SCHOOL KHERA HELU
+</item>
+        <item>PRIMARY SCHOOL KHERA HELU
+</item>
+        <item>PRIMARY SCHOOL DUDHA
+</item>
+        <item>PRIMARY SCHOOL ADARPUR
+</item>
+        <item>PRIMARY SCHOOL JABARPUR NORTH
+</item>
+        <item>PRIMARY SCHOOL NAGLA TAAL
+</item>
+        <item>PRIMARY SCHOOL LAKHANPUR PACHAR
+</item>
+        <item>PRIMARY SCHOOL DIBRASAI
+</item>
+        <item>PRIMARY SCHOOL APOORPUR
+</item>
+        <item>KISAN HIGHER SECONDRY SCHOOL SHEKHUPUR CHANDETHI
+</item>
+        <item>JUNIOR HIGH SCHOOL BER EAST
+</item>
+        <item>JUNIOR HIGH SCHOOL BER WEST
+</item>
+        <item>PRIMARY SCHOOL NAGLA BHOOJ
+</item>
+        <item>JUNIOR HIGH SCHOOL ROURA EAST
+</item>
+        <item>JUNIOR HIGH SCHOOL ROURA WEST
+</item>
+        <item>SAMUDAIK MILAN KENDRA KHIRIYA
+</item>
+        <item>PRIMARY SCHOOL BAKOLI
+</item>
+        <item>PRIMARY SCHOOL SHEKHUPUR PACHAR
+</item>
+        <item>JUNIOR HIGH SCHOOL NAGLA JIND
+</item>
+        <item>PRIMARY SCHOOL SANTOSHPUR PACHAR
+</item>
+        <item>PRIMARY SCHOOL PUNJA
+</item>
+        <item>PRIMARY SCHOOL KESHONPUR
+</item>
+        <item>JAN HITKARI M.V. NAGLA BHAWAR
+</item>
+        <item>PRIMARY SCHOOL TAKPURA
+</item>
+        <item>PRIMARY SCHOOL BANI HARDU
+</item>
+        <item>PRIMARY SCHOOL CHAMROUA
+</item>
+        <item>JILA PARISAD HIGHER SECONDRY SCHOOL SARSAINAWAR EAST
+</item>
+        <item>JILA PARISAD HIGHER SECONDRY SCHOOL SARSAINAWAR
+</item>
+        <item>JILA PANCHAYAT HIGHER SECONDRY SCHOOL SARSAINAWAR
+</item>
+        <item>PRIMARY SCHOOL GIRDHARPURA
+</item>
+        <item>PRIMARY SCHOOL NAGLA BALSINGH
+</item>
+        <item>PRIMARY SCHOOL DOLATPUR
+</item>
+        <item>PRIMARY SCHOOL BHADARPURA
+</item>
+        <item>PRIMARY SCHOOL NAGLA JALAL
+</item>
+        <item>PRIMARY SCHOOL SUNDRA
+</item>
+        <item>PRIMARY SCHOOL TIRKHI TILOKPUR
+</item>
+        <item>PRIMARY SCHOOL NAGLA DUDHA
+</item>
+        <item>JUNIOR HIGH SCHOOL KADAMPUR WEST
+</item>
+        <item>PRIMARY SCHOOL KADAMPUR
+</item>
+        <item>PRIMARY SCHOOL KISHANPURA
+</item>
+        <item>PRIMARY SCHOOL UDAYPUR KALA
+</item>
+        <item>PRIMARY SCHOOL MURCHA
+</item>
+        <item>SAHKARI SANGH USRAHAR
+</item>
+        <item>PRIMARY SCHOOL RAMPUR EAST
+</item>
+        <item>PRIMARY SCHOOL RAMPUR WEST
+</item>
+        <item>PRIMARY SCHOOL BADKANSHAHPUR
+</item>
+        <item>HIGHER PRIMARY VIDYALAYA BHARATPUR KHURD
+</item>
+        <item>JUNIOR HIGH SCHOOL TIPATIYA
+</item>
+        <item>PT.BABU RAM MISHR ADARSH INTER COLLEGE BAMHNIPUR
+</item>
+        <item>PRIMARY SCHOOL NAGLA LACHI
+</item>
+        <item>PRIMARY SCHOOL MOHRI NORTH
+</item>
+        <item>PRIMARY SCHOOL MOHRI SOUTH
+</item>
+        <item>PRIMARY SCHOOL CHAMARPUR RUDRAPUR
+</item>
+        <item>PRIMARY SCHOOL NAGARIYA
+</item>
+        <item>PRIMARY SCHOOL KUITA EAST
+</item>
+        <item>PRIMARY SCHOOL KUITA WEST
+</item>
+        <item>PRIMARY SCHOOL NAGLA BHAGE
+</item>
+        <item>PRIMARY SCHOOL KAUA EAST
+</item>
+        <item>PRIMARY SCHOOL RAMPURA
+</item>
+        <item>JUNIOR HIGH SCHOOL DEEG
+</item>
+        <item>PRIMARY SCHOOL JAFAR PURA
+</item>
+        <item>PRIMARY SCHOOL DEENG
+</item>
+        <item>PRIMARY SCHOOL NAGLA MASOOD
+</item>
+        <item>KANYA JUNIOR HIGH SCHOOL SAMTHAR EAST
+</item>
+        <item>KANYA JUNIOR HIGH SCHOOL SAMTHAR WEST
+</item>
+        <item>PRIMARY SCHOOL SAMTHAR
+</item>
+        <item>PRIMARY SCHOOL NAGLA PACHHAYA
+</item>
+        <item>PRIMARY SCHOOL AMTHARI
+</item>
+        <item>PRIMARY SCHOOL AMTHARI
+</item>
+        <item>PRIMARY SCHOOL RUDOLI
+</item>
+        <item>PRIMARY SCHOOL KURKHA
+</item>
+        <item>PRIMARY SCHOOL AGHINI
+</item>
+        <item>PRIMARY SCHOOL AGHINI
+</item>
+        <item>HIGHER SECONDRY SCHOOL KHARAGPUR SARIYA
+</item>
+        <item>PRIMARY SCHOOL HINDUPUR BAIDPUR
+</item>
+        <item>PRIMARY SCHOOL SONTHANA
+</item>
+        <item>PRIMARY SCHOOL RAMPURA PACHAR
+</item>
+        <item>JUNIOR HIGH SCHOOL RAMPURA PACHAR
+</item>
+        <item>PRIMARY SCHOOL BHAGWANTPURA VILL. HARKUNJALPUR
+</item>
+        <item>PRIMARY SCHOOL PURELA (R.N. 1)
+</item>
+        <item>PRIMARY SCHOOL PURELA (R.N. 2)
+</item>
+        <item>JUNIOR HIGH SCHOOL VISHUNPURA NAGLA GUJRATI
+</item>
+        <item>KANNYA JUNIOR HIGH SCHOOL KUDRAIL EAST
+</item>
+        <item>KANNYA JUNIOR HIGH SCHOOL KUDRAIL WEST
+</item>
+        <item>PRIMARY SCHOOL KUDRAIL
+</item>
+        <item>PRIMARY SCHOOL KUDRAIL
+</item>
+        <item>PRIMARY SCHOOL POORANPURA
+</item>
+        <item>PRIMARY SCHOOL BADARIYAPOOTH
+</item>
+        <item>PRIMARY SCHOOL NAGLA CHATUR
+</item>
+        <item>PRIMARY SCHOOL NARAYANPUR
+</item>
+        <item>PRIMARY SCHOOL KESHONPUR
+</item>
+        <item>PRIMARY SCHOOL KATHOTIYA
+</item>
+        <item>PRIMARY SCHOOL PATIYAYAT EAST
+</item>
+        <item>PRIMARY SCHOOL PATIYAYAT WEST
+</item>
+        <item>JUNIOR HIGH SCHOOL TAKHA EAST
+</item>
+        <item>JUNIOR HIGH SCHOOL TAKHA WEST
+</item>
+        <item>PRIMARY SCHOOL KAYAMPUR ROOM-1
+</item>
+        <item>PRIMARY SCHOOL KAYAMPUR ROOM-2
+</item>
+        <item>PRIMARY SCHOOL NAGLA DULI
+</item>
+        <item>PRIMARY SCHOOL NAGLA DHAKAU ROOM-1
+</item>
+        <item>PRIMARY SCHOOL NAGLA DHAKAU ROOM-2
+</item>
+        <item>HIGHER SECONDRY SCHOOL MAMAN HIMATPUR EAST
+</item>
+        <item>HIGHER SECONDRY SCHOOL MAMAN HIMATPUR WEST
+</item>
+        <item>PRIMARY SCHOOL GANGDASPUR
+</item>
+        <item>PRIMARY SCHOOL NAGLA MAKEY
+</item>
+        <item>PRIMARY SCHOOL SARAWA NORTH
+</item>
+        <item>PRIMARY SCHOOL SARAWA MIDDLE
+</item>
+        <item>PRIMARY SCHOOL BELAHAR
+</item>
+        <item>BALWANT SHAHEED I . C. NAGRIYA YADVAN (BELAHAR)
+</item>
+        <item>PRIMARY SCHOOL NAGLA DHOKAL SORON
+</item>
+        <item>PRIMARY SCHOOL RATAHRI SARAWA
+</item>
+        <item>PRIMARY SCHOOL NAGARIYA SARAWA
+</item>
+        <item>PRIMARY SCHOOL KAKRAHI EAST
+</item>
+        <item>PRIMARY SCHOOL KAKRAHI WEST
+</item>
     </string-array>
 
 </resources>
