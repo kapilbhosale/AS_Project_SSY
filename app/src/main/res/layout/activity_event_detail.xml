@@ -39,22 +39,23 @@
                 android:padding="1dp"
                  />
             
-             <TextView
+             <WebView
                 android:id="@+id/eventTitle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10dp"
-                android:textSize="20sp" 
-                android:textStyle="bold" 
+                 android:clickable="false"
+                 android:focusableInTouchMode="false"
                 />
 
-            <TextView
+            <WebView
                 android:id="@+id/eventDetail"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="5dp"
-                 android:textSize="18sp"
-                android:fontFamily="sans-serif-light" />
+                android:clickable="false"
+                android:focusableInTouchMode="false"
+                />
         </LinearLayout>
     </ScrollView>
 

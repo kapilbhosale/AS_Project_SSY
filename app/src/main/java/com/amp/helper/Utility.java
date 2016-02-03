@@ -1,7 +1,11 @@
 package com.amp.helper;
 
+
+import java.io.File;
+import java.util.ArrayList;
 import java.util.Locale;
 
+import com.google.android.gms.plus.model.people.Person;
 import com.twostars.syadav.R;
 
 import android.app.Activity;
@@ -19,10 +23,7 @@ import android.net.NetworkInfo;
 import android.util.DisplayMetrics;
 
 
-
-
-
-public class Utility 
+public class Utility
 {
 	private static Utility ut; 
 	private Context mcontext;
@@ -41,6 +42,34 @@ public class Utility
 	{
 		editor.putString(KEY_NAME, name);
 		editor.commit();
+	}
+
+	public static void storeImageUrlsArray(ArrayList<ImageItem> array)
+	{
+//SharedPreferences prefs
+
+		editor.putInt("array_size", array.size());
+		for(int i=0;i<array.size(); i++)
+			editor.putString("imageURL_" + i, array.get(i).getImage());
+
+			editor.commit();
+	}
+
+	public static ArrayList<ImageItem> getStoredImageUrlsArray( )
+	{
+		int size =  3; // pref.getInt("array_size", 0);
+		System.out.println("SIZE = "+size);
+		ArrayList<ImageItem> array = new ArrayList<ImageItem>();
+		for (int i = 0; i < size; i++)
+		{
+			ImageItem item = new ImageItem();
+		   String imageURL =pref.getString("imageURL_" + i, null);
+			item.setImage(imageURL);
+			item.setTitle("Test");
+			array.add(item);
+		}
+		return array;
+
 	}
 
 	// Get Login State

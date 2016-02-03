@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<selector xmlns:android="http://schemas.android.com/apk/res/android">
-<item android:state_selected="true" 
-      android:drawable="@android:color/black"/> <!-- pressed state -->
-<item android:drawable="@android:color/transparent"/> <!-- default state --> 
-</selector>
-<!-- From: file:/Users/kapil/AndroidStudioProjects/project_android_AS/app/src/main/res/drawable/grid_item_bg.xml -->

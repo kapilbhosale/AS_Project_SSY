@@ -52,22 +52,28 @@ public class MainActivity extends Activity
 	Dialog dialog;
 	private String[] HomeMenu ;
 	private String[] colorCodes = {"#d0021b", "#4a90e2","#f5a623",
-			"#bd10e0","#d0021b",
-			"#4a90e2", "#f5a623","#bd10e0","#d0021b"};
+			"#bd10e0","#d0021b","#4a90e2",
+			"#f5a623","#bd10e0","#d0021b",
+			"#d0021b", "#4a90e2"
+	};
 
-	private Integer[] HomeMenuResouce = {
+	private Integer[] HomeMenuResouce =
+			{
 			R.drawable.ic_1,
 			R.drawable.ic_9,
 			R.drawable.ic_5,
-			R.drawable.ic_4,
 
+			R.drawable.ic_4,
 			R.drawable.ic_6,
 			R.drawable.ic_7,
+
 			R.drawable.ic_10,
 			R.drawable.ic_11,
 			R.drawable.ic_3,
 
-	};
+			R.drawable.ic_4,
+			R.drawable.ic_9,
+			};
 
 //-----------------------------------------------
 
@@ -111,7 +117,11 @@ public class MainActivity extends Activity
 				getResources().getString(R.string.title_activity_social_media),
 				getResources().getString(R.string.title_activity_vidhan_sabha),
 				getResources().getString(R.string.title_activity_department),
-				getResources().getString(R.string.title_activity_contact)};
+				getResources().getString(R.string.title_activity_contact),
+				getResources().getString(R.string.title_activity_ImageGallary)
+				,getResources().getString(R.string.title_activity_OngoingProjects)
+
+		};
 
 
 
@@ -130,7 +140,8 @@ public class MainActivity extends Activity
                 Log.i(TAG, "REG_ID : " + regid.toString());
                 //txt_view.setText("Id is " + regid.toString());
             }
-        } else {
+        } else
+		{
             Log.i(TAG, "No valid Google Play Services APK found.");
         }
 
@@ -227,6 +238,25 @@ public class MainActivity extends Activity
 
 					break;
 
+					case 9:
+//						// Image Gallary
+						Intent imageGallaryIntent = new Intent(getApplicationContext(),ImageGallaryActivity.class);
+						startActivity(imageGallaryIntent);
+
+
+//						Intent imageGallaryIntent = new Intent(getApplicationContext(),FullScreenViewActivity.class);
+//						startActivity(imageGallaryIntent);
+
+						break;
+
+					case 10:
+						//Ongoing project
+						Intent ongoingProjectsIntent = new Intent(getApplicationContext(),
+								OngoingProjectsActivity.class);
+						startActivity(ongoingProjectsIntent);
+
+						break;
+
 				default:
 					break;
 				}
@@ -275,9 +305,14 @@ public class MainActivity extends Activity
 		{
 			HttpClient httpclient = new DefaultHttpClient();
 			HttpGet httppost;
-			try {
+			try
+			{
 				httppost = new HttpGet(Constants.UPGRADE_URL + "?current_version="+Utility.getAppVersion(getApplicationContext()) + "&device_id=" + regid);
-                Log.d("DEVICE_ID", httppost.toString());
+
+//				httppost = new HttpGet(Constants.BUSINESS_TEMP_URL);
+
+
+				Log.d("DEVICE_ID", httppost.toString());
 				// Execute HTTP Post Request
 				HttpResponse response = httpclient.execute(httppost);
 				String content = EntityUtils.toString(response.getEntity());
@@ -286,9 +321,10 @@ public class MainActivity extends Activity
 				// TODO Auto-generated catch block
 			} catch (IOException e) {
 				// TODO Auto-generated catch block
-			} catch (NameNotFoundException e) {
-				// TODO Auto-generated catch block
-				e.printStackTrace();
+			}
+ catch (NameNotFoundException e) {
+//				// TODO Auto-generated catch block
+//				e.printStackTrace();
 			}
 			return null;
 		}

@@ -7,12 +7,12 @@ android {
     defaultConfig {
         applicationId "com.twostars.syadav"
         minSdkVersion 11
-        targetSdkVersion 17
+        targetSdkVersion 18
     }
 
     buildTypes {
         release {
-            runProguard false
+            minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
         }
     }
@@ -20,7 +20,7 @@ android {
 
 dependencies
         {
-
-    compile 'com.android.support:appcompat-v7:19.1.0'
+            compile 'com.android.support:appcompat-v7:19.1.0'
             compile 'com.google.android.gms:play-services:3.1.+'
-}
+            compile 'com.squareup.picasso:picasso:2.5.2'
+        }

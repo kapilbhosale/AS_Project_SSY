@@ -9,6 +9,8 @@
     <string name="title_activity_samajwadi_party">Samajwadi Party</string>
     <string name="title_activity_events">News Room</string>
     <string name="title_activity_contact">Contact</string>
+    <string name="title_activity_ImageGallary">Prints</string>
+    <string name="title_activity_OngoingProjects">Ongoing Projects</string>
     <string name="FACEBOOK_TITLE">Facebook</string>
     <string name="GOOGLE_PLUS_TITLE">Google Plus</string>
     <string name="TWITTER_TITLE">Twitter</string>
@@ -55,6 +57,7 @@ Lohia’s ability to awaken the people with his fiery articles on Satyagraha and
      <string name="PARTY_WEBSITE_TITLE">Website:</string>
     <string name="PARTY_WEBSITE_URL">http://www.samajwadiparty.in/</string>
     <string name="PERSONAL_WEBSITE_URL">http://shivpalsinghyadav.com/</string>
+    <string name="DOWNLOAD_PDF">Download Pdf</string>
     
     <string name="Public_Works_Department">Public Works Department</string>
     <string name="Irrigation">Irrigation</string>
@@ -76,824 +79,451 @@ Lohia’s ability to awaken the people with his fiery articles on Satyagraha and
      
      
     <string-array name="VidhanSabhaPartNames">
-        <item>PRIMARY SCHOOL MAHAMAI
-</item>
-        <item>PRIMARY SCHOOL NAGARI
-</item>
-        <item>PRIMARY SCHOOL JONAI
-</item>
-        <item>PRIMARY SCHOOL DHOLPUR
-</item>
-        <item>PRIMARY SCHOOL NAGLA KHERA
-</item>
-        <item>PRIMARY SCHOOL DHARWAR ROOM-1
-</item>
-        <item>PRIMARY SCHOOL DHARWAR ROOM-2
-</item>
-        <item>JUNIOR HIGH SCHOOL DHARWAR NORTH
-</item>
-        <item>JUNIOR HIGH SCHOOL DHARWAR SOUTH
-</item>
-        <item>PRIMARY SCHOOL KURAKHAR
-</item>
-        <item>PRIMARY SCHOOL FULRAI
-</item>
-        <item>PRIMARY SCHOOL MEERAKHPUR PUTIYA
-</item>
-        <item>PRIMARY SCHOOL NAGLA JULA
-</item>
-        <item>PRIMARY SCHOOL AALAI
-</item>
-        <item>PRIMARY SCHOOL MADANPURA
-</item>
-        <item>PRIMARY SCHOOL GHANSHYAMPURA
-</item>
-        <item>PRIMARY SCHOOL NAGLA DAYALPURA
-</item>
-        <item>DR. RAM MANOHAR LOHIA INTER COLLEGE DHANUA
-</item>
-        <item>PRIMARY SCHOOL NAGLA JAGAN
-</item>
-        <item>PRIMARY SCHOOL NAGLA LAYAK
-</item>
-        <item>PRIMARY SCHOOL NAGLA FHATEHPURA
-</item>
-        <item>PRIMARY SCHOOL BIYARI BHATPURA WEST
-</item>
-        <item>PRIMARY SCHOOL BIYARI BHATPURA EAST
-</item>
-        <item>PRIMARY SCHOOL BHUJPURA BIBAMAU
-</item>
-        <item>PRIMARY SCHOOL KAKRAI
-</item>
-        <item>PRIMARY SCHOOL DARSHANPUR
-</item>
-        <item>PRIMARY SCHOOL KHERA BUJURG NORTH
-</item>
-        <item>PRIMARY SCHOOL KHERA BUJURG SOUTH
-</item>
-        <item>PRIMARY SCHOOL TULARAMPUR
-</item>
-        <item>PRIMARY SCHOOL BHAGWANPURA
-</item>
-        <item>PRIMARY SCHOOL NAGLA KEHRI
-</item>
-        <item>PRIMARY SCHOOL KURSENA ROOM-1
-</item>
-        <item>PRIMARY SCHOOL KURSENA ROOM-2
-</item>
-        <item>PRIMARY SCHOOL HANUMANT KHERA
-</item>
-        <item>PRIMARY SCHOOL GARI JALIM
-</item>
-        <item>PRIMARY SCHOOL RUKANPURA
-</item>
-        <item>PANCHAYATGHAR KANCHANIA
-</item>
-        <item>PRIMARY SCHOOL NAGLA SUGANDH NAGER
-</item>
-        <item>PRIMARY SCHOOL AJNORA
-</item>
-        <item>SAMUDAIK KENDRA PATHAKPURA
-</item>
-        <item>PRIMARY SCHOOL CHANDANPUR BIBAMAU
-</item>
-        <item>PRIMARY SCHOOL SHAHJAHANPUR
-</item>
-        <item>PRIMARY SCHOOL LARKHOR
-</item>
-        <item>PRIMARY SCHOOL MOHANPURA (LARHHAUR)
-</item>
-        <item>PRIMARY SCHOOL KHUSHALPURA (LARHHAUR)
-</item>
-        <item>PRIMARY SCHOOL BHAUPURA
-</item>
-        <item>PRIMARY SCHOOL NAGLA SUBHAN
-</item>
-        <item>ZILA PANCHAYAT INTER COLLEGE HEONRA
-</item>
-        <item>PRIMARY SCHOOL HENORA NEW BUILDING
-</item>
-        <item>PRIMARY SCHOOL NAGLA ANIYA
-</item>
-        <item>PRIMARY SCHOOL BANAMAI
-</item>
-        <item>PRIMARY SCHOOL BHAISAN
-</item>
-        <item>PRIMARY SCHOOL PARSAOUA
-</item>
-        <item>PRIMARY SCHOOL ALAMPUR NARIA
-</item>
-        <item>PRIMARY SCHOOL BHAWALPUR
-</item>
-        <item>PRIMARY SCHOOL NILOI EAST
-</item>
-        <item>PRIMARY SCHOOL NILOI WEST
-</item>
-        <item>PRIMARY SCHOOL NAGLA RATHORE
-</item>
-        <item>PRIMARY SCHOOL PRATAPPURA
-</item>
-        <item>PRIMARY SCHOOL MAHLAI ROOM-1
-</item>
-        <item>PRIMARY SCHOOL MAHLAI ROOM-2
-</item>
-        <item>JODHASINGH INTER COLLEGE HARKOOPUR
-</item>
-        <item>SHRI MULAYAM SINGH YADAV INTER COLLEGE RAINAGER
-</item>
-        <item>PRIMARY SCHOOL NAGLA HARE
-</item>
-        <item>PRIMARY SCHOOL KELOKHAR
-</item>
-        <item>PRIMARY SCHOOL NAGLA SEWARAM
-</item>
-        <item>PRIMARY SCHOOL KUNJPUR
-</item>
-        <item>PRIMARY SCHOOL JARIKHERA
-</item>
-        <item>PRIMARY SCHOOL MUHABATPUR NAGLA BHAGAT
-</item>
-        <item>KANYA PRIMARY SCHOOL KEST
-</item>
-        <item>PRIMARY SCHOOL KEST
-</item>
-        <item>PRIMARY SCHOOL NAGLA INCHA
-</item>
-        <item>PRIMARY SCHOOL DURGAPURA (LUDHPURA)
-</item>
-        <item>KANYA UCCHATAR PRIMARY SCHOOL JASWANT NAGER (R.N.-1)
-</item>
-        <item>KANYA UCCHATAR PRIMARY SCHOOL JASWANT NAGER (R.N.-2)
-</item>
-        <item>GOVERNMENT GIRLS INTER COLLEGE JASWANT NAGER (R.N.1)
-</item>
-        <item>GOVERNMENT GIRLS INTER COLLEGE JASWANT NAGER (R.N.2)
-</item>
-        <item>GOVERNMENT GIRLS INTER COLLEGE JASWANT NAGER (R.N.3)
-</item>
-        <item>GOVERNMENT GIRLS INTER COLLEGE JASWANT NAGER (R.N.4)
-</item>
-        <item>JUNIOR HIGH SCHOOL JASWANT NAGER (R.N.1)
-</item>
-        <item>JUNIOR HIGH SCHOOL JASWANT NAGER (R.N.2)
-</item>
-        <item>JUNIOR HIGH SCHOOL JASWANT NAGER (R.N.3)
-</item>
-        <item>PRIMARY SCHOOL JASWANT NAGER (R.N. 1)
-</item>
-        <item>PRIMARYSCHOOL JASWANT NAGER (R.N. 2)
-</item>
-        <item>PARIGANIT PRIMARY SCHOOL JASWANT NAGER (R.N. 1)
-</item>
-        <item>PARIGANIT PRIMARYSCHOOL JASWANT NAGER (R.N. 2)
-</item>
-        <item>HINDU VIDYALAYA INTER COLLEGE. JASWANT NAGER (R.N. 1)
-</item>
-        <item>HINDU VIDYALAYA INTER COLLEGE. JASWANT NAGER (R.N. 2)
-</item>
-        <item>HINDU VIDYALAYA INTER COLLEGE. JASWANT NAGER (R.N. 3)
-</item>
-        <item>HINDU VIDYALAYA INTER COLLEGE. JASWANT NAGER (R.N. 4)
-</item>
-        <item>PRIMARY SCHOOL SISHAT EAST
-</item>
-        <item>PRIMARY SCHOOL SISHAT WEST
-</item>
-        <item>PRIMARY SCHOOL PIPREDI
-</item>
-        <item>PANCHAYATGHAR JWALAPUR VILL. PIPREDI
-</item>
-        <item>PRIMARY SCHOOL RAJPUR TAMERI
-</item>
-        <item>PRIMARY SCHOOL TAMERI
-</item>
-        <item>PRIMARY SCHOOL JUGOURA
-</item>
-        <item>PRIMARY SCHOOL BAHORIPUR
-</item>
-        <item>ASHOK INTER COLLEGE KUKAWALI (R.N.1)
-</item>
-        <item>ASHOK INTER COLLEGEKUKAWALI (R.N.2)
-</item>
-        <item>PRIMARY SCHOOL BAHADURPUR NASIRPUR
-</item>
-        <item>PRIMARY SCHOOL NIJAMPUR
-</item>
-        <item>PRIMARY SCHOOL NAGLA RAMSUNDER EAST
-</item>
-        <item>PRIMARY SCHOOL NAGLA RAMSUNDER WEST
-</item>
-        <item>PRIMARY SCHOOL NAGLA SALAHDI
-</item>
-        <item>PRIMARY SCHOOL BALRAI
-</item>
-        <item>PRIMARY SCHOOL DODUA GOPALPUR (GADI RAMDHAN)
-</item>
-        <item>PRIMARY SCHOOL BIBAMAU EAST
-</item>
-        <item>PRIMARY SCHOOL BIBAMAU WEST
-</item>
-        <item>PRIMARY SCHOOL AJABPUR BIBAMAU
-</item>
-        <item>PRIMARY SCHOOL NAGLA VISHUN TIJORA EAST
-</item>
-        <item>PRIMARY SCHOOL NAGLA VISHUN TIJORA WEST
-</item>
-        <item>PRIMARY SCHOOL PREM NAGER
-</item>
-        <item>JUNIOR HIGH SCHOOL BAUTH
-</item>
-        <item>PRIMARY SCHOOL MADIYA FAKIRE MAUJA BAUTH
-</item>
-        <item>PRIMARY SCHOOL SARAMAI
-</item>
-        <item>PRIMARY SCHOOL NAGLA TAUR NORTH
-</item>
-        <item>PRIMARY SCHOOL NAGLA TAUR SOUTH
-</item>
-        <item>PRIMARY SCHOOL NAGLA DHURHA
-</item>
-        <item>PRIMARY SCHOOL KIRATPUR
-</item>
-        <item>PRIMARY SCHOOL PEEHARPUR
-</item>
-        <item>PRIMARY SCHOOL SIRSA BIBMAU
-</item>
-        <item>PRIMARY SCHOOL SALEMPUR
-</item>
-        <item>PRIMARY SCHOOL CHAK
-</item>
-        <item>K.PRIMARY SCHOOL BHIKHANPUR
-</item>
-        <item>PRIMARY SCHOOL NAGARIA JASOHAN
-</item>
-        <item>PRIMARY SCHOOL GARAMPUR
-</item>
-        <item>JUNIOR HIGH SCHOOL SIRHOL
-</item>
-        <item>PRIMARY SCHOOL NAGLA CHHAND
-</item>
-        <item>PRIMARY SCHOOL MUHABATPUR JASOHAN
-</item>
-        <item>PRIMARY SCHOOL BAGIYA JASOHAN
-</item>
-        <item>PRIMARY SCHOOL JANAKPUR (R.N. 1)
-</item>
-        <item>PRIMARY SCHOOL JANAKPUR (R.N. 2)
-</item>
-        <item>PRIMARY SCHOOL NAGLA UDAYSINGH
-</item>
-        <item>PRIMARY SCHOOL NAGLA KESHONRAI
-</item>
-        <item>PRIMARY SCHOOL JHALOKHAR
-</item>
-        <item>PRIMARY SCHOOL SAKHOA
-</item>
-        <item>PRIMARY SCHOOL JAGSORA EAST
-</item>
-        <item>PRIMARY SCHOOL JAGSORA WEST
-</item>
-        <item>PRIMARY SCHOOL NAGARIYA BHAT
-</item>
-        <item>PRIMARY SCHOOL NAGLA NAYA
-</item>
-        <item>PRIMARY SCHOOL NAGLA DUDHA
-</item>
-        <item>PRIMARY SCHOOL MALAJANI NORTH
-</item>
-        <item>PRIMARY SCHOOL MALAJANI SOUTH
-</item>
-        <item>JUNIOR HIGH SCHOOL BHATORA
-</item>
-        <item>PRIMARY SCHOOL BHATORA
-</item>
-        <item>PRIMARY SCHOOL BHOGATAL
-</item>
-        <item>PRIMARY SCHOOL TAKPURA SARAI JALAL
-</item>
-        <item>PRIMARY SCHOOL JAINPUR NAGAR
-</item>
-        <item>PRIMARY SCHOOL ARAJI SARAIBHOPAT (NAGLA BABA)
-</item>
-        <item>PRIMARY SCHOOL SARAI BHOPAT
-</item>
-        <item>PRIMARY SCHOOL NAGLA VERMAJIT
-</item>
-        <item>PRIMARY SCHOOL MALOOPUR
-</item>
-        <item>PRIMARY SCHOOL BALIYAPUR
-</item>
-        <item>JUNIOR HIGH SCHOOL BANKATI BUJURG
-</item>
-        <item>PRIMARY SCHOOL BIRAMPUR
-</item>
-        <item>PRIMARY SCHOOL ADHIYAPUR
-</item>
-        <item>PRIMARY SCHOOL NAGLA CHHATE
-</item>
-        <item>PRIMARY SCHOOL BHESRAI
-</item>
-        <item>KRASAK INTER COLLEGE BICHPURIKERA
-</item>
-        <item>PRIMARY SCHOOL PATAJHARI
-</item>
-        <item>PRIMARY SCHOOL HAJRATPUR
-</item>
-        <item>JUNIOR HIGH SCHOOL JAITIYA
-</item>
-        <item>PRIMARY SCHOOL SONAI
-</item>
-        <item>PRIMARY SCHOOL RAJMAU ROOM-1
-</item>
-        <item>PRIMARY SCHOOL RAJMAU ROOM-2
-</item>
-        <item>PRIMARY SCHOOL KANTIHAR
-</item>
-        <item>PRIMARY SCHOOL BARRA
-</item>
-        <item>PRIMARY SCHOOL BAIDPURA
-</item>
-        <item>PRIMARY SCHOOL JAHANABAD
-</item>
-        <item>PRIMARY SCHOOL CHAKOOPUR
-</item>
-        <item>PRIMARY SCHOOL MAHOLA
-</item>
-        <item>PRIMARY SCHOOL UMRAHI
-</item>
-        <item>PRIMARY SCHOOL KHARDOOLI
-</item>
-        <item>PRIMARY SCHOOL CHHITONI
-</item>
-        <item>PRIMARY SCHOOL RAMET
-</item>
-        <item>PRIMARY SCHOOL HIRAPUR
-</item>
-        <item>PRIMARY SCHOOL BAROLI BAIDPURA
-</item>
-        <item>PRIMARY SCHOOL SIPHARI
-</item>
-        <item>PRIMARY SCHOOL CHHIMARA EAST
-</item>
-        <item>PRIMARY SCHOOL CHHIMARA MIDDLE
-</item>
-        <item>PRIMARY SCHOOL BORAIN
-</item>
-        <item>PRIMARY SCHOOL BHADAI KASHIPUR
-</item>
-        <item>PRIMARY SCHOOL BHADAI KASHIPUR WEST
-</item>
-        <item>PRIMARY SCHOOL NAGLA SEWA
-</item>
-        <item>PRIMARY SCHOOL NAGLA BABA BHAGWATIPUR NEW BUILDING
-</item>
-        <item>PRIMARY SCHOOL BHALASAIYA
-</item>
-        <item>PRIMARY SCHOOL NARHOLI BHIDARUA
-</item>
-        <item>PRIMARY SCHOOL LACHWAI EAST
-</item>
-        <item>PRIMARY SCHOOL LACHWAI WEST
-</item>
-        <item>PRIMARY SCHOOL GEENJA (R.N. 1)
-</item>
-        <item>PRIMARY SCHOOL GEENJA (R.N. 2)
-</item>
-        <item>PRIMARY SCHOOL CHOBEYPUR EAST
-</item>
-        <item>PRIMARY SCHOOL JHIGOOPUR
-</item>
-        <item>PRIMARY SCHOOL BHALI
-</item>
-        <item>PRIMARY SCHOOL MUCHHARA
-</item>
-        <item>PRIMARY SCHOOL SAIFAI EAST
-</item>
-        <item>PRIMARY SCHOOL SAIFAI MIDDLE
-</item>
-        <item>JUNIOR HIGH SCHOOL SAIFAI (R.N.1)
-</item>
-        <item>JUNIOR HIGH SCHOOL FAIFAI (R.N. 2)
-</item>
-        <item>JUNIOR HIGH SCHOOL ATIRAJPUR
-</item>
-        <item>PANCHAYAT OFFICE SAIFAI OLD MEETING HALL
-</item>
-        <item>PRIMARY SCHOOL NAGLA SABI
-</item>
-        <item>PRIMARY SCHOOL UJHIYANI
-</item>
-        <item>PRIMARY SCHOOL BAGHUIYA
-</item>
-        <item>PRIMARY SCHOOL PINDARI NEW BUILDING
-</item>
-        <item>PRIMARY SCHOOL PINDARI NEW BUILDING
-</item>
-        <item>PRIMARY SCHOOL KUIYA EAST
-</item>
-        <item>PRIMARY SCHOOL KUIYA
-</item>
-        <item>PRIMARY SCHOOL ODAMPUR
-</item>
-        <item>PRIMARY SCHOOL BAROLI KALA
-</item>
-        <item>PRIMARY SCHOOL NAGLA BAGERHAR EAST
-</item>
-        <item>PRIMARY SCHOOL SAHSARPUR
-</item>
-        <item>DR. RAM MANOHAR LOHIA JHS USRAI
-</item>
-        <item>SARVODAYA INTER COLLEGE LONGPUR
-</item>
-        <item>PRIMARY SCHOOL TULSIPUR NEW BUILDING
-</item>
-        <item>PRIMARY SCHOOL NAGLA DARIYAY
-</item>
-        <item>PRIMARY SCHOOL BHAGIPUR
-</item>
-        <item>PRIMARY SCHOOL NANDPUR
-</item>
-        <item>PRIMARY SCHOOL KUMHAWAR
-</item>
-        <item>PRIMARY SCHOOL UDDHAMPUR
-</item>
-        <item>PRIMARY SCHOOL HARDOI (R.N. 1)
-</item>
-        <item>PRIMARY SCHOOL HARDOI (R.N. 2)
-</item>
-        <item>JUNIOR HIGH SCHOOL HARDOI
-</item>
-        <item>PRIMARY SCHOOL MOHATI
-</item>
-        <item>PRIMARY SCHOOL LADAMPUR
-</item>
-        <item>PRIMARY SCHOOL KATHUA
-</item>
-        <item>PRIMARY SCHOOL NAGLA MATHIYA
-</item>
-        <item>PRIMARY SCHOOL SHIVPURI TIMARUA EAST
-</item>
-        <item>PRIMARY SCHOOL SHIVPURI TIMARUA WEST
-</item>
-        <item>PRIMARY SCHOOL MADHAIYAPUR
-</item>
-        <item>PRIMARY SCHOOL SARWARPUR
-</item>
-        <item>PRIMARY SCHOOL PARASNA EAST
-</item>
-        <item>PRIMARY SCHOOL PARASNA WEST
-</item>
-        <item>PRIMARY SCHOOL NAGLA KOOKPUR
-</item>
-        <item>PRIMARY SCHOOL NAGLA BANE
-</item>
-        <item>PRIMARY SCHOOL MANIGAWNA (R.N. 1)
-</item>
-        <item>PRIMARY SCHOOL MANIGAWNA (R.N. 2)
-</item>
-        <item>PRIMARY SCHOOL THULRAI
-</item>
-        <item>PRIMARY SCHOOL SARSAI HELU
-</item>
-        <item>PRIMARY SCHOOL NAGLA KUATIA
-</item>
-        <item>PRIMARY SCHOOL SHADIPUR
-</item>
-        <item>PRIMARY SCHOOL JAGANNATHPUR
-</item>
-        <item>JUNIOR HIGH SCHOOL KARRI
-</item>
-        <item>JUNIOR HIGH SCHOOL KARRI
-</item>
-        <item>PRIMARY SCHOOL NAGLA BAHELIYA (KARRI)
-</item>
-        <item>PRIMARY SCHOOL KALEPURA
-</item>
-        <item>PRIMARY SCHOOL GANESHPUR
-</item>
-        <item>PRIMARY SCHOOL BHOOTHA
-</item>
-        <item>PRIMARY SCHOOL BEENA WEST
-</item>
-        <item>PRIMARY SCHOOL BEENA WEST
-</item>
-        <item>PRIMARY SCHOOL PAROLI RAMAIN
-</item>
-        <item>PRIMARY SCHOOL KATAIYAPUR (KRAPALPUR)
-</item>
-        <item>PRIMARY SCHOOL HIDDAPURA
-</item>
-        <item>PRIMARY SCHOOL UNWA SANTOSHPUR
-</item>
-        <item>JUNIOR HIGH SCHOOL SANTOSHPUR UNWA
-</item>
-        <item>PRIMARY SCHOOL ISWARPUR
-</item>
-        <item>PRIMARY SCHOOL BARALOKPUR EAST
-</item>
-        <item>PRIMARY SCHOOL BARALOKPUR WEST ROOM-1
-</item>
-        <item>PRIMARY SCHOOL BARALOKPUR WEST ROOM-2
-</item>
-        <item>PRIMARY SCHOOL LOKPURA
-</item>
-        <item>PRIMARY SCHOOL SEEPURI
-</item>
-        <item>PRIMARY SCHOOL AGUPUR GOPALPUR
-</item>
-        <item>PRIMARY SCHOOL AGUPUR GOPALPUR
-</item>
-        <item>PRIMARY SCHOOL AARAJI GUBARIYA
-</item>
-        <item>PRAHLAD ISMARAK INTER COLLEGE KRISHNA NAGAR CHOPULA
-</item>
-        <item>PRAHLAD ISMARAK INTER COLLEGE KRISHNA NAGAR CHOPULA
-</item>
-        <item>PRIMARY SCHOOL MUGALPURA
-</item>
-        <item>PRIMARY SCHOOL NAGLA SABI
-</item>
-        <item>PRIMARY SCHOOL MOONJ EAST-1
-</item>
-        <item>PRIMARY SCHOOL MOONJ EAST-2
-</item>
-        <item>PRIMARY SCHOOL MOONJ WEST
-</item>
-        <item>PRIMARY SCHOOL RAMPURA
-</item>
-        <item>PRIMARY SCHOOL FARDPURA
-</item>
-        <item>PRIMARY SCHOOL MASNAI
-</item>
-        <item>PRIMARY SCHOOL JAINPUR CHAUBIYA
-</item>
-        <item>PRIMARY SCHOOL CHAUBIYA
-</item>
-        <item>PRIMARY SCHOOL BAKHTYARPUR
-</item>
-        <item>PRIMARY SCHOOL BHADIYAPUR RAHIN
-</item>
-        <item>PRIMARY SCHOOL TISUADEV
-</item>
-        <item>PRIMARY SCHOOL MOHANPUR RAHIN
-</item>
-        <item>PRIMARY SCHOOL NEEWASAI
-</item>
-        <item>JUNIOR HIGH SCHOOL KAKARPUR
-</item>
-        <item>PRIMARY SCHOOL GORA DAYALPUR
-</item>
-        <item>PRIMARY SCHOOL GORA DAYALPUR
-</item>
-        <item>PRIMARY SCHOOL RAHIN
-</item>
-        <item>PRIMARY SCHOOL ROOP PUR SARAI BHIKHAN
-</item>
-        <item>PRIMARY SCHOOL GULABPUR
-</item>
-        <item>PRIMARY SCHOOL KALYANPUR RAHIN
-</item>
-        <item>PRIMARY SCHOOL BIHARIPUR
-</item>
-        <item>PRIMARY SCHOOL ADUPURA
-</item>
-        <item>PRIMARY SCHOOL KESHONPUR RAHIN
-</item>
-        <item>KANNYA PRIMARY SCHOOL GANGAPUR
-</item>
-        <item>PRIMARY SCHOOL BITHOLI
-</item>
-        <item>PRIMARY SCHOOL PARTAPURA
-</item>
-        <item>PRIMARY SCHOOL KHERA HELU
-</item>
-        <item>PRIMARY SCHOOL KHERA HELU
-</item>
-        <item>PRIMARY SCHOOL DUDHA
-</item>
-        <item>PRIMARY SCHOOL ADARPUR
-</item>
-        <item>PRIMARY SCHOOL JABARPUR NORTH
-</item>
-        <item>PRIMARY SCHOOL NAGLA TAAL
-</item>
-        <item>PRIMARY SCHOOL LAKHANPUR PACHAR
-</item>
-        <item>PRIMARY SCHOOL DIBRASAI
-</item>
-        <item>PRIMARY SCHOOL APOORPUR
-</item>
-        <item>KISAN HIGHER SECONDRY SCHOOL SHEKHUPUR CHANDETHI
-</item>
-        <item>JUNIOR HIGH SCHOOL BER EAST
-</item>
-        <item>JUNIOR HIGH SCHOOL BER WEST
-</item>
-        <item>PRIMARY SCHOOL NAGLA BHOOJ
-</item>
-        <item>JUNIOR HIGH SCHOOL ROURA EAST
-</item>
-        <item>JUNIOR HIGH SCHOOL ROURA WEST
-</item>
-        <item>SAMUDAIK MILAN KENDRA KHIRIYA
-</item>
-        <item>PRIMARY SCHOOL BAKOLI
-</item>
-        <item>PRIMARY SCHOOL SHEKHUPUR PACHAR
-</item>
-        <item>JUNIOR HIGH SCHOOL NAGLA JIND
-</item>
-        <item>PRIMARY SCHOOL SANTOSHPUR PACHAR
-</item>
-        <item>PRIMARY SCHOOL PUNJA
-</item>
-        <item>PRIMARY SCHOOL KESHONPUR
-</item>
-        <item>JAN HITKARI M.V. NAGLA BHAWAR
-</item>
-        <item>PRIMARY SCHOOL TAKPURA
-</item>
-        <item>PRIMARY SCHOOL BANI HARDU
-</item>
-        <item>PRIMARY SCHOOL CHAMROUA
-</item>
-        <item>JILA PARISAD HIGHER SECONDRY SCHOOL SARSAINAWAR EAST
-</item>
-        <item>JILA PARISAD HIGHER SECONDRY SCHOOL SARSAINAWAR
-</item>
-        <item>JILA PANCHAYAT HIGHER SECONDRY SCHOOL SARSAINAWAR
-</item>
-        <item>PRIMARY SCHOOL GIRDHARPURA
-</item>
-        <item>PRIMARY SCHOOL NAGLA BALSINGH
-</item>
-        <item>PRIMARY SCHOOL DOLATPUR
-</item>
-        <item>PRIMARY SCHOOL BHADARPURA
-</item>
-        <item>PRIMARY SCHOOL NAGLA JALAL
-</item>
-        <item>PRIMARY SCHOOL SUNDRA
-</item>
-        <item>PRIMARY SCHOOL TIRKHI TILOKPUR
-</item>
-        <item>PRIMARY SCHOOL NAGLA DUDHA
-</item>
-        <item>JUNIOR HIGH SCHOOL KADAMPUR WEST
-</item>
-        <item>PRIMARY SCHOOL KADAMPUR
-</item>
-        <item>PRIMARY SCHOOL KISHANPURA
-</item>
-        <item>PRIMARY SCHOOL UDAYPUR KALA
-</item>
-        <item>PRIMARY SCHOOL MURCHA
-</item>
-        <item>SAHKARI SANGH USRAHAR
-</item>
-        <item>PRIMARY SCHOOL RAMPUR EAST
-</item>
-        <item>PRIMARY SCHOOL RAMPUR WEST
-</item>
-        <item>PRIMARY SCHOOL BADKANSHAHPUR
-</item>
-        <item>HIGHER PRIMARY VIDYALAYA BHARATPUR KHURD
-</item>
-        <item>JUNIOR HIGH SCHOOL TIPATIYA
-</item>
-        <item>PT.BABU RAM MISHR ADARSH INTER COLLEGE BAMHNIPUR
-</item>
-        <item>PRIMARY SCHOOL NAGLA LACHI
-</item>
-        <item>PRIMARY SCHOOL MOHRI NORTH
-</item>
-        <item>PRIMARY SCHOOL MOHRI SOUTH
-</item>
-        <item>PRIMARY SCHOOL CHAMARPUR RUDRAPUR
-</item>
-        <item>PRIMARY SCHOOL NAGARIYA
-</item>
-        <item>PRIMARY SCHOOL KUITA EAST
-</item>
-        <item>PRIMARY SCHOOL KUITA WEST
-</item>
-        <item>PRIMARY SCHOOL NAGLA BHAGE
-</item>
-        <item>PRIMARY SCHOOL KAUA EAST
-</item>
-        <item>PRIMARY SCHOOL RAMPURA
-</item>
-        <item>JUNIOR HIGH SCHOOL DEEG
-</item>
-        <item>PRIMARY SCHOOL JAFAR PURA
-</item>
-        <item>PRIMARY SCHOOL DEENG
-</item>
-        <item>PRIMARY SCHOOL NAGLA MASOOD
-</item>
-        <item>KANYA JUNIOR HIGH SCHOOL SAMTHAR EAST
-</item>
-        <item>KANYA JUNIOR HIGH SCHOOL SAMTHAR WEST
-</item>
-        <item>PRIMARY SCHOOL SAMTHAR
-</item>
-        <item>PRIMARY SCHOOL NAGLA PACHHAYA
-</item>
-        <item>PRIMARY SCHOOL AMTHARI
-</item>
-        <item>PRIMARY SCHOOL AMTHARI
-</item>
-        <item>PRIMARY SCHOOL RUDOLI
-</item>
-        <item>PRIMARY SCHOOL KURKHA
-</item>
-        <item>PRIMARY SCHOOL AGHINI
-</item>
-        <item>PRIMARY SCHOOL AGHINI
-</item>
-        <item>HIGHER SECONDRY SCHOOL KHARAGPUR SARIYA
-</item>
-        <item>PRIMARY SCHOOL HINDUPUR BAIDPUR
-</item>
-        <item>PRIMARY SCHOOL SONTHANA
-</item>
-        <item>PRIMARY SCHOOL RAMPURA PACHAR
-</item>
-        <item>JUNIOR HIGH SCHOOL RAMPURA PACHAR
-</item>
-        <item>PRIMARY SCHOOL BHAGWANTPURA VILL. HARKUNJALPUR
-</item>
-        <item>PRIMARY SCHOOL PURELA (R.N. 1)
-</item>
-        <item>PRIMARY SCHOOL PURELA (R.N. 2)
-</item>
-        <item>JUNIOR HIGH SCHOOL VISHUNPURA NAGLA GUJRATI
-</item>
-        <item>KANNYA JUNIOR HIGH SCHOOL KUDRAIL EAST
-</item>
-        <item>KANNYA JUNIOR HIGH SCHOOL KUDRAIL WEST
-</item>
-        <item>PRIMARY SCHOOL KUDRAIL
-</item>
-        <item>PRIMARY SCHOOL KUDRAIL
-</item>
-        <item>PRIMARY SCHOOL POORANPURA
-</item>
-        <item>PRIMARY SCHOOL BADARIYAPOOTH
-</item>
-        <item>PRIMARY SCHOOL NAGLA CHATUR
-</item>
-        <item>PRIMARY SCHOOL NARAYANPUR
-</item>
-        <item>PRIMARY SCHOOL KESHONPUR
-</item>
-        <item>PRIMARY SCHOOL KATHOTIYA
-</item>
-        <item>PRIMARY SCHOOL PATIYAYAT EAST
-</item>
-        <item>PRIMARY SCHOOL PATIYAYAT WEST
-</item>
-        <item>JUNIOR HIGH SCHOOL TAKHA EAST
-</item>
-        <item>JUNIOR HIGH SCHOOL TAKHA WEST
-</item>
-        <item>PRIMARY SCHOOL KAYAMPUR ROOM-1
-</item>
-        <item>PRIMARY SCHOOL KAYAMPUR ROOM-2
-</item>
-        <item>PRIMARY SCHOOL NAGLA DULI
-</item>
-        <item>PRIMARY SCHOOL NAGLA DHAKAU ROOM-1
-</item>
-        <item>PRIMARY SCHOOL NAGLA DHAKAU ROOM-2
-</item>
-        <item>HIGHER SECONDRY SCHOOL MAMAN HIMATPUR EAST
-</item>
-        <item>HIGHER SECONDRY SCHOOL MAMAN HIMATPUR WEST
-</item>
-        <item>PRIMARY SCHOOL GANGDASPUR
-</item>
-        <item>PRIMARY SCHOOL NAGLA MAKEY
-</item>
-        <item>PRIMARY SCHOOL SARAWA NORTH
-</item>
-        <item>PRIMARY SCHOOL SARAWA MIDDLE
-</item>
-        <item>PRIMARY SCHOOL BELAHAR
-</item>
-        <item>BALWANT SHAHEED I . C. NAGRIYA YADVAN (BELAHAR)
-</item>
-        <item>PRIMARY SCHOOL NAGLA DHOKAL SORON
-</item>
-        <item>PRIMARY SCHOOL RATAHRI SARAWA
-</item>
-        <item>PRIMARY SCHOOL NAGARIYA SARAWA
-</item>
-        <item>PRIMARY SCHOOL KAKRAHI EAST
-</item>
-        <item>PRIMARY SCHOOL KAKRAHI WEST
-</item>
+        <item> PRIMARY SCHOOL MAHAMAI ,Mr. Umesh Chandr ,Mahamai ,9919931451 </item>
+        <item> PRIMARY SCHOOL NAGARI ,Mr. Sarvesh Kumar ,Nagri ,9568323276 </item>
+        <item> PRIMARY SCHOOL JONAI ,Mr. Veerpal alias Khanna Yadav ,Jaonai ,9927439440 </item>
+        <item> PRIMARY SCHOOL DHOLPUR ,Mr. Vinod Prajapati ,Dhaulpur ,9719199274 </item>
+        <item> PRIMARY SCHOOL NAGLA KHERA ,Mr. Sudhir Pratap Singh ,Khera Dhaulpur ,9410056139 </item>
+        <item> PRIMARY SCHOOL DHARWAR ROOM-1 ,Mr. Rajeev Savita ,Dharwaar ,8958566159 </item>
+        <item> PRIMARY SCHOOL DHARWAR ROOM-2 ,Mr. Ashu Yadav / Mr. Sunil Kushwaha ,Dharwaar ,9761357748 </item>
+        <item> JUNIOR HIGH SCHOOL DHARWAR NORTH ,Mr. Milap Singh ,Dharwaar ,9259232863 </item>
+        <item> JUNIOR HIGH SCHOOL DHARWAR SOUTH ,Mr. Mohd Haneef ,Dharwaar ,8449357120 </item>
+        <item> PRIMARY SCHOOL KURAKHAR ,Mr. Banche Lal ,Bhardwajpur ,9458774515 </item>
+        <item> PRIMARY SCHOOL FULRAI ,Mr. Pramod Kumar Yadav ,Phulrai Dhanwa ,8273585833 </item>
+        <item> PRIMARY SCHOOL MEERAKHPUR PUTIYA ,Mr. Charan Singh Yadav ,Puthiya Beewamau ,9411251949 </item>
+        <item> PRIMARY SCHOOL NAGLA JULA ,Mr. Tofaan Singh Yadav ,Nagla Jula ,9627191618 </item>
+        <item> PRIMARY SCHOOL AALAI ,Mr. Sugreet Kumar Yadav ,Nagla Pasi ,9690306133 </item>
+        <item> PRIMARY SCHOOL MADANPURA ,Mr. Rambaran Singh ,Madanpura ,9719200332 </item>
+        <item> PRIMARY SCHOOL GHANSHYAMPURA ,Mr. Ram Gopal ,Ghanshyampura ,9720613909 </item>
+        <item> PRIMARY SCHOOL NAGLA DAYALPURA ,Mr. Sharda Prasad ,Nagla Vichu ,9997543816 </item>
+        <item> DR. RAM MANOHAR LOHIA INTER COLLEGE DHANUA ,Mr. Munna Lal ,Dhnuwa ,9758150443 </item>
+        <item> PRIMARY SCHOOL NAGLA JAGAN ,Mr. Pheri Singh Yadav ,Nagla Jagan ,9758379535 </item>
+        <item> PRIMARY SCHOOL NAGLA LAYAK ,Mr. Ravindra Pal Singh ,Nagla Layak ,9258928891 </item>
+        <item> PRIMARY SCHOOL NAGLA FHATEHPURA ,Mr. Amrit singh Yadav ,Fatehpura ,9759545245 </item>
+        <item> PRIMARY SCHOOL BIYARI BHATPURA WEST ,Mr. Anand Prakash ,Biyari Bhatpura ,9997666641 </item>
+        <item> PRIMARY SCHOOL BIYARI BHATPURA EAST ,Mr. Navneet ,Bhatpura ,9719742653 </item>
+        <item> PRIMARY SCHOOL BHUJPURA BIBAMAU ,Mr. Shailendra ,Bhojpur ,9412675846 </item>
+        <item> PRIMARY SCHOOL KAKRAI ,Mr. Sumit Ram ,Govepura ,9719248190 </item>
+        <item> PRIMARY SCHOOL DARSHANPUR ,Mr. Arjun Singh ,Darshanpura ,9761225992 </item>
+        <item> PRIMARY SCHOOL KHERA BUJURG NORTH ,Mr. Tularam Rajpoot ,Khera Bujurg ,9761334683 </item>
+        <item> PRIMARY SCHOOL KHERA BUJURG SOUTH ,Mr. Subhash Chandra Katheriya ,Khera Bujurg , </item>
+        <item> PRIMARY SCHOOL TULARAMPUR ,Mr. Jahan Singh / Mr. Udauveer Singh ,Nagla Naval ,9997979624,9411870936 </item>
+        <item> PRIMARY SCHOOL BHAGWANPURA ,Mr. Vishambhar Singh Nayak ,Bhagwanpura ,9997421102 </item>
+        <item> PRIMARY SCHOOL NAGLA KEHRI ,Mr. Suresh Chandra Yadav ,Nagla Kehri ,9410851752 </item>
+        <item> PRIMARY SCHOOL KURSENA ROOM-1 ,Mr. Rajvresh ,Kursaina ,9412548011 </item>
+        <item> PRIMARY SCHOOL KURSENA ROOM-2 ,Mr. Kamlapati ,Kursaina ,9897005069 </item>
+        <item> PRIMARY SCHOOL HANUMANT KHERA ,Mr. Naresh Chandra ,Hanumant Khera ,9927568647,9046630930 </item>
+        <item> PRIMARY SCHOOL GARI JALIM ,Mr. Shiv Kumar ,Gari Jalim ,9897918088 </item>
+        <item> PRIMARY SCHOOL RUKANPURA ,Mr. Jai Kumar ,Rukanpura ,9917149060 </item>
+        <item> PANCHAYATGHAR KANCHANIA ,Mr. Ravindra Singh ,Nagla Kanchania ,9917150957 </item>
+        <item> PRIMARY SCHOOL NAGLA SUGANDH NAGER ,Mr. Mukesh ,Sugandh Nagar ,05688-689448 </item>
+        <item> PRIMARY SCHOOL AJNORA ,Mr. Dharmveer Singh ,Ajnora ,9758206531 </item>
+        <item> SAMUDAIK KENDRA PATHAKPURA ,Mr. Hargovind Singh ,Pathakpura ,9456825666 </item>
+        <item> PRIMARY SCHOOL CHANDANPUR BIBAMAU ,Mr. Hanumant singh ,Nagla Girdhari ,8273020543 </item>
+        <item> PRIMARY SCHOOL SHAHJAHANPUR ,Mr. Mukaddam Singh Yadav ,Shahjahanpur ,9412863071 </item>
+        <item> PRIMARY SCHOOL LARKHOR ,Mr. Krishn Kumar ,Larkhaur ,9410221634 </item>
+        <item> PRIMARY SCHOOL MOHANPURA (LARKHAUR) ,Mr. Vishram Singh ,Mohanpur ,9411402248 </item>
+        <item> PRIMARY SCHOOL KHUSHALPURA (LARKHAUR) ,Mr. Rajeev Kumar ,Khushalpur ,9456286017 </item>
+        <item> PRIMARY SCHOOL BHAUPURA ,Mr. Arvind Kumar ,Nagla Ajaab ,9761406975 </item>
+        <item> PRIMARY SCHOOL NAGLA SUBHAN ,Mr. Ram Avtaar ,Pathaa ,9412187219 </item>
+        <item> ZILA PANCHAYAT INTER COLLEGE HEONRA ,Mr. Krishn Mohan Lal Tiwari ,Henvara ,9412467136 </item>
+        <item> PRIMARY SCHOOL HENORA NEW BUILDING ,Mr. Raj Bahadur ,Henvara ,9417422248 </item>
+        <item> PRIMARY SCHOOL NAGLA ANIYA ,Mr. Nrapendra Yadav ,Nagla Aniya ,9412537387 </item>
+        <item> PRIMARY SCHOOL BANAMAI ,Mr. Umashankar ,Nagla Banamai ,9536459925 </item>
+        <item> PRIMARY SCHOOL BHAISAN ,Mr. Mohraman ,Utrai ,8005661007 </item>
+        <item> PRIMARY SCHOOL PARSAOUA ,Mr. Kamlesh Kumar ,Parsaoua ,8650412480 </item>
+        <item> PRIMARY SCHOOL ALAMPUR NARIA ,Mr. Ravi Kumar ,Nagla Nariya ,9458774459 </item>
+        <item> PRIMARY SCHOOL BHAWALPUR ,Mr. Dashrath Singh ,Bhawalpur ,9412520077 </item>
+        <item> PRIMARY SCHOOL NILOI EAST ,Mr. Deepak ,Niloi ,9630782150 </item>
+        <item> PRIMARY SCHOOL NILOI WEST ,Mr. Pradeep Kumar ,Niloi ,9761101169 </item>
+        <item> PRIMARY SCHOOL NAGLA RATHORE ,Mr. Suresh Chandra ,Nagla Nihaal ,9761664702 </item>
+        <item> PRIMARY SCHOOL PRATAPPURA ,Mr. Asharam ,Pratappura ,9837534114 </item>
+        <item> PRIMARY SCHOOL MAHLAI ROOM-1 ,Mr. Amarnath singh Shakya (Kamlesh) ,Nagla Gadriyaan ,9917492311 </item>
+        <item> PRIMARY SCHOOL MAHLAI ROOM-2 , - ,- </item>
+        <item> JODHASINGH INTER COLLEGE HARKOOPUR ,Mr. Ravindra Singh ,Harkoopur ,9058434533 </item>
+        <item> SHRI MULAYAM SINGH YADAV INTER COLLEGE RAINAGER ,Mr. Shailendra Pratap Singh ,Rainagar ,9719499343 </item>
+        <item> PRIMARY SCHOOL NAGLA HARE ,Mr. Krishna Gopal ,Nagla Hare ,9720704939 </item>
+        <item> PRIMARY SCHOOL KELOKHAR ,Mr. Pradeep Kumar ,Nagla Sevaram ,9412408744 </item>
+        <item> PRIMARY SCHOOL NAGLA SEWARAM ,Mr. Satyendra Singh ,Sevaram ,9627204467 </item>
+        <item> PRIMARY SCHOOL KUNJPUR ,Mr. Dinesh Kumar ,Kunjpur ,9412068290 </item>
+        <item> PRIMARY SCHOOL JARIKHERA ,Mr. Uday Singh ,Jari Khera ,7417579947 </item>
+        <item> PRIMARY SCHOOL MUHABATPUR NAGLA BHAGAT ,Mr. Pop Singh ,Muhabbatpur Nagla Bhagat ,9520004599 </item>
+        <item> KANYA PRIMARY SCHOOL KEST ,Mr. Shrikrishna Murari ,Kest ,9410436610 </item>
+        <item> PRIMARY SCHOOL KEST ,Mr. Mahendra Pratap Singh ,Kest ,9412572912 </item>
+        <item> PRIMARY SCHOOL NAGLA INCHA ,Mr. Maan Singh ,Nagla Incha ,8791582832 </item>
+        <item> PRIMARY SCHOOL DURGAPURA (LUDHPURA) ,Mr. Ramdulare ,Durgapura ,9997280990 </item>
+        <item> KANYA UCCHATAR PRIMARY SCHOOL JASWANT NAGER (R.N.-1) ,Mr. Moinuddin / Mr. Iqbal Khan / Saray Khan,Homganj Pansari Bazar ,9927415725 </item>
+        <item> KANYA UCCHATAR PRIMARY SCHOOL JASWANT NAGER (R.N.-2) ,Mr. Dharmendra Kumar/ Sunil/ Ram Kumar ,Aheer Tola ,9410487108 </item>
+        <item> GOVERNMENT GIRLS INTER COLLEGE JASWANT NAGER (R.N.1) ,Mr. Devendra Kumar ,Yadav Nagar ,8923535600 </item>
+        <item> GOVERNMENT GIRLS INTER COLLEGE JASWANT NAGER (R.N.2) ,Mr. Roop Chandra Shankhwar ,Gulab Vadi Jaswant Nagar ,05688-689951 </item>
+        <item> GOVERNMENT GIRLS INTER COLLEGE JASWANT NAGER (R.N.3) ,Mrs. Satyavati ,Gulab Vadi Aanshik ,9720290904 </item>
+        <item> GOVERNMENT GIRLS INTER COLLEGE JASWANT NAGER (R.N.4) ,Mrs. Mayadevi ,Gulab Vadi Aanshik ,9927457619 </item>
+        <item> JUNIOR HIGH SCHOOL JASWANT NAGER (R.N.1) ,Mr. Suresh Chandra Verma/ Mr. Rajkamal ,Loha Mandi ,9045720620,9897111473 </item>
+        <item> JUNIOR HIGH SCHOOL JASWANT NAGER (R.N.2) ,Mr. Shivpratap Bhadauriya/ Gaurav Bhadauriya ,Rail Mandi ,9411238544 </item>
+        <item> JUNIOR HIGH SCHOOL JASWANT NAGER (R.N.3) ,Mr. Yaduveer Singh ,Rail Mandi ,8273538585 </item>
+        <item> PRIMARY SCHOOL JASWANT NAGER (R.N. 1) ,Mr. Shyam Prasad ,Malhai Tola ,9412408791 </item>
+        <item> PRIMARYSCHOOL JASWANT NAGER (R.N. 2) ,Mr. Naushad Khan ,Fakkadpur ,9412332745 </item>
+        <item> PARIGANIT PRIMARY SCHOOL JASWANT NAGER (R.N. 1) ,Mr. Padmchand Jain ,Saraugi Bazaar ,999728270 </item>
+        <item> PARIGANIT PRIMARYSCHOOL JASWANT NAGER (R.N. 2) ,Mr. Sahabuddin/ Mr. Kamaal Khan ,Katra Bilochan ,9411057390,9219707283 </item>
+        <item> HINDU VIDYALAYA INTER COLLEGE. JASWANT NAGER (R.N. 1) ,Mr. Mohammad Zaheer ,Katra Khoobchandr Jaswantnagar ,9412437878 </item>
+        <item> HINDU VIDYALAYA INTER COLLEGE. JASWANT NAGER (R.N. 2) ,Mr. Rajkumar ,Ludhpura ,9412467028 </item>
+        <item> HINDU VIDYALAYA INTER COLLEGE. JASWANT NAGER (R.N. 3) ,Mr.Ashok Yadav ,Nadi ka Pul ,9412408749 </item>
+        <item> HINDU VIDYALAYA INTER COLLEGE. JASWANT NAGER (R.N. 4) ,Mr. Shyam Bihari / Mu. Kothi Kest,Jaswantnagar ,- </item>
+        <item> PRIMARY SCHOOL SISHAT EAST ,Mr. Dharmendra Kumar ,Sishaat East ,9927556875 </item>
+        <item> PRIMARY SCHOOL SISHAT WEST ,Mr. Jitendra Singh ,Sishaat West ,9927556875 </item>
+        <item> PRIMARY SCHOOL PIPREDI ,Mr. Anil ,Piprendi ,9650263438 </item>
+        <item> PANCHAYATGHAR JWALAPUR VILL. PIPREDI ,Mr. Pradeep Kumar ,Jwalapur ,9897880722 </item>
+        <item> PRIMARY SCHOOL RAJPUR TAMERI ,Mr. Ramnaresh Chaudhary ,Vill. Rajpur Post-Nagla Ramsunder ,9410267850 </item>
+        <item> PRIMARY SCHOOL TAMERI ,Mr. Rajkumar ,Vill. Tameri Post-Nagla Ramsunder ,9927730310 </item>
+        <item> PRIMARY SCHOOL JUGOURA ,Mr. Navneet Yadav ,Jugaura Kokawli ,9319039429 </item>
+        <item> PRIMARY SCHOOL BAHORIPUR ,Mr. Ali Mohammad ,Baheripur Ramsunder ,9759292247 </item>
+        <item> ASHOK INTER COLLEGE KUKAWALI (R.N.1) ,Mr. Hakim Singh ,Andawli Kokawli ,9410485914 </item>
+        <item> ASHOK INTER COLLEGEKUKAWALI (R.N.2) ,Mr. Harnaam Singh ,Kokawli ,9759392955 </item>
+        <item> PRIMARY SCHOOL BAHADURPUR NASIRPUR ,Mr. Shyam Lal Yadav ,Bahadurpur Nagla Ramsunder ,9319759899 </item>
+        <item> PRIMARY SCHOOL NIJAMPUR ,Mr. Rajveer Singh ,Nizampur Nagla Ramsunder ,9412572112 </item>
+        <item> PRIMARY SCHOOL NAGLA RAMSUNDER EAST ,Mr. Devendra Singh ,Nagla Ramsunder ,9759290783 </item>
+        <item> PRIMARY SCHOOL NAGLA RAMSUNDER WEST ,Mr. Yashpal Singh ,Nagla Ramsunder ,9012146716 </item>
+        <item> PRIMARY SCHOOL NAGLA SALAHDI ,Mr. Shyam Kumar Parasar ,Nagla Salhadi ,9627453141 </item>
+        <item> PRIMARY SCHOOL BALRAI ,Mr. Kuldeep Singh / Mr. Deepu Jadaun ,Baolrai ,9917985856,8791179848 </item>
+        <item> PRIMARY SCHOOL DODUA GOPALPUR (GADI RAMDHAN) ,Mr. Shrikrishna / Mr. Amit ,Gopalpur ,8755551190,8859466881 </item>
+        <item> PRIMARY SCHOOL BIBAMAU EAST ,Mr. Prem Singh / Mr. Ramkumar Pal ,Bibamau ,9758426842,9058662570 </item>
+        <item> PRIMARY SCHOOL BIBAMAU WEST ,Mr. Pahalwan Singh alias Deewan / Mr. Bade Singh ,Bibamau Rautai ,8057368688,7599286186 </item>
+        <item> PRIMARY SCHOOL AJABPUR BIBAMAU ,Mr. Harendra ,Ajabpur ,9412571542 </item>
+        <item> PRIMARY SCHOOL NAGLA VISHUN TIJORA EAST ,Mr. Birbal Singh ,Nagla Bishun ,9058778536 </item>
+        <item> PRIMARY SCHOOL NAGLA VISHUN TIJORA WEST ,Mr. Ramshankar ,Nagla Bishun ,9411939870 </item>
+        <item> PRIMARY SCHOOL PREM NAGER ,Mr. Ashish Kumar Yadav ,Premnagar ,- </item>
+        <item> JUNIOR HIGH SCHOOL BAUTH ,Mr. Raghvendra ,Bauth ,9412614267 </item>
+        <item> PRIMARY SCHOOL MADIYA FAKIRE MAUJA BAUTH ,Mr. Daanveer ,Madaiya Fakire ,9568324116 </item>
+        <item> PRIMARY SCHOOL SARAMAI ,Mr. Dinesh Rajpoot ,Saraamai ,9412466350,7351802379 </item>
+        <item> PRIMARY SCHOOL NAGLA TAUR NORTH ,Mr. Rajkumar / Mr. Mukesh Pal ,Nagla Taur ,7409031297 </item>
+        <item> PRIMARY SCHOOL NAGLA TAUR SOUTH ,Mr. Narendra Kumar / Rajendra Pal ,Nagla Taur ,05688-211580,9012361287 </item>
+        <item> PRIMARY SCHOOL NAGLA DHURHA ,Mr. Dalasaram / Dinesh Rajpoot ,Dhurha ,05688-276826,7551802379 </item>
+        <item> PRIMARY SCHOOL KIRATPUR ,Mr. Inaam Singh ,Kiratpura,Kokawli ,9758297125 </item>
+        <item> PRIMARY SCHOOL PEEHARPUR ,Mr. Narendra Singh ,Peeharpur Kokawli ,9410485914 </item>
+        <item> PRIMARY SCHOOL SIRSA BIBMAU ,Mr. Rajesh Kumar ,Sirsa ,9412182157 </item>
+        <item> PRIMARY SCHOOL SALEMPUR ,Mr. Santosh Kumar ,Salempur ,9917492320 </item>
+        <item> PRIMARY SCHOOL CHAK ,Mr. Dalveer ,Chak ,- </item>
+        <item> K.PRIMARY SCHOOL BHIKHANPUR ,Mr. Chandrashekhar ,Bheekhanpur ,9411989797 </item>
+        <item> PRIMARY SCHOOL NAGARIA JASOHAN ,Mr. Mahesh / Mr. Diwari Lal ,Nagriya ,9457020756 </item>
+        <item> PRIMARY SCHOOL GARAMPUR ,Mr. Harprasad ,Garampur ,9412880015 </item>
+        <item> JUNIOR HIGH SCHOOL SIRHOL ,Mr. Suresh Kumar ,Sirhaul ,7520619199 </item>
+        <item> PRIMARY SCHOOL NAGLA CHHAND ,Mr. Gupal Singh ,Sirhaul ,9927491626 </item>
+        <item> PRIMARY SCHOOL MUHABATPUR JASOHAN ,Mr. Shivendra ,Muhabbatpur ,9411241090 </item>
+        <item> PRIMARY SCHOOL BAGIYA JASOHAN ,Mr. Nattu Singh ,Jasohan ,7830713228 </item>
+        <item> PRIMARY SCHOOL JANAKPUR (R.N. 1) ,Mr. Omkar Singh ,Janakpur ,9759183739 </item>
+        <item> PRIMARY SCHOOL JANAKPUR (R.N. 2) ,Mr. Puttu Singh ,Janakpur ,9411435575 </item>
+        <item> PRIMARY SCHOOL NAGLA UDAYSINGH ,Mr. Pradeep Singh ,Nagla Udaysingh ,9760028955 </item>
+        <item> PRIMARY SCHOOL NAGLA KESHONRAI ,Mr. Rakesh Sharma ,Nagla Keshorai ,9758792500 </item>
+        <item> PRIMARY SCHOOL JHALOKHAR ,Mr. Fateh Singh ,Jhalokhar ,9627000693 </item>
+        <item> PRIMARY SCHOOL SAKHOA ,Mr. Rameshwar Dayal ,Sakhoa ,9761170244 </item>
+        <item> PRIMARY SCHOOL JAGSORA EAST ,Mr. Tejprakash ,Jagsora ,9457678916 </item>
+        <item> PRIMARY SCHOOL JAGSORA WEST ,Mr. Chaubelal ,Dhanu ,9997698723 </item>
+        <item> PRIMARY SCHOOL NAGARIYA BHAT ,Mr. Virendra Singh ,Nagriya Bhaat ,9412408537 </item>
+        <item> PRIMARY SCHOOL NAGLA NAYA ,Mr. Atar Singh ,Nagla Naya , - </item>
+        <item> PRIMARY SCHOOL NAGLA DUDHA ,Mr. Laxmi Narayan ,Dudha ,9927482982 </item>
+        <item> PRIMARY SCHOOL MALAJANI NORTH ,Mr. Shyam Babu ,Malajni ,9639708349 </item>
+        <item> PRIMARY SCHOOL MALAJANI SOUTH ,Mr. Sarvesh ,Malajni ,9458640597 </item>
+        <item> JUNIOR HIGH SCHOOL BHATORA ,Mr. Uday Kumar,- 9917321570 </item>
+        <item> PRIMARY SCHOOL BHATORA ,Mr. Brijesh / Mr. Umashankar ,Bhatora ,8979812848 </item>
+        <item> PRIMARY SCHOOL BHOGATAL ,Mr. Asharam ,Bhogatal ,9759073465 </item>
+        <item> PRIMARY SCHOOL TAKPURA SARAI JALAL ,Mr. Mukesh Kumar / Brij Kishore ,Takpura ,9412408979 </item>
+        <item> PRIMARY SCHOOL JAINPUR NAGAR ,Mr. Santosh Kumar Shakya ,Jainpur ,9719122055 </item>
+        <item> PRIMARY SCHOOL ARAJI SARAIBHOPAT (NAGLA BABA) ,Mr. Rajesh Kumar ,Araji Saraibhopat,Nagla Baba ,9411435401 </item>
+        <item> PRIMARY SCHOOL SARAI BHOPAT ,Mr. Raveesh Yadav ,Sarai Bhopat ,9412616504 </item>
+        <item> PRIMARY SCHOOL NAGLA VERMAJIT ,Mr. Santosh ,Nagla Vermajeet ,9412408619 </item>
+        <item> PRIMARY SCHOOL MALOOPUR ,Mr. Rajesh ,Maloopur ,9410055610 </item>
+        <item> PRIMARY SCHOOL BALIYAPUR ,Mr. Dalveer Singh - Mr. Rajesh Yadav ,Balaiyapur ,9897717948,9412659607 </item>
+        <item> JUNIOR HIGH SCHOOL BANKATI BUJURG ,Mr. OmNarayan ,Bankati ,9412519515 </item>
+        <item> PRIMARY SCHOOL BIRAMPUR ,Mr. Amresh ,Beerampur ,9759256430 </item>
+        <item> PRIMARY SCHOOL ADHIYAPUR ,Mr. Sarvesh ,Adhiyapura ,9457881487 </item>
+        <item> PRIMARY SCHOOL NAGLA CHHATE ,Mr. Shivram Singh / Mr. Santosh Kumar /Nagla Chatte ,9758947668 </item>
+        <item> PRIMARY SCHOOL BHESRAI ,Mr. Jabar Singh / Mr. Anand Yadav ,Bhaisrai Nagla Jhamman ,9012703674,9411865007 </item>
+        <item> KRASAK INTER COLLEGE BICHPURIKERA ,Mr. Megh Singh ,Khera ,8057702440 </item>
+        <item> PRIMARY SCHOOL PATAJHARI ,Mr. Mukesh Kumar / Anokhe Lal ,Patajhari ,9719108621 </item>
+        <item> PRIMARY SCHOOL HAJRATPUR ,Mr. Netrpal Singh / Sudhar Singh ,Hajratpur ,8923604029,9412349528 </item>
+        <item> JUNIOR HIGH SCHOOL JAITIYA ,Mr. Surendra Singh / Mr. Ramshankar ,Jaitiya ,9412430039 </item>
+        <item> PRIMARY SCHOOL SONAI ,Mr. Shivshankar Singh ,Sonai ,9756073684 </item>
+        <item> PRIMARY SCHOOL RAJMAU ROOM-1 ,Mr. Sonelal ,Rajmau ,9410640247 </item>
+        <item> PRIMARY SCHOOL RAJMAU ROOM-2 ,Mr. Saukeen Khan ,Rajmau ,7500650253 </item>
+        <item> PRIMARY SCHOOL KANTIHAR ,Mr. Nem Singh Yadav Pradhan ,Kantihaar ,8923229954 </item>
+        <item> PRIMARY SCHOOL BARRA ,Mr. Avaneesh ,Barra ,9410402803 </item>
+        <item> PRIMARY SCHOOL BAIDPURA ,Mr. RamPrakash ,Baidpura ,9058045844 </item>
+        <item> PRIMARY SCHOOL JAHANABAD ,Mr. RadheShyam ,Nagla Budhu ,9058826660,9837855460 </item>
+        <item> PRIMARY SCHOOL CHAKOOPUR ,Mr. Ranjeet Singh Pradahan ,Chkoopur ,9412408847 </item>
+        <item> PRIMARY SCHOOL MAHOLA ,Mr. Pradeep Kumar ,Mahola ,9412880690 </item>
+        <item> PRIMARY SCHOOL UMRAHI ,Mr. Geetam Singh ,Umrahi ,8273401437 </item>
+        <item> PRIMARY SCHOOL KHARDOOLI ,Mr. Ratan Singh ,Khardooli ,9412430302 </item>
+        <item> PRIMARY SCHOOL CHHITONI ,Mr. Upendra Kumar ,Chhitoni ,9568696163 </item>
+        <item> PRIMARY SCHOOL RAMET ,Mr. Sunil Kumar ,Ramet ,9756828195 </item>
+        <item> PRIMARY SCHOOL HIRAPUR ,Mr. Udayveer Singh Yadav ,Hirapur ,9690432959 </item>
+        <item> PRIMARY SCHOOL BAROLI BAIDPURA ,Mr. Kriparam Pradhan ,Virauli ,9457286372 </item>
+        <item> PRIMARY SCHOOL SIPHARI ,Mr. Brahm Chand Yadav ,Sipahri ,9927402465 </item>
+        <item> PRIMARY SCHOOL CHHIMARA NORTH ,Mr. Dheeraj Singh ,Chimara ,9456843335 </item>
+        <item> PRIMARY SCHOOL CHHIMARA MIDDLE ,Mr. Ajay Kumar Yadav ,Nagla Pul ,9410850611 </item>
+        <item> PRIMARY SCHOOL BORAIN ,Mr. Shivnath ,Borain Kuiyan ,9012034650 </item>
+        <item> PRIMARY SCHOOL BHADAI KASHIPUR ,Mr. Khauf Singh ,Kashipur Kharkauli ,9690810487 </item>
+        <item> PRIMARY SCHOOL BHADAI KASHIPUR WEST ,Mr. Birendra Singh ,Bhadai Kumhawar ,9412503315,8859771115 </item>
+        <item> PRIMARY SCHOOL NAGLA SEWA ,Mr. Pankaj Yadav ,Nagla Seva Kuiyan ,9756035257 </item>
+        <item> PRIMARY SCHOOL NAGLA BABA BHAGWATIPUR NEW BUILDING ,Mr. Parmeshwari Dayal Pradhan ,Bhagwatipur Kuiyan ,9411867458 </item>
+        <item> PRIMARY SCHOOL BHALASAIYA ,Mr. Pramod Kumar ,Bhalasaiya Kuiyan ,9411210465 </item>
+        <item> PRIMARY SCHOOL NARHOLI BHIDARUA ,Mr. Prem Singh ,Nagla Chaturi ,9458868662 </item>
+        <item> PRIMARY SCHOOL LACHWAI EAST ,Mr. Ajaypal Singh ,Lachwai ,9456251183 </item>
+        <item> PRIMARY SCHOOL LACHWAI WEST ,Mr. Anil Kumar ,Nagla Chavinath ,9412430459 </item>
+        <item> PRIMARY SCHOOL GEENJA (R.N. 1) ,Mr. Mukesh Kumar ,Geenja ,9412419490,9897004449 </item>
+        <item> PRIMARY SCHOOL GEENJA (R.N. 2) ,Mr. Sarvesh Kumar ,Nagla Harnath ,9997088127 </item>
+        <item> PRIMARY SCHOOL CHOBEYPUR EAST ,Mr. Dharmveer ,Chaubepur ,9412623727,9458230470 </item>
+        <item> PRIMARY SCHOOL JHIGOOPUR ,Mr. Hari Babu Singh Daroga ji ,Jhigoopur ,9410043403 </item>
+        <item> PRIMARY SCHOOL BHALI ,Mr. Ramratan Singh Yadav ,Bhali ,9720085212 </item>
+        <item> PRIMARY SCHOOL MUCHHARA ,Mr. Anil Kumar ,Muchhara Kothi ,9897019976,9412503582 </item>
+        <item> PRIMARY SCHOOL SAIFAI EAST ,Mr. Vijay Pal ,Safai ,9412520233 </item>
+        <item> PRIMARY SCHOOL SAIFAI MIDDLE ,Mr. Dasrath Singh ,Safai ,9411479537 </item>
+        <item> JUNIOR HIGH SCHOOL SAIFAI (R.N.1) ,Mr. Gaurav ,Safai ,9412616335 </item>
+        <item> JUNIOR HIGH SCHOOL FAIFAI (R.N. 2) ,Mr. Gajendra Singh ,Safai ,9412414449 </item>
+        <item> JUNIOR HIGH SCHOOL ATIRAJPUR ,Mr. Omkar Singh ,Atirajpur ,9759462349 </item>
+        <item> PANCHAYAT OFFICE SAIFAI OLD MEETING HALL ,Mr. Ram Mohan ,Amrasipur ,9457879725 </item>
+        <item> PRIMARY SCHOOL NAGLA SABI ,Mr. Ramesh Fauji ,Nayakpur ,7599284864 </item>
+        <item> PRIMARY SCHOOL UJHIYANI ,Mr. Bharat Singh ,Nagla Jahaan ,9412556825 </item>
+        <item> PRIMARY SCHOOL BAGHUIYA ,Mr. Rakesh Kumar ,Baghuiya ,9012258622 </item>
+        <item> PRIMARY SCHOOL PINDARI NEW BUILDING ,Mr. Ranveer Singh ,Pindari ,9627940868 </item>
+        <item> PRIMARY SCHOOL PINDARI NEW BUILDING ,Mr. Sahdev Singh ,Nagla Kishori ,9690897753 </item>
+        <item> PRIMARY SCHOOL KUIYA EAST ,Mr. Ramnaresh Babu ji ,Nagla Lale,Kuiyan ,9458240368 </item>
+        <item> PRIMARY SCHOOL KUIYA ,Mr. Rajeev Kumar ,Nagla Tej ,9012141492 </item>
+        <item> PRIMARY SCHOOL ODAMPUR ,Dr. Ramesh Chandr ,Odampur Kuiyan ,9411241288 </item>
+        <item> PRIMARY SCHOOL BAROLI KALA ,Mr. Rakesh Kumar ,Harchandpur Barauli Khurd ,8410869020 </item>
+        <item> PRIMARY SCHOOL NAGLA BAGERHAR EAST ,Mr. Rajveer Singh ,Nagla Sheeshiya Barauli Khurd ,9837350874 </item>
+        <item> PRIMARY SCHOOL SAHSARPUR ,Mr. Jitendra Yadav ,Nagla Kehri (Sadak),Kumhawar ,9457721243 </item>
+        <item> DR. RAM MANOHAR LOHIA JHS USRAI ,Mr. Swadesh Kumar ,Kakrai Kumhawar ,9719810923 </item>
+        <item> SARVODAYA INTER COLLEGE LONGPUR ,Mr. Ganga Singh ,Longpur Kumhawar ,8958427002 </item>
+        <item> PRIMARY SCHOOL TULSIPUR NEW BUILDING ,Mr. Shivram Singh ,Tulsiram ,9675537800 </item>
+        <item> PRIMARY SCHOOL NAGLA DARIYAY ,Mr. Virendra Singh ,Loha Kumhawar ,9675692338 </item>
+        <item> PRIMARY SCHOOL BHAGIPUR ,Mr. Ramveer Katheriya ,Milik Kumhawar ,8057041950 </item>
+        <item> PRIMARY SCHOOL NANDPUR ,Mr. Bobby ,Nandpur Kumhawar Matiyaar ,9457439299 </item>
+        <item> PRIMARY SCHOOL KUMHAWAR ,Mr. RamMoorti ,Mashi ki Madaiyan Kumhawar ,9412466279 </item>
+        <item> PRIMARY SCHOOL UDHAMPUR ,Mr. Saudaan Singh ,Udhampur Kumhawar ,7417181078 </item>
+        <item> PRIMARY SCHOOL HARDOI (R.N. 1) ,Mr. Chandra Prakash alias Pappu Gupta ,Hardoi ,9917364618 </item>
+        <item> PRIMARY SCHOOL HARDOI (R.N. 2) ,Mr. Sarvesh Kumar ,Balbhadrpur ,9758264020 </item>
+        <item> JUNIOR HIGH SCHOOL HARDOI ,Mr. Vinod Kumar ,Manikpur ,9411479955 </item>
+        <item> PRIMARY SCHOOL MOHATI ,Mr. Sudhir Kumar ,Nagla Bahadur ,9412185054 </item>
+        <item> PRIMARY SCHOOL LADAMPUR ,Mr. Harigovind ,Ladampur ,9451621486 </item>
+        <item> PRIMARY SCHOOL KATHUA ,Mr. Mahaveer Singh ,Kathua ,9410269394 </item>
+        <item> PRIMARY SCHOOL NAGLA MATHIYA ,Mr. Ranveer Singh ,Nagla Mathiya ,8650267060 </item>
+        <item> PRIMARY SCHOOL SHIVPURI TIMARUA EAST ,Mr. Rakesh ,Timarua ,8859729252 </item>
+        <item> PRIMARY SCHOOL SHIVPURI TIMARUA WEST ,Mr. Durvesh Pradhan ,Nagla Ajeet ,9458276057 </item>
+        <item> PRIMARY SCHOOL MADHAIYAPUR ,Mr. Aadiram ,Madhaiyapur ,9456002594 </item>
+        <item> PRIMARY SCHOOL SARWARPUR ,Mr. Sarvesh Singh ,Sarwarpur ,9997551860 </item>
+        <item> PRIMARY SCHOOL PARASNA EAST ,Mr. Kamlesh Babu ,Gulepura ,9412184734 </item>
+        <item> PRIMARY SCHOOL PARASNA WEST ,Mr. Ramratan Singh ,Devirampur ,9267764835 </item>
+        <item> PRIMARY SCHOOL NAGLA KOOKPUR ,Mr. Rakesh Babu ,Bamuri ,9411242809 </item>
+        <item> PRIMARY SCHOOL NAGLA BANE ,Mr. Guddu Yadav ,Nagla Bane ,9917069937 </item>
+        <item> PRIMARY SCHOOL MANIGAWNA (R.N. 1) ,Mr. Rajbahadur Pradhan ,Nagla Kadhauri ,9412184272 </item>
+        <item> PRIMARY SCHOOL MANIGAWNA (R.N. 2) ,Mr. Rajveer Singh ,Nagla Kadhauri ,8126470411 </item>
+        <item> PRIMARY SCHOOL THULRAI ,Mr. Ghanshyam Singh ,Keeratpur ,9458278363 </item>
+        <item> PRIMARY SCHOOL SARSAI HELU ,Mr. Harpal Siingh ,Gopalpur ,9412638808 </item>
+        <item> PRIMARY SCHOOL NAGLA KUATIA ,Mr. Raghunath Singh ,Jagniya ,8006116983 </item>
+        <item> PRIMARY SCHOOL SHADIPUR ,Mr. Adhaar Singh ,Balpura ,9412183621 </item>
+        <item> PRIMARY SCHOOL JAGANNATHPUR ,Mr. Rambabu ,Jagannathpur ,9568887825 </item>
+        <item> JUNIOR HIGH SCHOOL KARRI ,Mr. Amarkant ,Karri ,9457413382 </item>
+        <item> JUNIOR HIGH SCHOOL KARRI ,Mr. Vijnesh Kumar ,Karri ,9528783146 </item>
+        <item> PRIMARY SCHOOL NAGLA BAHELIYA (KARRI) ,Mr. Surendra Singh ,Akbarpur ,9456251628 </item>
+        <item> PRIMARY SCHOOL KALEPURA ,Mr. Anand Swaroop ,Kalepura ,9410486770 </item>
+        <item> PRIMARY SCHOOL GANESHPUR ,Mr. Ranjeet Singh ,Ganeshpur ,9557709415 </item>
+        <item> PRIMARY SCHOOL BHOOTHA ,Mr. Sukhveer ,Bhootha ,9411017229 </item>
+        <item> PRIMARY SCHOOL BEENA EAST ,Mr. Gyanesh Babu ,Beena ,9775192408 </item>
+        <item> PRIMARY SCHOOL BEENA WEST ,Mr. Rakesh ,Beena ,9286872093 </item>
+        <item> PRIMARY SCHOOL PAROLI RAMAIN ,Mr. Jagdeesh ,Parauli ,9756724050 </item>
+        <item> PRIMARY SCHOOL KATAIYAPUR (KRAPALPUR) ,Mr. Ram Avtar Singh ,Nagla Puni ,9457120162 </item>
+        <item> PRIMARY SCHOOL HIDDAPURA ,Mr. Brijesndra Singh / Jagatram ,Damodarpur ,8954291012 </item>
+        <item> PRIMARY SCHOOL UNWA SANTOSHPUR ,Mr. Vinod Kumar ,Unwa ,9997911963 </item>
+        <item> JUNIOR HIGH SCHOOL SANTOSHPUR UNWA ,Mr. Dalveer Singh ,Santoshpur ,9473862597 </item>
+        <item> PRIMARY SCHOOL ISWARPUR ,Mr. Ajab Singh ,Nagla Vari ,9457678671 </item>
+        <item> PRIMARY SCHOOL BARALOKPUR EAST ,Mr. Surendra Singh ,Baralokpur ,9536929990 </item>
+        <item> PRIMARY SCHOOL BARALOKPUR WEST ROOM-1 ,Mr. Lakhan Singh ,Nagla Wajilal ,9761864088 </item>
+        <item> PRIMARY SCHOOL BARALOKPUR WEST ROOM-2 ,Mr. Surendra Singh Sharma ,Baralokpur ,9756673755,9411850760 </item>
+        <item> PRIMARY SCHOOL LOKPURA ,Mr. Sukhveer Singh ,Lokpur ,9627141897 </item>
+        <item> PRIMARY SCHOOL SEEPURI ,Mr. Jagannath ,Seepuri ,9675529127 </item>
+        <item> PRIMARY SCHOOL AGUPUR GOPALPUR ,Mr. Virendra Singh ,Gopalpur ,9720071229 </item>
+        <item> PRIMARY SCHOOL AGUPUR GOPALPUR ,Mr. Anoop Kumar ,Raipura ,9761177364 </item>
+        <item> PRIMARY SCHOOL AARAJI GUBARIYA ,Mr. Rajendra Singh ,Gubariya ,9897582400 </item>
+        <item> PRAHLAD ISMARAK INTER COLLEGE KRISHNA NAGAR CHOPULA ,Mr. Manoj Kumar ,Kabooli ,8006432850 </item>
+        <item> PRAHLAD ISMARAK INTER COLLEGE KRISHNA NAGAR CHOPULA ,Mr. RadheShyam ,Paahi ,9412616249 </item>
+        <item> PRIMARY SCHOOL MUGALPURA ,Mr. Mohd Anwar ,Mugalpura ,9412805160 </item>
+        <item> PRIMARY SCHOOL NAGLA SABI ,Mr. Chakki Lal ,Nagla Sabi ,9719518363 </item>
+        <item> PRIMARY SCHOOL MOONJ EAST-1 ,Mr. Sunil Kumar ,Nagla Harju ,9759382676 </item>
+        <item> PRIMARY SCHOOL MOONJ EAST-2 ,Mr. Amrit Singh ,Takipura ,9758034321 </item>
+        <item> PRIMARY SCHOOL MOONJ WEST ,Mr. Dharm Singh ,Kishanpura ,9760872764 </item>
+        <item> PRIMARY SCHOOL RAMPURA ,Mr. Surendra Singh ,Rampura ,9286897690 </item>
+        <item> PRIMARY SCHOOL FARDPURA ,Mr. Ram Yadav ,Fardpura ,9636976260 </item>
+        <item> PRIMARY SCHOOL MASNAI ,Mr. Rakesh Kumar ,Masnaai ,8449355700 </item>
+        <item> PRIMARY SCHOOL JAINPUR CHAUBIYA ,Mr. Manveer Singh ,Jainpur ,9897823444 </item>
+        <item> PRIMARY SCHOOL CHAUBIYA ,Mr. Rajbahadur ,Chaubia Padaw ,9720392186 </item>
+        <item> PRIMARY SCHOOL BAKHTYARPUR ,Mr. Avnesh Yadav ,Bakhtyarpur ,9411018181 </item>
+        <item> PRIMARY SCHOOL BHADIYAPUR RAHIN ,Mr. Prakash Dikshit ,Bhadiyapur ,9536983754 </item>
+        <item> PRIMARY SCHOOL TISUADEV ,Mr. Krishn Swaroop ,Tisuadev ,7409105579 </item>
+        <item> PRIMARY SCHOOL MOHANPUR RAHIN ,Mr. Laxman Singh ,Varua ,9012083587 </item>
+        <item> PRIMARY SCHOOL NEEWASAI ,Mr. Ashok Yadav ,Neewasai ,9719712890 </item>
+        <item> JUNIOR HIGH SCHOOL KAKARPUR ,Mr. Jaipal Singh ,Kankarpur ,9720950211 </item>
+        <item> PRIMARY SCHOOL GORA DAYALPUR ,Mr. Yadunath Singh ,Bhagipur ,9627071810 </item>
+        <item> PRIMARY SCHOOL GORA DAYALPUR ,Mr. Narendra Singh ,Nagla Jagat ,9754970313 </item>
+        <item> PRIMARY SCHOOL RAHIN ,Mr. Kaushal Kishore ,Rahin ,9410437613 </item>
+        <item> PRIMARY SCHOOL ROOP PUR SARAI BHIKHAN ,Mr. Subodh Kumar ,Raipura ,9720392914 </item>
+        <item> PRIMARY SCHOOL GULABPUR ,Mr. Vedram ,Gulapur ,9410801743 </item>
+        <item> PRIMARY SCHOOL KALYANPUR RAHIN ,Mr. Avadhesh Kumar ,Kalyanpur ,9639353530 </item>
+        <item> PRIMARY SCHOOL BIHARIPUR ,Mr. Sarvesh Singh ,Biharipur ,9759018102 </item>
+        <item> PRIMARY SCHOOL ADUPURA ,Mr. Subhash Chandra ,Adupur ,9412650657 </item>
+        <item> PRIMARY SCHOOL KESHONPUR RAHIN ,Mr. Ramveer Singh ,Keshonpur ,9675376180 </item>
+        <item> KANNYA PRIMARY SCHOOL GANGAPUR ,Mr. Rajveer Singh ,Gangapur ,9412538082 </item>
+        <item> PRIMARY SCHOOL BITHOLI ,Mr. Rajendra Singh ,Bithauli ,9259796195 </item>
+        <item> PRIMARY SCHOOL PARTAPURA ,Mr. Bhagat Singh ,Pattapur ,9759866790 </item>
+        <item> PRIMARY SCHOOL KHERA HELU ,Mr. Sarvesh Kumar ,Khera Helu ,9758902698 </item>
+        <item> PRIMARY SCHOOL KHERA HELU ,Mr. Pradeep Kumar ,Kuseli ,8954637528 </item>
+        <item> PRIMARY SCHOOL DUDHA ,Mr. Hari Shankar ,Dudha , </item>
+        <item> PRIMARY SCHOOL ADARPUR ,Mr. Rajesh Kumar ,Adarpur Punja,Etawah ,8057520367 </item>
+        <item> PRIMARY SCHOOL JABARPUR NORTH ,Mr. Ramlal ,Turaiya,Etawah ,9761754110 </item>
+        <item> PRIMARY SCHOOL NAGLA TAAL ,Mr. Omkar Singh ,Nagla Taal,Turaiya,Etawah ,9410058071 </item>
+        <item> PRIMARY SCHOOL LAKHANPUR PACHAR ,Mr. Indrpal Singh ,Veersingh pur,Pachaar,Etawah ,9719297008,9411018110 </item>
+        <item> PRIMARY SCHOOL DIBRASAI ,Mr. Kripal Singh ,Diwrasai,Etawah ,9758474203 </item>
+        <item> PRIMARY SCHOOL APOORPUR ,Mr. Gambhir Singh ,Apoorpura,Ber,Etawah ,9719467802 </item>
+        <item> KISAN HIGHER SECONDRY SCHOOL SHEKHUPUR CHANDETHI ,Mr. Raj Kumar ,Chandethi,Ber,Etawah ,9720095904 </item>
+        <item> JUNIOR HIGH SCHOOL BER EAST ,Mr. Manoj Kumar ,Ber,Etawah ,9568828134 </item>
+        <item> JUNIOR HIGH SCHOOL BER WEST ,Mr. Sadhav Singh ,Nagla Pran,Ber,Etawah ,7830518988 </item>
+        <item> PRIMARY SCHOOL NAGLA BHOOJ ,Mr. Indrpal Singh ,Nagla Bhoj,Maman,Etawah ,9411939395 </item>
+        <item> JUNIOR HIGH SCHOOL ROURA EAST ,Mr. Johri Lal ,Roura,Samthar,Etawah ,9759820305 </item>
+        <item> JUNIOR HIGH SCHOOL ROURA WEST ,Mr. Shivpal Singh ,Garhiya,Samthar,Etawah ,9458093640 </item>
+        <item> SAMUDAIK MILAN KENDRA KHIRIYA ,Mr. Uday Prakash ,Khiriya punja,Etawah ,9412659040 </item>
+        <item> PRIMARY SCHOOL BAKOLI ,Mr. Sirajuddin ,Bakauli,Punja,Etawah ,8859164281 </item>
+        <item> PRIMARY SCHOOL SHEKHUPUR PACHAR ,Mr. Ganga Singh ,Shekhupur Pachar,Punja,Etawah ,9627141915 </item>
+        <item> JUNIOR HIGH SCHOOL NAGLA JIND ,Mr. Ramesh Chandr ,Nagla Jind,Punja,Etawah ,9661104387 </item>
+        <item> PRIMARY SCHOOL SANTOSHPUR PACHAR ,Mr. RamPrakash ,Santoshpur,Punja,Etawah ,7830536131 </item>
+        <item> PRIMARY SCHOOL PUNJA ,Mr. Ajay Kumar ,Punja ,9761655388 </item>
+        <item> PRIMARY SCHOOL KESHONPUR ,Mr. Sukhram Singh ,Vaisopur,Punja,Etawah ,9411436881 </item>
+        <item> JAN HITKARI M.V. NAGLA BHAWAR ,Mr. Manoj Kumar ,Nagla Bhawar,Punja,Etawah ,9761157511 </item>
+        <item> PRIMARY SCHOOL TAKPURA ,Mr. Anil Kumar ,Takpura,Punja,Etawah ,9627567124 </item>
+        <item> PRIMARY SCHOOL BANI HARDU ,Mr. Kamlesh Kumar ,Nagariya Punja,Etawah ,9627253421 </item>
+        <item> PRIMARY SCHOOL CHAMROUA ,Mr. Jai Veer Singh ,Dudha,Punja,Etawah ,8191982539 </item>
+        <item> JILA PARISAD HIGHER SECONDRY SCHOOL SARSAINAWAR EAST ,Mr. Anuj Kumar ,Sarsainawar ,8979452728 </item>
+        <item> JILA PARISAD HIGHER SECONDRY SCHOOL SARSAINAWAR ,Mr. Rajesh Kumar ,Sarsainawar ,9997948165 </item>
+        <item> JILA PANCHAYAT HIGHER SECONDRY SCHOOL SARSAINAWAR ,Mr. Pramod Kumar ,Kachpura,Sarsainawar ,9997041297 </item>
+        <item> PRIMARY SCHOOL GIRDHARPURA ,Mr. Pramod Kumar ,Girdharpur,Kachpura,Sarsainawar ,9997041252 </item>
+        <item> PRIMARY SCHOOL NAGLA BALSINGH ,Mr. Ahibaran Singh ,Nagla Bal Singh,Sarsainawar ,9634613580,8958237140 </item>
+        <item> PRIMARY SCHOOL DOLATPUR ,Mr. Laxmi Narayan ,Daulatpur,Sarsainawar ,9760507790 </item>
+        <item> PRIMARY SCHOOL BHADARPURA ,Mr. Madan Lal ,Bhadarpura,Baralokpur,Etawah ,9719740628 </item>
+        <item> PRIMARY SCHOOL NAGLA JALAL ,Mr. Baburam ,Nagla Jala,Sarsainawar ,8126352091 </item>
+        <item> PRIMARY SCHOOL SUNDRA ,Mr. Ashok Kumar ,Sundra,Barlokpur ,9758979865 </item>
+        <item> PRIMARY SCHOOL TIRKHI TILOKPUR ,Mr. Udayveer Singh ,Tirkhi,Tilokpur ,9720393089 </item>
+        <item> PRIMARY SCHOOL NAGLA DUDHA ,Mr. Deshraj ,Dudha,Sarsainawar,Etawah ,9895245405 </item>
+        <item> JUNIOR HIGH SCHOOL KADAMPUR WEST ,Mr. Jagdeesh Chandra Katheriya ,Kadampur,Usrahar,Etawah ,9627023384 </item>
+        <item> PRIMARY SCHOOL KADAMPUR ,Mr. Brijesh Kumar ,Gokulpura,Usrahar,Etawah ,9759851743 </item>
+        <item> PRIMARY SCHOOL KISHANPURA ,Mr. Ranveer Singh ,Kishanpura,Usrahar,Etawah ,9759851743 </item>
+        <item> PRIMARY SCHOOL UDAYPUR KALA ,Mr. Ram Prakash ,Udaypura,Usrahar,Etawah ,9457619945 </item>
+        <item> PRIMARY SCHOOL MURCHA ,Mr. Mahesh Chandra ,Murcha,Usrahar,Etawah ,9997869144 </item>
+        <item> SAHKARI SANGH USRAHAR ,Mr. Shivnath Singh ,Anandpura,Usrahar,Etawah ,9897729291 </item>
+        <item> PRIMARY SCHOOL RAMPUR EAST ,Mr. Mahesh Chandra ,Kachpura,Usrahar,Etawah ,9761765806 </item>
+        <item> PRIMARY SCHOOL RAMPUR WEST ,Mr. Mahesh Chandra ,Khilchipur,Usrahar,Etawah ,9411866018 </item>
+        <item> PRIMARY SCHOOL BADKANSHAHPUR ,Mr. Raghupal Singh ,Badkanshahpur,Usrahar ,9761084276 </item>
+        <item> HIGHER PRIMARY VIDYALAYA BHARATPUR KHURD ,Mr. Rakesh Kumar ,Bharatpur Khurd,Usrahar ,9761765954 </item>
+        <item> JUNIOR HIGH SCHOOL TIPATIYA ,Mr. LalBahadur ,PalanAdda,Usrahar ,9758528139 </item>
+        <item> PT.BABU RAM MISHR ADARSH INTER COLLEGE BAMHNIPUR ,Mr. Brajbhusan ,Bamhanipur,Usrahar ,9897819565 </item>
+        <item> PRIMARY SCHOOL NAGLA LACHI ,Mr. Sudhir Kumar ,Nagla Lachi,Usrahar ,9351285791 </item>
+        <item> PRIMARY SCHOOL MOHRI NORTH ,Mr. Manni Lal ,Usrahar,Etawah ,9759622984 </item>
+        <item> PRIMARY SCHOOL MOHRI SOUTH ,Mr. Dinesh Kumar ,Usrahar Mohri,Etawah ,9634066175 </item>
+        <item> PRIMARY SCHOOL CHAMARPUR RUDRAPUR ,Mr. Maharaj Singh ,Bundela,Usrahar,Etawah ,9411350009 </item>
+        <item> PRIMARY SCHOOL NAGARIYA ,Mr. Santosh Kumar ,Nagla Bandha,Usrahar,Etawah ,9760810039 </item>
+        <item> PRIMARY SCHOOL KUITA EAST ,Mr. Neelesh ,Saraiya,Kauwa,Etawah ,9917775470 </item>
+        <item> PRIMARY SCHOOL KUITA WEST ,Mr. Naresh Chandra ,Peesipura,Kharagpur Saraiya , </item>
+        <item> PRIMARY SCHOOL NAGLA BHAGE ,Mr. Kuntesh Kumar ,Nagla Bhage,Kharagpur Saraiya ,9759406435 </item>
+        <item> PRIMARY SCHOOL KAUA EAST ,Mr. Bhure Singh ,Rampura Kaua Etawah ,9997860774 </item>
+        <item> PRIMARY SCHOOL RAMPURA ,Mr. Umesh Chandra ,Rampura Kaua Etawah ,9412880288 </item>
+        <item> JUNIOR HIGH SCHOOL DEEG ,Mr. Mahesh Chandra ,Bhutha Samthar Etawah ,9719730271 </item>
+        <item> PRIMARY SCHOOL JAFAR PURA ,Mr. Shivraj Singh ,Jafarpur Samthar Etawah ,9412572885 </item>
+        <item> PRIMARY SCHOOL DEENG ,Mr. Devendra Kumar ,Khargua Deeng Samthar ,9410437837 </item>
+        <item> PRIMARY SCHOOL NAGLA MASOOD ,Mr. Israr Khan / Masood,Samthar ,9286338107 </item>
+        <item> KANYA JUNIOR HIGH SCHOOL SAMTHAR EAST ,Mr. ShriRam Singh ,Samthar Etawah ,7830883109 </item>
+        <item> KANYA JUNIOR HIGH SCHOOL SAMTHAR WEST ,Mr. Pramod Kumar ,Nagla Mahasingh Samthar Etawah ,9410268008 </item>
+        <item> PRIMARY SCHOOL SAMTHAR ,Mr. Ashok Kumar ,Haviliya Samthar Etawah ,9410055939 </item>
+        <item> PRIMARY SCHOOL NAGLA PACHHAYA ,Dr. Prabal Pratap Singh ,Nagla Pachay Samthar Etawah ,9927575640 </item>
+        <item> PRIMARY SCHOOL AMTHARI ,Mr. Ausan Singh ,Nagla Gauda Maman Etawah ,9759483220 </item>
+        <item> PRIMARY SCHOOL AMTHARI ,Dr. Ram Ashrey ,Amthari ,9997114779 </item>
+        <item> PRIMARY SCHOOL RUDOLI ,Mr. Mauhar Singh ,Nagla Gauda Maman Etawah ,9761765534 </item>
+        <item> PRIMARY SCHOOL KURKHA ,Mr. Surendra Singh ,Kurkha Kharagpur Sariya ,9012179276 </item>
+        <item> PRIMARY SCHOOL AGHINI ,Mr. Devendra Singh ,Nagla Bijai Kahragpur Saraiya ,9759803233 </item>
+        <item> PRIMARY SCHOOL AGHINI ,Mr. Meharban Singh ,Nagla Khare Kharagpur ,9758076604 </item>
+        <item> HIGHER SECONDRY SCHOOL KHARAGPUR SARIYA ,Mr. Ramesh Chandra ,Ituahaar Kahragpur Saraiya ,9761765106 </item>
+        <item> PRIMARY SCHOOL HINDUPUR BAIDPUR ,Mr. Subedar Singh ,Baidhpur Kahragpur Saraiya ,9259835948 </item>
+        <item> PRIMARY SCHOOL SONTHANA ,Mr. Prabal Pratap Singh ,Kahragpur Saraiya Etawah ,9759927190 </item>
+        <item> PRIMARY SCHOOL RAMPURA PACHAR ,Mr. Vinod Kumar ,Chati Kharagpur Saraiya ,9719874845 </item>
+        <item> JUNIOR HIGH SCHOOL RAMPURA PACHAR ,Mr. Om Prakash ,Kalyanpur Kharagpur Saraiya ,9759781552 </item>
+        <item> PRIMARY SCHOOL BHAGWANTPURA VILL. HARKUNJALPUR ,Mr. Yogesh Kumar ,Bhagwantpura ,9719376635 </item>
+        <item> PRIMARY SCHOOL PURELA (R.N. 1) ,Mr. Dharmveer Singh ,Rajapur Puraila Etawah ,9758863611 </item>
+        <item> PRIMARY SCHOOL PURELA (R.N. 2) ,Mr. Babloo Yadav ,Puraila Etawah ,9758863594 </item>
+        <item> JUNIOR HIGH SCHOOL VISHUNPURA NAGLA GUJRATI ,Mr. Raghuraj Singh ,Nagla Kharag Puraila Etawah ,05681-680263 </item>
+        <item> KANNYA JUNIOR HIGH SCHOOL KUDRAIL EAST ,Mr. Shyam Babu ,Kudrail Etawah ,9997143412 </item>
+        <item> KANNYA JUNIOR HIGH SCHOOL KUDRAIL WEST ,Mr. Shyam Singh ,Sujainpura Kudrail Etawah ,8909436659 </item>
+        <item> PRIMARY SCHOOL KUDRAIL ,Mr. Badam Singh ,Shivra Kudrail Etawah ,9759811288 </item>
+        <item> PRIMARY SCHOOL KUDRAIL ,Mr. Pramod Kumar ,Madaiya Gadyaan Kudrail ,9410438488 </item>
+        <item> PRIMARY SCHOOL POORANPURA ,Mr. Prem Singh ,Pooranpura Kudrail Etawah ,9012691075 </item>
+        <item> PRIMARY SCHOOL BADARIYAPOOTH ,Mr. Ramveer ,Badariyapur Usrahar Etawah ,9412658989 </item>
+        <item> PRIMARY SCHOOL NAGLA CHATUR ,Mr. Ramdas ,Nagla Kua Kudrail Etawah ,9411864141 </item>
+        <item> PRIMARY SCHOOL NARAYANPUR ,Mr. Amar Singh ,Narayanpura Kudrail Etawah ,9997044544 </item>
+        <item> PRIMARY SCHOOL KESHONPUR ,Mr. Kayam Singh ,Kaishopur Kudrail Etawah ,9760434359 </item>
+        <item> PRIMARY SCHOOL KATHOTIYA ,Mr. Ram Gopal ,Kathotiya Kudrail Etawah ,9411864168 </item>
+        <item> PRIMARY SCHOOL PATIYAYAT EAST ,Mr. Rajveer Singh ,Mahua Takha Etawah ,9412185424 </item>
+        <item> PRIMARY SCHOOL PATIYAYAT WEST ,Mr. Dalveer Singh ,Mahua Takha Etawah ,9412185424 </item>
+        <item> JUNIOR HIGH SCHOOL TAKHA EAST ,Mr. Sultan Ali ,Takha Etawah ,9997746728 </item>
+        <item> JUNIOR HIGH SCHOOL TAKHA WEST ,Mr. Shri Krishna ,Virtiya Takha Etawah ,9759673607 </item>
+        <item> PRIMARY SCHOOL KAYAMPUR ROOM-1 ,Mr. Ramveer Singh ,Nagla Karan Takha Etawah ,9411018294 </item>
+        <item> PRIMARY SCHOOL KAYAMPUR ROOM-2 ,Mr. Navratan Singh ,Nagla Dukhi Takha ,9720393098 </item>
+        <item> PRIMARY SCHOOL NAGLA DULI ,Mr. Nauratan Singh ,Nagla Dukhi Takha ,9459134008 </item>
+        <item> PRIMARY SCHOOL NAGLA DHAKAU ROOM-1 ,Mr. Suresh alias Maan Singh ,Nagla Dhakau Etawah ,9761131035 </item>
+        <item> PRIMARY SCHOOL NAGLA DHAKAU ROOM-2 ,Mr. Pratap Singh And Mr. Pyarelal ,- , - </item>
+        <item> HIGHER SECONDRY SCHOOL MAMAN HIMATPUR EAST ,Mr. Ranjeet Singh ,Maaman Etawah ,9690435053 </item>
+        <item> HIGHER SECONDRY SCHOOL MAMAN HIMATPUR WEST ,Mr. Raghuveer Singh ,Maaman Etawah ,9758766956 </item>
+        <item> PRIMARY SCHOOL GANGDASPUR ,Mr. Suresh Chandra ,Nagla Khalak Maman Etawah ,9758279123 </item>
+        <item> PRIMARY SCHOOL NAGLA MAKEY ,Mr. Sharad Kumar ,Jagmohanpura Maman Etawah ,9410642223 </item>
+        <item> PRIMARY SCHOOL SARAWA NORTH ,Mr. Shivnath ,Sarava Etawah ,9758380353 </item>
+        <item> PRIMARY SCHOOL SARAWA MIDDLE ,Mr. Devi Dayal ,Maaga Sarava Etawah ,9761442543 </item>
+        <item> PRIMARY SCHOOL BELAHAR ,Mr. Ramesh Chandra ,Belahaar Sarava Etawah ,9536397997 </item>
+        <item> BALWANT SHAHEED I . C. NAGRIYA YADVAN (BELAHAR) ,Mr. Charan Singh ,Taiyapur Sarava Etawah ,9761442477 </item>
+        <item> PRIMARY SCHOOL NAGLA DHOKAL SORON ,Mr. Lal Singh ,Taiyapur Sarava Etawah ,9761442477 </item>
+        <item> PRIMARY SCHOOL RATAHRI SARAWA ,Mr. Gandarbh Singh ,Indrgarh Ratahri Etawah ,8006511300 </item>
+        <item> PRIMARY SCHOOL NAGARIYA SARAWA ,Mr. Gulab Singh ,Nagariya Sarava Etawah ,9453482719 </item>
+        <item> PRIMARY SCHOOL KAKRAHI EAST ,Mr. Sanjeev Kumar ,Kakrai Sarava Etawah ,9758184137 </item>
+        <item> PRIMARY SCHOOL KAKRAHI WEST ,Mr. Jiledar Singh ,Nagla Pachayagdalot ,9758184137 </item>
+
     </string-array>
+    <string name="title_activity_ongoing_projects">OngoingProjectsActivity</string>
+    <string name="title_activity_image_gallary">ImageGallaryActivity</string>
+    <string name="title_activity_image_detail">ImageDetailActivity</string>
+
+    <string-array name="image_ids">
+        <item>@drawable/ic_1</item>
+        <item>@drawable/ic_2</item>
+        <item>@drawable/ic_3</item>
+        <item>@drawable/ic_4</item>
+        <item>@drawable/ic_5</item>
+        <item>@drawable/ic_6</item>
+        <item>@drawable/ic_7</item>
+        <item>@drawable/ic_8</item>
+        <item>@drawable/ic_9</item>
+        <item>@drawable/ic_10</item>
+        <item>@drawable/ic_11</item>
+
+    </string-array>
+
+    <string name="title_activity_full_screen_view">FullScreenViewActivity</string>
+    <string name="title_activity_ongoing_details">Ongoing Projects</string>
+
+    <string name="title_Sarayu_canal_project">Sarayu canal project</string>
+    <string name="Short_Description_Sarayu_canal_project">The project 9 respectively Bahraich district, Shravasti, Balrampur, Gonda, Siddharth, Basti, Sant Kabir Nagar, Gorakhpur and Maharajganj are benefiting.</string>
+    <string name="Long_Description_Sarayu_canal_project">2844 crore was incurred in 32 years then, but the canals are gaps 1400 and 125 km long canal in Rapti an inch due to the digging of irrigation to farmers found no benefit. After only 2 years of socialist government declared a national project by delivering the project by spending Rs 1234 crore by 1000 and 103 km main canal and 150 km gaps Full Rjwahe / Alpikaon digging irrigation capacity was increased 63,000 hectares. </string>
+
+
+    <string name="title_Bansagar_canal_project">Bansagar canal project</string>
+    <string name="Short_Description_Bansagar_canal_project">The project will benefit the farmers of 2 districts of Allahabad and Mirzapur.</string>
+    <string name="Long_Description_Bansagar_canal_project">456 crore after the Socialist government spending 0 to 93 percent complete and has been made and it has 50 thousand hectares irrigated farmers.</string>
+
+    <string name="title_Bundelkhand_Irrigation_project">Bundelkhand Irrigation projects of region </string>
+    <string name="Short_Description_Bundelkhand_Irrigation_project">The present Government undertook to complete unfinished projects of Bundelkhand and provided Rs 1862 in the last 3 years, from the current government in the 13 unfinished irrigation projects, four projects have been completed and the remaining nine projects done in the next two years will be completed. </string>
+    <string name="Long_Description_Bundelkhand_Irrigation_project">  </string>
+
 
 </resources>

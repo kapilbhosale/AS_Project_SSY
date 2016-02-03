@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.twostars.syadav"
-    android:versionCode="7"
-    android:versionName="2.3">
+    android:versionCode="14"
+    android:versionName="3.0" >
 
     <uses-sdk
         android:minSdkVersion="11"
@@ -14,10 +14,18 @@
     <uses-permission android:name="android.permission.WAKE_LOCK" />
     <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
 
-    <permission android:name="com.example.kapil.gcm_demo.permission.C2D_MESSAGE"
+    <permission
+        android:name="com.example.kapil.gcm_demo.permission.C2D_MESSAGE"
         android:protectionLevel="signature" />
-    <uses-permission android:name="com.example.kapil.gcm_demo.permission.C2D_MESSAGE" />
 
+    <uses-permission android:name="com.example.kapil.gcm_demo.permission.C2D_MESSAGE" />
+    <android:uses-permission
+        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+        android:maxSdkVersion="18" />
+    <android:uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <android:uses-permission
+        android:name="android.permission.READ_EXTERNAL_STORAGE"
+        android:maxSdkVersion="18" />
 
     <application
         android:allowBackup="true"
@@ -27,7 +35,6 @@
         <activity
             android:name="com.amp.syadav.MainActivity"
             android:label="@string/app_name"
-            
             android:screenOrientation="portrait" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -105,18 +112,41 @@
         </activity>
         <activity
             android:name="com.amp.syadav.VidhanSabhaActivity"
-            android:label="@string/title_activity_vidhan_sabha" 
-            android:screenOrientation="portrait">
+            android:label="@string/title_activity_vidhan_sabha"
+            android:screenOrientation="portrait" >
         </activity>
+
         <receiver
             android:name="com.amp.helper.GcmBroadcastReceiver"
             android:permission="com.google.android.c2dm.permission.SEND" >
             <intent-filter>
                 <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+
                 <category android:name="com.example.gcm" />
             </intent-filter>
         </receiver>
+
         <service android:name="com.amp.helper.GcmIntentService" />
+
+        <activity
+            android:name="com.amp.syadav.OngoingProjectsActivity"
+            android:label="@string/title_activity_ongoing_projects"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.amp.syadav.ImageGallaryActivity"
+            android:label="@string/title_activity_image_gallary"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.amp.syadav.ImageDetailActivity"
+            android:label="@string/title_activity_image_detail"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.amp.syadav.OngoingDetailsActivity"
+            android:label="@string/title_activity_ongoing_details" >
+        </activity>
     </application>
 
 </manifest>

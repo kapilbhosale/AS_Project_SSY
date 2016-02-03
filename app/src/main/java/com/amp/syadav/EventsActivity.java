@@ -40,13 +40,12 @@ public class EventsActivity extends Activity
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_events);
 		headerSettings();
-		
-	//	Utility util = new Utility(getApplicationContext());
-		
+
+
 		if(Utility.isNetworkStatusAvialable(getApplicationContext()))
 		{
 		  new getEventsDataTask().execute("updates");
-		} else 
+		} else
 		{
 			Utility.showNetworkConnectionError(this);
 		}
@@ -171,8 +170,6 @@ public class EventsActivity extends Activity
 	 {
 		 ArrayList<EventsData> toReturnList = new ArrayList<EventsData>();
 		 JSONObject objJSONObject  =  new JSONObject(result);
-		 
-		
 		 JSONArray jsonObjectArr =  objJSONObject.getJSONArray("events");
 	       
 		for(int i = 0, count = jsonObjectArr.length(); i< count; i++)

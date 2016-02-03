@@ -7,15 +7,17 @@ import android.os.Bundle;
 import android.app.Activity;
 import android.content.Intent;
 import android.graphics.Bitmap;
+import android.text.Html;
 import android.view.Menu;
 import android.view.View;
+import android.webkit.WebView;
 import android.widget.ImageView;
 import android.widget.TextView;
 import com.twostars.syadav.R;
 
 public class EventDetailActivity extends Activity {
-	TextView detailsTxt;
-	TextView eventTitleTxt;
+	WebView detailsTxt;
+	WebView eventTitleTxt;
 	String detailStr,titleStr;
 	String imageName;
 	ImageView eventDetailImageView;
@@ -28,8 +30,8 @@ public class EventDetailActivity extends Activity {
 		setContentView(R.layout.activity_event_detail);
 
 		headerSettings();
-		detailsTxt = (TextView)findViewById(R.id.eventDetail);
-		eventTitleTxt = (TextView)findViewById(R.id.eventTitle);
+		detailsTxt = (WebView)findViewById(R.id.eventDetail);
+		eventTitleTxt = (WebView)findViewById(R.id.eventTitle);
 		eventDetailImageView = (ImageView)findViewById(R.id.eventDetailImageView);
 
 		
@@ -50,12 +52,26 @@ public class EventDetailActivity extends Activity {
 			if (bitmap != null) 
 			{
 				eventDetailImageView.setImageBitmap(bitmap);
-
 			}
 		}
+		//<html><font size='3'><i><body>"
+		//+ "</body></i></font></html>"
+		String eventDescTxt = "<p align=\"justify\">"
+				+detailStr + "</p>";
 
-		detailsTxt.setText (detailStr);
-		eventTitleTxt.setText (titleStr);	
+		detailsTxt.setVerticalScrollBarEnabled(false);
+		detailsTxt.loadData(eventDescTxt, "text/html; charset=UTF-8", null);
+//		detailsTxt.setText (Html.fromHtml(detailStr));
+
+
+		String eventTitlTxt = "<html><font size='3'><b><body>"
+				+"<p align=\"justify\">"
+				+titleStr + "</p> " + "</body></b></font></html>";
+
+		eventTitleTxt.setVerticalScrollBarEnabled(false);
+		eventTitleTxt.loadData(eventTitlTxt, "text/html; charset=UTF-8", null);
+
+//		eventTitleTxt.setText (titleStr);
 	}
 
 	private void headerSettings() {

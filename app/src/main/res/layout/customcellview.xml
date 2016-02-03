@@ -28,7 +28,7 @@
          android:paddingLeft="5dp"
          android:textSize="12sp" />
 
-     <TextView
+     <WebView
          android:id="@+id/eventDesc"
          android:layout_width="wrap_content"
          android:layout_height="wrap_content"
@@ -36,9 +36,9 @@
          android:layout_toRightOf="@+id/eventImageView"
          android:paddingLeft="5dp"
          android:layout_marginRight="3dp"
-         android:textStyle="italic"
-         android:ellipsize="marquee"
-         android:textSize="13sp"
+         android:clickable="false"
+         android:longClickable="false"
+         android:focusableInTouchMode="false"
           />
        
 </RelativeLayout> 
